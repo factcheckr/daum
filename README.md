@@ -1,5 +1,8 @@
 # 다음 뉴스
 
+## 팩트체크
+- 언론사별 팩트체크: https://FactCheckr.github.io/Daum/factcheck.xml
+
 ## 연재
 - JTBC 팩트체크: https://factcheckr.github.io/Daum/jtbc_factcheck.xml
 - SBS 사실은: https://factcheckr.github.io/Daum/sbs_factcheck.xml
