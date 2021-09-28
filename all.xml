@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-28T13:23:35.889Z</updated>
+    <updated>2021-09-28T14:16:06.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[곽상도 아들 '산재 위로금 44억'?..사례 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[전자발찌 훼손 전후로 여성 2명을 살해한 연쇄살인범 강윤성의 모습입니다. 이틀 전 서울경찰청이 신상정보공개 심의위원회 결정으로 주민등록증 사진을 언론에 공개했는데요. 2019년 전 남편 살해 혐의로 구속된 고유정은 경찰서에서 이동하는 영상이 공개됐죠. 누구는 사진만 누구는 영상까지 공개된 이유, 궁금하다는 분 많은데 왜 그런지 따져봤습니다. 경]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[윤석열 측 "선거 공약에는 저작권이 없다" [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20210928225704353</id>
+        <link href="https://v.daum.net/v/20210928225704353"/>
+        <updated>2021-09-28T14:16:05.443Z</updated>
+        <content type="html"><![CDATA[국민의힘 윤석열 대선 경선 예비후보. 연합뉴스  국민의힘 윤석열 대선 경선 후보 캠프 김병민 대변인은 ‘군 청약 가점’ 공약에 대해 유승민 후보가&nbsp;표절 의혹을 제기하자 지난 23일 “정책이나&nbsp;공약에는 저작권이 없다는 정치인들의 발언들이 생각난다”고 반박한 바 있다. 김 대변인은 이날&nbsp;YTN 라디오에서&nbsp;“그만큼 청년세대가 원하는 현장의 목소리를 담아&nbsp;깊]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[알고보니] 산재 신청도 안하고 44억 산재위로금..한국에서 가능? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20210928203412367</id>
         <link href="https://v.daum.net/v/20210928203412367"/>
@@ -486,12 +493,5 @@
         <link href="https://v.daum.net/v/20210924053300695"/>
         <updated>2021-09-27T06:19:30.061Z</updated>
         <content type="html"><![CDATA[핵심요약日 매체, 국내 도서 '빨간 수요일' 소개…"韓서 화제""위안부 증언은 왜곡", "日 관련 없다" 등 내용 포함日누리꾼들 "이 책을 계기로 韓이 역사 진실 알길"하지만 저자는 국내서 "소녀상 철거 외쳐온 친일파" 평가 받아'화제'라기엔 베스트셀러 1천 위에도 못 들어오프라인 예상 판매량, 리뷰 등 반응도 저조일제강점기 당시 일본에 의해 성노예 생활을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고용 동반 성장' 홍보하지만.. '쿠팡식 일자리' 정말 괜찮나요 [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20210924043028037</id>
-        <link href="https://v.daum.net/v/20210924043028037"/>
-        <updated>2021-09-27T06:19:30.062Z</updated>
-        <content type="html"><![CDATA[퇴직률, 퇴사율, 이직률. 회사를 관두는 사람이 얼마나 되는지 따져보기 위해 흔히 사용하는 개념입니다. 하지만 엄밀한 의미에서는 조금씩 차이가 납니다. 예를 들어 지난 21일 채용정보업체 '사람인'은 538개 기업을 대상으로 조사해보니 올 상반기 퇴사율이 15.7%였다고 발표했습니다. 기업 종사자가 1,000명이라면 157명이 올 상반기에 퇴사했다는 의미]]></content>
     </entry>
 </feed>

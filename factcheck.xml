@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-09-28T13:23:35.867Z</updated>
+    <updated>2021-09-28T14:16:06.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 측 "선거 공약에는 저작권이 없다" [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20210928225704353</id>
+        <link href="https://v.daum.net/v/20210928225704353"/>
+        <updated>2021-09-28T14:16:05.443Z</updated>
+        <content type="html"><![CDATA[국민의힘 윤석열 대선 경선 예비후보. 연합뉴스  국민의힘 윤석열 대선 경선 후보 캠프 김병민 대변인은 ‘군 청약 가점’ 공약에 대해 유승민 후보가&nbsp;표절 의혹을 제기하자 지난 23일 “정책이나&nbsp;공약에는 저작권이 없다는 정치인들의 발언들이 생각난다”고 반박한 바 있다. 김 대변인은 이날&nbsp;YTN 라디오에서&nbsp;“그만큼 청년세대가 원하는 현장의 목소리를 담아&nbsp;깊]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 산재 신청도 안하고 44억 산재위로금..한국에서 가능?]]></title>
         <id>https://v.daum.net/v/20210928203412367</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20210924053300695"/>
         <updated>2021-09-27T06:19:30.061Z</updated>
         <content type="html"><![CDATA[핵심요약日 매체, 국내 도서 '빨간 수요일' 소개…"韓서 화제""위안부 증언은 왜곡", "日 관련 없다" 등 내용 포함日누리꾼들 "이 책을 계기로 韓이 역사 진실 알길"하지만 저자는 국내서 "소녀상 철거 외쳐온 친일파" 평가 받아'화제'라기엔 베스트셀러 1천 위에도 못 들어오프라인 예상 판매량, 리뷰 등 반응도 저조일제강점기 당시 일본에 의해 성노예 생활을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고용 동반 성장' 홍보하지만.. '쿠팡식 일자리' 정말 괜찮나요 [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20210924043028037</id>
-        <link href="https://v.daum.net/v/20210924043028037"/>
-        <updated>2021-09-27T06:19:30.062Z</updated>
-        <content type="html"><![CDATA[퇴직률, 퇴사율, 이직률. 회사를 관두는 사람이 얼마나 되는지 따져보기 위해 흔히 사용하는 개념입니다. 하지만 엄밀한 의미에서는 조금씩 차이가 납니다. 예를 들어 지난 21일 채용정보업체 '사람인'은 538개 기업을 대상으로 조사해보니 올 상반기 퇴사율이 15.7%였다고 발표했습니다. 기업 종사자가 1,000명이라면 157명이 올 상반기에 퇴사했다는 의미]]></content>
     </entry>
 </feed>
