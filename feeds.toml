@@ -1,12 +1,3 @@
-[jtbc_factcheck]
-title = "다음 뉴스 ─ JTBC 팩트체크"
-url = "https://news.daum.net/series/1453"
-entrySelector = "ul.list_news li"
-titleSelector = "a.link_txt"
-linkSelector = "a"
-contentSelector = "p.desc_thumb"
-waitUntil = "networkidle"
-
 [sbs_factcheck]
 title = "다음 뉴스 ─ SBS 사실은"
 url = "https://news.daum.net/series/252353"
