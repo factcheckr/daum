@@ -11,3 +11,7 @@
 - KBS 팩트체크K: https://factcheckr.github.io/Daum/kbs_factcheck.xml
 - 경향신문 팩트체크: https://factcheckr.github.io/Daum/khan_factcheck.xml
 - 오마이뉴스 오마이팩트: https://factcheckr.github.io/Daum/ohmynews_ohmyfact.xml
+
+---
+
+[▶️ 언론사별 팩트체크 보기](https://github.com/FactCheckr/Media) 
