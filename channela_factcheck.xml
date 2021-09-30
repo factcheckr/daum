@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-09-30T06:20:33.187Z</updated>
+    <updated>2021-09-30T14:19:05.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비둘기 먹이 주기, 제지 못한다?]]></title>
+        <id>https://v.daum.net/v/20210930200846118</id>
+        <link href="https://v.daum.net/v/20210930200846118"/>
+        <updated>2021-09-30T14:18:58.516Z</updated>
+        <content type="html"><![CDATA[[이나연 / 서울시 마포구] "똥을 너무 많이 싸서, 저도 네 번인가 맞았고." [이모 씨 / 서울시 마포구] "여기는 너무 많아요. 먹이를 주니까 사람을 피하질 않아요." 평화의 상징이던 비둘기, 도심 속 애물단지로 전락한 지 오래죠. 그런데 이런 비둘기에 먹다 남은 음식 등을 먹이로 주는 사람들도 늘고 있는데, 이런 행동 제지할 순 없을까요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 '1급 국보'에 태극기가?]]></title>
         <id>https://v.daum.net/v/20210929200402919</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210908195057168"/>
         <updated>2021-09-27T12:12:32.224Z</updated>
         <content type="html"><![CDATA[오늘 국토교통부가 신혼부부 등의 아파트 청약 당첨 기회를 넓히겠다고 발표한 이유. 신혼부부 등 2030 세대의 청약 당첨이 그만큼 어렵다는 현실이 반영됐죠. 최근까지도 신혼부부 사이엔 청약에 당첨되려면 '위장 미혼', 그러니까 결혼은 했어도 혼인신고는 미뤄야 유리하다는 게 상식처럼 받아들여지고 있는데요. 왜 그런지, 근거는 있는지 따져 봅니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재난지원금 신청 클릭"..스미싱 구별법?]]></title>
-        <id>https://v.daum.net/v/20210907194703821</id>
-        <link href="https://v.daum.net/v/20210907194703821"/>
-        <updated>2021-09-27T12:12:32.224Z</updated>
-        <content type="html"><![CDATA[소득 하위 88% 국민에게 1인당 25만 원씩 주는 5차 재난지원금 신청이 어제 시작됐습니다. 지원금 신청이나 접수를 도와준다는 문자 메시지를 받은 분들도 많은데요. 문제는 이런 문자 상당수가 개인·금융정보를 가로채려는 스미싱 문자라는 겁니다. 어떻게 하면 스미싱 문자를 걸러낼 수 있을지 방법을 알아봤습니다. 앞서 재난지원금이 지급될 때마다 스]]></content>
     </entry>
 </feed>

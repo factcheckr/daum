@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-09-30T06:20:33.185Z</updated>
+    <updated>2021-09-30T14:19:05.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부모에게 빌린 돈은 편법 증여 아니다?]]></title>
+        <id>https://v.daum.net/v/20210930201915286</id>
+        <link href="https://v.daum.net/v/20210930201915286"/>
+        <updated>2021-09-30T14:18:43.764Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 편법 증여 포함해서 최근 부모 돈 빌려 집을 사는 젊은 층도 크게 늘고 있습니다. 온라인 상에는 부모님 돈 빌려서 주택자금 마련하는 법까지 돌고 있는데요. 부모에게 빌린 돈, 갚기만 하면 편법 증여가 아니라고 볼 수 있을까요. 뭐가 문제인지 따져봤습니다. ◀ 리포트 ▶ 편법 증여 등을 막기 위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산재 신청도 안하고 44억 산재위로금..한국에서 가능?]]></title>
         <id>https://v.daum.net/v/20210928203412367</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210819120122646"/>
         <updated>2021-09-26T22:57:58.054Z</updated>
         <content type="html"><![CDATA[긴 시간을 쏟아부었다고 해서 정규직 전환의 기회는 쉽게 찾아오지 않는다. 채용형 인턴들도 그 사실을 ‘짐작’은 하고 있다. 하지만 “정규직이 되려면 이 정도는 견뎌야 해” 혹은 “이대로만 하면 정규직이 될 수 있을 거야”라는 말이 주는 힘은 강력하다. ‘희망고문’임을 알지만 그렇다고 외면할 수 없다. 반복되는 희망고문에 스스로를 적응시킬 수 밖에 없는 구직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년엔 '발등의 불', 사회엔 '강건너 불'?]]></title>
-        <id>https://v.daum.net/v/20210819120111631</id>
-        <link href="https://v.daum.net/v/20210819120111631"/>
-        <updated>2021-09-26T22:57:58.057Z</updated>
-        <content type="html"><![CDATA[채용형 인턴은 증가하는 추세다. 임계점을 넘어 ‘채용갑질’이라는 구직자들의 호소도 이어지지만, 사회적으로는 크게 주목받지 못하고 있다. 일각에선 기업이 맞춤형 인재를 뽑기 위한 진화된 채용 트렌드 정도로 간주되고 있을 뿐이다. ‘인턴’이라는 말이 주는 어감도 한 몫을 한다. 견습생, 수련생의 의미를 갖고 있기 때문이다. “일할 기회를 통해 업무를 배웠고,]]></content>
     </entry>
 </feed>
