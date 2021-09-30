@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-09-30T05:15:48.094Z</updated>
+    <updated>2021-09-30T06:20:33.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 새만금 박물관이 양성평등에 기여한다?]]></title>
+        <id>https://v.daum.net/v/20210930145115363</id>
+        <link href="https://v.daum.net/v/20210930145115363"/>
+        <updated>2021-09-30T06:20:32.559Z</updated>
+        <content type="html"><![CDATA[새만금 간척 사업을 기념하는 박물관 건립 예산이 양성평등을 위한 예산이다… 누구나 이용하는 도서관 사업 예산도, 캠퍼스에 창업 센터 만드는 예산도 마찬가지다… 기획재정부가 국회에 제출한 내년도 예산안 내용입니다. 모두 '성(性)인지 예산'으로 분류됐습니다. 성인지 예산은 남녀별로 미치는 효과를 고려해, 평등하게 혜택을 누릴 수 있도록 짜여진 예산입니다. 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]중국 '1급 국보'에 태극기가?]]></title>
         <id>https://v.daum.net/v/20210929200402919</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20210927113600741"/>
         <updated>2021-09-27T06:19:30.051Z</updated>
         <content type="html"><![CDATA[국회에 내년도 예산안이 제출됐습니다. 올해 대비 8.3% 늘어난 604조 4천 억 원으로 사상 처음 600조 원을 돌파했습니다. 하지만, 대선 정국과 맞물리면서 예산안에 대한 관심이 덜 합니다. 그 어느 때보다 감시가 필요합니다. 기획재정부가 국회에 제출한 예산안에는 '성(性)인지 예산'이 별도 항목으로 편성돼 있습니다. 이 예산부터 살펴봤습니다. 최근 젠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 목숨도 앗아가는 보이스피싱..'감형사유' 봤더니]]></title>
-        <id>https://v.daum.net/v/20210925114008836</id>
-        <link href="https://v.daum.net/v/20210925114008836"/>
-        <updated>2021-09-27T06:19:30.057Z</updated>
-        <content type="html"><![CDATA[전화 금융사기, 보이스피싱은 이제 일상이나 다름없습니다. 특히 최근엔 코로나 극복을 위한 각종 정책이 시행되면서 "소상공인 대출을 받게 해주겠다". "초저금리 대환대출로 싼 금리로 갈아타라"는 식의 휴대전화 문자가 기승을 부립니다. 대형 금융기관이 보내는 것처럼 형식과 내용도 그럴싸 합니다. 심지어 문자엔 '보이스피싱을 주의하라'는 경고까지 들어 있습니다.]]></content>
     </entry>
 </feed>
