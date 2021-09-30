@@ -34,6 +34,16 @@ linkSelector = "a"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
 
+[jtbc_factcheck]
+title = "다음 뉴스 ─ JTBC 팩트체크"
+url = "https://news.daum.net/series/1453"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a"
+contentSelector = "p.desc_thumb"
+waitForSelector = ".list_news"
+onFail = "stale"
+
 [factcheck]
 title = "다음 뉴스 ─ 팩트체크"
 url = "https://focus.daum.net/ch/news/factcheck"
