@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-01T19:14:31.756Z</updated>
+    <updated>2021-10-01T20:18:18.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[새만금 박물관이 양성평등에 기여한다? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 이번엔 팩트체크 순서입니다. 지난주 용인에서 개인이 기르던 반달가슴곰이 탈출했지요. 지금도 400마리 정도가 죽을 날만 기다리며 철창 속에 갇혀있습니다. 몸에 좋단 이유로 곰의 쓸개, 웅담을 찾는 사람들이 아직 있는데 의학적으로 잘못된 속설이란 점을 최재원 기자가 풀어드리겠습니다. [기자] 지난 6일 경기 용인의 곰 사육장에서 탈출했다 사살된 반달]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트와이] 유럽에선 '백신 패스' 없으면 아무 데도 못 간다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211002045808303</id>
+        <link href="https://v.daum.net/v/20211002045808303"/>
+        <updated>2021-10-01T20:18:17.830Z</updated>
+        <content type="html"><![CDATA[[앵커] 정부가 백신 맞았다는 증명서를 보여줘야 식당이나 영화관 등을 이용할 수 있는 이른바 '백신 패스'를 추진하고 있습니다. 그러자, 일부에서는 유럽 사례를 들면서 개인의 자유를 지나치게 억누르는 조치라고 반발하는데요, 실제로 백신 패스를 먼저 시행한 유럽은 어떤지, 김승환 기자가 팩트체크했습니다. [기자] "조만간 백신 인증서가 없으면 어떤]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[사실확인] 모기, 한여름보다 초가을에 더 많다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211001203508871</id>
         <link href="https://v.daum.net/v/20211001203508871"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20210928225704353"/>
         <updated>2021-09-28T14:16:05.443Z</updated>
         <content type="html"><![CDATA[국민의힘 윤석열 대선 경선 예비후보. 연합뉴스  국민의힘 윤석열 대선 경선 후보 캠프 김병민 대변인은 ‘군 청약 가점’ 공약에 대해 유승민 후보가&nbsp;표절 의혹을 제기하자 지난 23일 “정책이나&nbsp;공약에는 저작권이 없다는 정치인들의 발언들이 생각난다”고 반박한 바 있다. 김 대변인은 이날&nbsp;YTN 라디오에서&nbsp;“그만큼 청년세대가 원하는 현장의 목소리를 담아&nbsp;깊]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 산재 신청도 안하고 44억 산재위로금..한국에서 가능? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20210928203412367</id>
-        <link href="https://v.daum.net/v/20210928203412367"/>
-        <updated>2021-09-28T12:27:13.114Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 곽상도 의원의 아들 50억원 퇴직금, 연일 논란이 되고 있습니다. 화천대유 대주주는 '산재위로금'이 포함된 거라고 어제 오늘 거듭 밝혔는데요. [김만배 화천대유 대주주/오늘] "나중에 필요하면 본인이 (산재신청서를) 제출할 것으로 보이는데.. 그 당시에 저희 회사에서 판단했을 때 중재해라고 판단했습니다.]]></content>
     </entry>
 </feed>
