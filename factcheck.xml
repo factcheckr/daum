@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-03T19:14:05.702Z</updated>
+    <updated>2021-10-03T20:17:27.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '콧속 면봉' 위험천만?..'타액 검사'가 대안?]]></title>
+        <id>https://v.daum.net/v/20211004044911516</id>
+        <link href="https://v.daum.net/v/20211004044911516"/>
+        <updated>2021-10-03T20:17:26.433Z</updated>
+        <content type="html"><![CDATA[[앵커] 콧속에 면봉을 넣는 코로나19 검사가 매우 위험하다는 주장이 인터넷에 퍼지고 있습니다. 이 때문에 침으로 감염 여부를 판단하는 '타액 검사'를 보편화해야 한다고 하는데요. 팩트와이, 김승환 기자가 따져봤습니다. [기자] ▶ 콧속 면봉 검사, 매우 위험하다? '코로나 검사'와 '뇌척수액'이라고 검색하면 나온다는 피해 사례들입니다. 이 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 코로나19가 남녀 고용 성별 격차 더 키웠다?]]></title>
         <id>https://v.daum.net/v/20211003203522152</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20210930145115363"/>
         <updated>2021-09-30T06:20:32.559Z</updated>
         <content type="html"><![CDATA[새만금 간척 사업을 기념하는 박물관 건립 예산이 양성평등을 위한 예산이다… 누구나 이용하는 도서관 사업 예산도, 캠퍼스에 창업 센터 만드는 예산도 마찬가지다… 기획재정부가 국회에 제출한 내년도 예산안 내용입니다. 모두 '성(性)인지 예산'으로 분류됐습니다. 성인지 예산은 남녀별로 미치는 효과를 고려해, 평등하게 혜택을 누릴 수 있도록 짜여진 예산입니다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]중국 '1급 국보'에 태극기가?]]></title>
-        <id>https://v.daum.net/v/20210929200402919</id>
-        <link href="https://v.daum.net/v/20210929200402919"/>
-        <updated>2021-09-29T11:15:57.747Z</updated>
-        <content type="html"><![CDATA[베이징 올림픽 유치 홍보영상에 한복이 등장했단 소식, 어제 전해드렸죠. 중국의 '문화 동북공정'이란 우려가 나오는데, 중국 온라인에선 이런 주장까지 나옵니다. [요우즈 / 중국 누리꾼] "중국인들이면 다 아는 처우잉 화가의 '청명상하도' 일부입니다. 다들 보면 아시겠죠. '태극기'가 한눈에 보이지 않습니까." 태극기가 이 주장대로 명나라 군대 깃]]></content>
     </entry>
 </feed>
