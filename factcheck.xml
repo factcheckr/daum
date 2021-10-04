@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-04T01:00:17.605Z</updated>
+    <updated>2021-10-04T02:11:30.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 울산 청년 자살방조 미수 사건의 전말]]></title>
+        <id>https://v.daum.net/v/20211004100900164</id>
+        <link href="https://v.daum.net/v/20211004100900164"/>
+        <updated>2021-10-04T02:11:29.630Z</updated>
+        <content type="html"><![CDATA[지난주 통계청에서 2020년 사망 원인 통계를 발표했습니다. 전반적으로 자살이 줄고 있는 추세 속에서 10대~30대의 자살률은 해를 거듭할수록 증가하고 있습니다. 청년 사망 원인 1위가 자살입니다. 사망한 10대 가운데 41.1%, 20대의 54.4%, 30대 39.4%가 스스로 목숨을 끊었습니다. 안타까운 결과에 언론 기사도 많이 나왔습니다. 원래는 왜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '콧속 면봉' 위험천만?..'타액 검사'가 대안?]]></title>
         <id>https://v.daum.net/v/20211004044911516</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20210930200846118"/>
         <updated>2021-09-30T14:19:04.356Z</updated>
         <content type="html"><![CDATA[[이나연 / 서울시 마포구] "똥을 너무 많이 싸서, 저도 네 번인가 맞았고." [이모 씨 / 서울시 마포구] "여기는 너무 많아요. 먹이를 주니까 사람을 피하질 않아요." 평화의 상징이던 비둘기, 도심 속 애물단지로 전락한 지 오래죠. 그런데 이런 비둘기에 먹다 남은 음식 등을 먹이로 주는 사람들도 늘고 있는데, 이런 행동 제지할 순 없을까요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 새만금 박물관이 양성평등에 기여한다?]]></title>
-        <id>https://v.daum.net/v/20210930145115363</id>
-        <link href="https://v.daum.net/v/20210930145115363"/>
-        <updated>2021-09-30T06:20:32.559Z</updated>
-        <content type="html"><![CDATA[새만금 간척 사업을 기념하는 박물관 건립 예산이 양성평등을 위한 예산이다… 누구나 이용하는 도서관 사업 예산도, 캠퍼스에 창업 센터 만드는 예산도 마찬가지다… 기획재정부가 국회에 제출한 내년도 예산안 내용입니다. 모두 '성(性)인지 예산'으로 분류됐습니다. 성인지 예산은 남녀별로 미치는 효과를 고려해, 평등하게 혜택을 누릴 수 있도록 짜여진 예산입니다. 그]]></content>
     </entry>
 </feed>
