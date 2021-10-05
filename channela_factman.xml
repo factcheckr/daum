@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-10-05T11:15:40.630Z</updated>
+    <updated>2021-10-05T12:26:59.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아동학대 잡은 녹음..불법 도청?]]></title>
+        <id>https://v.daum.net/v/20211005204257064</id>
+        <link href="https://v.daum.net/v/20211005204257064"/>
+        <updated>2021-10-05T12:26:26.444Z</updated>
+        <content type="html"><![CDATA[어린이집이나 유치원 학교에서 일어나는 아동학대,&nbsp;부모들은 종종 자녀의 옷에 녹음기를 숨겨&nbsp;이렇게 증거를 확보합니다 [초등학교 담임교사 (지난 2019년)] "너 ○○○하고 똑같은 취급 받고 싶어? ○○하지 말라 했지?" 그런데 당사자 허락이 없는 이런 녹음,&nbsp;불법이라 아동학대 증거로 쓰일 수 없다는&nbsp;주장도 있는데 사실인지 따져봅니다. 대화에 참여하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스 다회용컵, 몇 번 써야 친환경?]]></title>
         <id>https://v.daum.net/v/20211004202156231</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210913201151873"/>
         <updated>2021-09-30T23:31:43.371Z</updated>
         <content type="html"><![CDATA[유명 인터넷 방송 BJ가 공개한 쪽지입니다. 보낸 이는 해당 인터넷 방송 팬의 언니였는데요. 언니는, 동생이 부모의 이름으로 계정을 만들었고 BJ에게 7백만 원어치를 썼다며 환불을 요청했습니다. 미성년자가 부모 허락 없이 보낸 후원금, 돌려받을 수 있는지 따져봅니다. 후원금을 받은 BJ는, 자신이 받은 별풍선은 140만 원어치라고 밝혔습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출근중 "오늘 쉬세요" 통보는 위법?]]></title>
-        <id>https://v.daum.net/v/20210909201156926</id>
-        <link href="https://v.daum.net/v/20210909201156926"/>
-        <updated>2021-09-30T23:31:43.372Z</updated>
-        <content type="html"><![CDATA['응급 오프'라는 말 들어보셨습니까? 병원 응급실이나 중환자실에서 환자가 많이 없을 때, 출근 예정인 간호사에게 당일 갑자기 연차 등 휴가를 쓰라고 통보하는 걸 이르는 말입니다. [대학병원 간호사] "반강제적인 분위기로 응급오프 전화받으면, 그냥 너 쉬어라 이렇게." 내가 쉬길 원하는 날도 아닌데 출근 당일 갑자기 휴가를 쓰게 하는 행위, 문제]]></content>
     </entry>
 </feed>
