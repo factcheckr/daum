@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2021-10-05T04:22:55.153Z</updated>
+    <updated>2021-10-05T05:16:27.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 100만 마리 개 도축설, 팩트체크 했습니다.]]></title>
+        <id>https://v.daum.net/v/20211005132104988</id>
+        <link href="https://v.daum.net/v/20211005132104988"/>
+        <updated>2021-10-05T05:15:14.412Z</updated>
+        <content type="html"><![CDATA[개고기 식용 금지가 검토된다는 소식에 외신 반응이 뜨겁습니다. 유명 언론사는 물론, 현지 로컬 뉴스도 비중 있게 보도하고 있습니다. 외신 보도에서 공통적으로 인용하는 통계가 있습니다. "한국에서는 연간 100만 마리의 개를 식용으로 도축하고 있다"는 겁니다. 기사들을 자세히 읽다 보면, "한국 같은 나라에서 이런 일이!"라는 식의 뉘앙스가 읽힙니다. 한국의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울산 청년 자살 방조 미수사건의 전말]]></title>
         <id>https://v.daum.net/v/20211004100900164</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210902160909378"/>
         <updated>2021-09-26T22:57:48.091Z</updated>
         <content type="html"><![CDATA[넷플릭스 드라마 'D.P.'에 대한 반응이 뜨겁습니다. 군대를 다녀온 남성들의 호응이 큽니다. 드라마는 윤 일병 사망 사건이 있었던 2014년이 배경입니다. 군대 내 부조리를 적나라하고 사실적으로 담아내고 있습니다. 민방위가 끝나가는 저조차도, 군 시절의 기억이 떠올라 불편했습니다. 드라마에 대한 한 언론사 보도가 눈길을 끌었습니다. 국방부 관계자의 말을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["돈 들어가는 데 소송하겠나" 따져보니..]]></title>
-        <id>https://v.daum.net/v/20210830103300985</id>
-        <link href="https://v.daum.net/v/20210830103300985"/>
-        <updated>2021-09-26T22:57:48.092Z</updated>
-        <content type="html"><![CDATA[지난 27일 열린 민주당 미디어혁신특별위원회와 외신 기자 간담회에서 이런 질문이 나왔습니다.&nbsp; 외신 기자 : 사실 미국처럼 징벌적 손해 배상제를 선택한 나라는 법의 악용을 막기 위해 봉쇄 소송을 방지하는 내용도 담고 있는데, 이번에는 이런 내용이 없어서 악용될 소지가 있다는 우려가 나옵니다. 이런 지적에 대해서는 어떻게 생각하시는지요? 언론중재법 개정안은]]></content>
     </entry>
 </feed>
