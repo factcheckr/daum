@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-10-06T10:19:32.463Z</updated>
+    <updated>2021-10-06T11:14:59.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["꼭 갚는다"더니 "돈 못 준다"는 지인..처벌 못한다?]]></title>
+        <id>https://v.daum.net/v/20211006200651350</id>
+        <link href="https://v.daum.net/v/20211006200651350"/>
+        <updated>2021-10-06T11:14:26.546Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨은 시청자 제보로 시작합니다. "코로나로 가게 월세 낼 돈도 없다고&nbsp;하소연하는 지인에게&nbsp;남편 몰래 1천만 원을 빌려줬더니 잠적했다.&nbsp;사기죄로 고소할 수 있냐"는&nbsp;문의하셨는데, 확인해봤습니다. 지난달 개인 간 채무관계에 대한&nbsp;대법원 판결이 있었습니다. 경제적 형편이 어려운 것을 알고 빌려줬다면,&nbsp;돈을 돌려받지 못해도 처벌할 수 없다고 판단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아동학대 잡은 녹음..불법 도청?]]></title>
         <id>https://v.daum.net/v/20211005204257064</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210915200402250"/>
         <updated>2021-09-30T23:31:43.370Z</updated>
         <content type="html"><![CDATA[걸그룹 출신 배우가 SNS에 올린 사진입니다. 호텔 객실에서 담배를 들고 있거나 피우는 모습이었는데요. 호텔은 전체가 금연구역으로 알려져 있는데 객실에서 담배를 피워도 되는 건지 확인해 봤습니다. 호텔 등 관광숙박시설이 금연 시설로 지정된 건 사실입니다. [용산구 보건소 관계자] "연면적 1천 ㎡ 이상 되는 건물에서 흡연 시 (과태료) 10만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미성년자가 보낸 '별풍선', 환불 가능?]]></title>
-        <id>https://v.daum.net/v/20210913201151873</id>
-        <link href="https://v.daum.net/v/20210913201151873"/>
-        <updated>2021-09-30T23:31:43.371Z</updated>
-        <content type="html"><![CDATA[유명 인터넷 방송 BJ가 공개한 쪽지입니다. 보낸 이는 해당 인터넷 방송 팬의 언니였는데요. 언니는, 동생이 부모의 이름으로 계정을 만들었고 BJ에게 7백만 원어치를 썼다며 환불을 요청했습니다. 미성년자가 부모 허락 없이 보낸 후원금, 돌려받을 수 있는지 따져봅니다. 후원금을 받은 BJ는, 자신이 받은 별풍선은 140만 원어치라고 밝혔습니다.]]></content>
     </entry>
 </feed>
