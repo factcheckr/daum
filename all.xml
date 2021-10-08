@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-08T11:21:49.430Z</updated>
+    <updated>2021-10-08T12:32:47.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['타워팰리스 산 중국인' 팩트체크 했습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 욱일기 관련해서 바로 팩트체크 해보겠습니다. 일본 정부는 욱일기가 일본에서 널리 쓰는 디자인일 뿐이고 정치적인 의미도 없는데 한국이 트집을 잡는다고 주장합니다. 하지만, 일본 스스로 욱일기가 정치적이라고 인정하고 국제 스포츠행사에 쓰지 말자고 했던 적도 많습니다. 팩트체크, 최재원 기자입니다. [기자] [스가 요시히데/당시 일본 관방장관 (2019]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[알고보니] 영양실조로 사망 외환위기 후 최다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211008203716374</id>
+        <link href="https://v.daum.net/v/20211008203716374"/>
+        <updated>2021-10-08T12:32:47.268Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 어제 한 일간지 기사 제목입니다. 영양실조로 우리나라에서 지난해 345명이 숨졌다는 겁니다. 코로나 사태로 취약계층 결식이 늘어서 300명 넘게 숨졌다는 내용인데, 온라인에서 반향도 컸습니다. 그런데 요 몇 년 새 나온 정부발표나 기사들 보면요. 영양실조 사망자가 100명대 안팎이라고 나오는데, 어떻게]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[이슈체크K] 12~17세 백신 접종① 접종 근거 임상시험 살펴봤더니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211008142416607</id>
         <link href="https://v.daum.net/v/20211008142416607"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211004202156231"/>
         <updated>2021-10-04T12:26:10.962Z</updated>
         <content type="html"><![CDATA[최근 유명 커피 프랜차이즈 업체의 50주년 기념행사로, 음료를 사면 이렇게 무료로 다회용 컵에 담아줬는데요. 이 다회용 컵의 친환경 효과가 과장됐다는 지적이 나오는데 사실인지 따져옵니다. 다회용 컵 사용이 일회용 컵보다 친환경적일까요? 결론부터 말씀드리면 4번 이상 사용하지 않을 경우 일회용 컵보다 더 나쁜 영향을 미칩니다. 왜 그럴까요. 온]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 울산 청년 자살 방조 미수사건의 전말 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211004100900164</id>
-        <link href="https://v.daum.net/v/20211004100900164"/>
-        <updated>2021-10-04T02:10:25.879Z</updated>
-        <content type="html"><![CDATA[지난주 통계청에서 2020년 사망 원인 통계를 발표했습니다. 전반적으로 자살이 줄고 있는 추세 속에서 10대~30대의 자살률은 해를 거듭할수록 증가하고 있습니다. 청년 사망 원인 1위가 자살입니다. 사망한 10대 가운데 41.1%, 20대의 54.4%, 30대 39.4%가 스스로 목숨을 끊었습니다. 안타까운 결과에 언론 기사도 많이 나왔습니다. 원래는 왜]]></content>
     </entry>
 </feed>
