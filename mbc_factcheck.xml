@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-10-08T12:32:47.780Z</updated>
+    <updated>2021-10-08T13:22:37.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영양실조로 사망 외환위기 후 최다?]]></title>
+        <id>https://v.daum.net/v/20211008203716374</id>
+        <link href="https://v.daum.net/v/20211008203716374"/>
+        <updated>2021-10-08T13:21:56.276Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 어제 한 일간지 기사 제목입니다. 영양실조로 우리나라에서 지난해 345명이 숨졌다는 겁니다. 코로나 사태로 취약계층 결식이 늘어서 300명 넘게 숨졌다는 내용인데, 온라인에서 반향도 컸습니다. 그런데 요 몇 년 새 나온 정부발표나 기사들 보면요. 영양실조 사망자가 100명대 안팎이라고 나오는데, 어떻게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['급격한 탈원전' 탓은 아니지만..앞으론 어떨까]]></title>
         <id>https://v.daum.net/v/20211002101009103</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210901200412565"/>
         <updated>2021-10-07T09:15:08.794Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼 강력 성범죄가 잇따르면서 각종 대책이 나오고 있는데요. 특히 최근 20대 계부가 20개월 난 딸을 성폭행하고 학대하다 살해한 사건. 그 참혹성이 알려지면서 '성충동 약물치료', 이른바 '화학적 거세'로 강하게 처벌해야 한다는 목소리가 커지고 있습니다. 약물치료가 사실상 형벌이고, 재범 가능]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['튼튼한 전자발찌'로 재범 방지될까?]]></title>
-        <id>https://v.daum.net/v/20210830195819661</id>
-        <link href="https://v.daum.net/v/20210830195819661"/>
-        <updated>2021-10-07T09:15:08.796Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 전자발찌를 더 튼튼하게 만들겠다. 오늘 법무부가 내놓은 대책중 하나입니다. 그럼 전자발찌를 견고하게 만들면 문제를 해결할 수 있는 건지 따져봤습니다. 전자발찌는 지난 12년 동안 다섯 차례 성능이 개선됐습니다. 맨처음엔 우레탄 재질이었는데, 이후 띠 안에 스테인리스 스틸과 금속 철판을 넣었다가 지난해부터]]></content>
     </entry>
 </feed>
