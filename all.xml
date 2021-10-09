@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-09T02:33:27.195Z</updated>
+    <updated>2021-10-09T03:23:00.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['타워팰리스 산 중국인' 팩트체크 했습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 욱일기 관련해서 바로 팩트체크 해보겠습니다. 일본 정부는 욱일기가 일본에서 널리 쓰는 디자인일 뿐이고 정치적인 의미도 없는데 한국이 트집을 잡는다고 주장합니다. 하지만, 일본 스스로 욱일기가 정치적이라고 인정하고 국제 스포츠행사에 쓰지 말자고 했던 적도 많습니다. 팩트체크, 최재원 기자입니다. [기자] [스가 요시히데/당시 일본 관방장관 (2019]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사실은] '타워팰리스 산 중국인' ①편.. 중국인 부동산 얼마나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211009120603156</id>
+        <link href="https://v.daum.net/v/20211009120603156"/>
+        <updated>2021-10-09T03:23:00.052Z</updated>
+        <content type="html"><![CDATA[서울 강남구 고급 주상복합 아파트 타워팰리스, 최근 한 30대 중국인이 이 아파트 펜트하우스를 89억 원 주고 사들입니다. 우리나라는 규제 때문에 은행 대출받아 집사기가 어려운데, 이 중국인은 외국 은행에서 대출받은 현금으로 집을 산 걸로 알려졌습니다. 바로 논란이 일었습니다. 중국인의 한국 부동산 투자, 그냥 넘어가선 안 된다며 관련 기사에서 많은 댓글이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[이슈체크K] 12~17세 백신 접종② 외국은 어땠나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211009080008489</id>
         <link href="https://v.daum.net/v/20211009080008489"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211005204257064"/>
         <updated>2021-10-05T12:26:26.444Z</updated>
         <content type="html"><![CDATA[어린이집이나 유치원 학교에서 일어나는 아동학대,&nbsp;부모들은 종종 자녀의 옷에 녹음기를 숨겨&nbsp;이렇게 증거를 확보합니다 [초등학교 담임교사 (지난 2019년)] "너 ○○○하고 똑같은 취급 받고 싶어? ○○하지 말라 했지?" 그런데 당사자 허락이 없는 이런 녹음,&nbsp;불법이라 아동학대 증거로 쓰일 수 없다는&nbsp;주장도 있는데 사실인지 따져봅니다. 대화에 참여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '백신 맞고 항체 생성 여부' 항체검사로 안다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211005202403774</id>
-        <link href="https://v.daum.net/v/20211005202403774"/>
-        <updated>2021-10-05T12:26:51.525Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번엔 백신을 이미 맞으신 분들이 궁금해하실 만한 내용입니다. 백신은 다 맞았는데 내 몸에, 항체가 제대로 생긴 건지 혹시, 돌파감염 되는 건 아닌지 걱정이 돼서 항체 검사를 해봤거나, 해보려는 분들 계실 겁니다. 병원에서 돈내고 검사 받기도 하고, 약국에서 검사 도구를 팔기도 하는데요, 이 결과를 너무 믿어서는 안 된다고 합니다. 팩트체크팀 최재]]></content>
     </entry>
 </feed>
