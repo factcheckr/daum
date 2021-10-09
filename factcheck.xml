@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-09T20:22:13.659Z</updated>
+    <updated>2021-10-09T21:20:14.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 백신패스 없으면 대선 투표도 못 한다?]]></title>
+        <id>https://v.daum.net/v/20211010052808106</id>
+        <link href="https://v.daum.net/v/20211010052808106"/>
+        <updated>2021-10-09T21:20:14.192Z</updated>
+        <content type="html"><![CDATA[[앵커] 정부가 단계적 일상 회복과 함께 공식화한 '백신 패스' 관련 논란이 끊이지 않고 있습니다. 백신 패스가 없으면 대선 투표도 못 하게 될 것이라는 주장까지 나오고 있는데요, 사실인지, 김승환 기자가 따져봤습니다. [기자] ▶패스 없으면 대선 투표도 못 한다? 회원 수 200만 명에 달하는 유명 인터넷 카페입니다. '백신 패스'를 비판하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '타워팰리스 산 중국인' ①편.. 중국인 부동산 얼마나?]]></title>
         <id>https://v.daum.net/v/20211009120603156</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211006200651350"/>
         <updated>2021-10-06T11:14:58.976Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 시청자 제보로 시작합니다. "코로나로 가게 월세 낼 돈도 없다고&nbsp;하소연하는 지인에게&nbsp;남편 몰래 1천만 원을 빌려줬더니 잠적했다.&nbsp;사기죄로 고소할 수 있냐"는&nbsp;문의하셨는데, 확인해봤습니다. 지난달 개인 간 채무관계에 대한&nbsp;대법원 판결이 있었습니다. 경제적 형편이 어려운 것을 알고 빌려줬다면,&nbsp;돈을 돌려받지 못해도 처벌할 수 없다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]아동학대 잡은 녹음..불법 도청?]]></title>
-        <id>https://v.daum.net/v/20211005204257064</id>
-        <link href="https://v.daum.net/v/20211005204257064"/>
-        <updated>2021-10-05T12:26:58.816Z</updated>
-        <content type="html"><![CDATA[어린이집이나 유치원 학교에서 일어나는 아동학대,&nbsp;부모들은 종종 자녀의 옷에 녹음기를 숨겨&nbsp;이렇게 증거를 확보합니다 [초등학교 담임교사 (지난 2019년)] "너 ○○○하고 똑같은 취급 받고 싶어? ○○하지 말라 했지?" 그런데 당사자 허락이 없는 이런 녹음,&nbsp;불법이라 아동학대 증거로 쓰일 수 없다는&nbsp;주장도 있는데 사실인지 따져봅니다. 대화에 참여]]></content>
     </entry>
 </feed>
