@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-10T13:26:24.391Z</updated>
+    <updated>2021-10-10T14:20:59.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['타워팰리스 산 중국인' ①편.. 중국인 부동산 얼마나? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 욱일기 관련해서 바로 팩트체크 해보겠습니다. 일본 정부는 욱일기가 일본에서 널리 쓰는 디자인일 뿐이고 정치적인 의미도 없는데 한국이 트집을 잡는다고 주장합니다. 하지만, 일본 스스로 욱일기가 정치적이라고 인정하고 국제 스포츠행사에 쓰지 말자고 했던 적도 많습니다. 팩트체크, 최재원 기자입니다. [기자] [스가 요시히데/당시 일본 관방장관 (2019]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트와이] 백신패스 없으면 대선 투표도 못 한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211010224019883</id>
+        <link href="https://v.daum.net/v/20211010224019883"/>
+        <updated>2021-10-10T14:20:58.616Z</updated>
+        <content type="html"><![CDATA[[앵커] 정부가 단계적 일상 회복과 함께 공식화한 '백신 패스' 관련 논란이 끊이지 않고 있습니다. 백신 패스가 없으면 대선 투표도 못 하게 될 것이라는 주장까지 나오고 있는데요, 사실인지, 김승환 기자가 따져봤습니다. [기자] ▶패스 없으면 대선 투표도 못 한다? 회원 수 200만 명에 달하는 유명 인터넷 카페입니다. '백신 패스'를 비판하는]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[홍준표 "기관만 이용하는 공매도, 개인에게 불리하니 폐지해야" [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211010092414944</id>
         <link href="https://v.daum.net/v/20211010092414944"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211007201757072"/>
         <updated>2021-10-07T12:28:04.574Z</updated>
         <content type="html"><![CDATA[경찰이 사무실에 들이닥칩니다. "움직이지 마세요. 손 들어요 손." 문자나 SNS 메시지로 고수익을 보장한다며 주식 유료 대화방 가입을 권유해 60억 원을 챙긴 일당을 붙잡은 겁니다. 주가 정보를 보내주는 식으로 유료 회원 가입을 권유하는 이런 문자, 많이 받으셨을 텐데 문제없는지 따져봅니다. 팩트맨도 얼마 전 이런 전화를 받았습니다. [A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '타워팰리스 산 중국인' 팩트체크 했습니다 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211007105400062</id>
-        <link href="https://v.daum.net/v/20211007105400062"/>
-        <updated>2021-10-07T02:06:21.761Z</updated>
-        <content type="html"><![CDATA[최근 30대 중국인이 89억 원에 육박하는 서울 강남구 타워팰리스를 은행 대출로 매입한 사실이 알려지면서 논란이 일었습니다. 407.96㎡(123평형) 복층 구조로, 아파트 내에서도 몇 채 안 되는 펜트하우스입니다. 정부는 은행 대출 기준을 꾸준히 강화해 왔습니다. 2019년부터는 투기지역과 투기과열지역에서 15억 원 이상 주택을 매입할 때, 주택담보대출을]]></content>
     </entry>
 </feed>
