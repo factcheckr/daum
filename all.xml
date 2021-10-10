@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-09T23:22:31.333Z</updated>
+    <updated>2021-10-10T01:03:02.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['타워팰리스 산 중국인' ①편.. 중국인 부동산 얼마나? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 욱일기 관련해서 바로 팩트체크 해보겠습니다. 일본 정부는 욱일기가 일본에서 널리 쓰는 디자인일 뿐이고 정치적인 의미도 없는데 한국이 트집을 잡는다고 주장합니다. 하지만, 일본 스스로 욱일기가 정치적이라고 인정하고 국제 스포츠행사에 쓰지 말자고 했던 적도 많습니다. 팩트체크, 최재원 기자입니다. [기자] [스가 요시히데/당시 일본 관방장관 (2019]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[홍준표 "기관만 이용하는 공매도, 개인에게 불리하니 폐지해야" [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211010092414944</id>
+        <link href="https://v.daum.net/v/20211010092414944"/>
+        <updated>2021-10-10T01:03:01.346Z</updated>
+        <content type="html"><![CDATA[국민의힘 대권 주자인 홍준표 의원. 뉴시스  국민의힘 대권 주자 중 하나인 홍준표 의원이 최근 주식 공매도 제도의 폐지를 촉구하고 나섰다. 10월 들어 국내 증시가 하락세를 거듭하고 있는 상황에서 공매도 제도가 주식시장의 폭락을 더욱 부추기고 있는게 아니냐는 목소리가 나오고 있는 상황에서 주식투자를 하고 있는 ‘동학개미’들의 표심을 얻기 위한 메시지로]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트와이] 백신패스 없으면 대선 투표도 못 한다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211010052808106</id>
         <link href="https://v.daum.net/v/20211010052808106"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211006204320441"/>
         <updated>2021-10-06T12:27:23.095Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 최근 스타벅스의 취업 규칙이 공개됐는데 사람들을 의아하게 만든 내용이 있었습니다. 회사가 사원의 소지품을 검사할 수 있다는 내용이었는데요. 경찰도 아닌 회사가 사원의 소지품을 검사하는 게 가능할까요? 김태림 기자가 사실 확인해봤습니다. 【 기자 】 회사마다 취업규칙이 있다는 것, 알고 계실 겁니다. 근로자에게 적용되는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]"꼭 갚는다"더니 "돈 못 준다"는 지인..처벌 못한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211006200651350</id>
-        <link href="https://v.daum.net/v/20211006200651350"/>
-        <updated>2021-10-06T11:14:26.546Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 시청자 제보로 시작합니다. "코로나로 가게 월세 낼 돈도 없다고&nbsp;하소연하는 지인에게&nbsp;남편 몰래 1천만 원을 빌려줬더니 잠적했다.&nbsp;사기죄로 고소할 수 있냐"는&nbsp;문의하셨는데, 확인해봤습니다. 지난달 개인 간 채무관계에 대한&nbsp;대법원 판결이 있었습니다. 경제적 형편이 어려운 것을 알고 빌려줬다면,&nbsp;돈을 돌려받지 못해도 처벌할 수 없다고]]></content>
     </entry>
 </feed>
