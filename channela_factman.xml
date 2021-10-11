@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-10-11T14:21:07.834Z</updated>
+    <updated>2021-10-11T15:21:39.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[물놀이 카페도 안전요원 배치 필수?]]></title>
+        <id>https://v.daum.net/v/20211011203058170</id>
+        <link href="https://v.daum.net/v/20211011203058170"/>
+        <updated>2021-10-11T15:20:14.942Z</updated>
+        <content type="html"><![CDATA[청와대 국민청원에 올라온 글입니다. 지난달 수영장 카페에서 발생한 사고로&nbsp;6살 아이가 숨졌다는 내용인데요. 구조요원이 없어서 적절한 도움을&nbsp;받지 못했다는 주장인데, 이런 수영장 카페에도&nbsp;안전요원, 배치해야 하는지 따져봅니다. 사건이 발생한 카페입니다. 성인 하반신 깊이의 풀장 두 개가 설치돼 있고,&nbsp;식음료를 먹고 마실 수 있게 돼 있습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김미영 팀장'의 주식 종목 추천 문자, 불법?]]></title>
         <id>https://v.daum.net/v/20211007201757072</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210917204756562"/>
         <updated>2021-09-30T23:31:43.367Z</updated>
         <content type="html"><![CDATA[[리포트] 인터넷에 올라온 글입니다. 코로나 상생 국민지원금 25만 원을 부모님 가게에서 결제하고, 부가가치세를 뺀 현금 22만 5천 원을 돌려받아도 되냐고 문의하는 글인데요. 이렇게 재난지원금을 쓰는 대신 현금화 할 방법 없느냐는 질문, 온라인에 잇따르는데 문제없는지 따져봤습니다. 이번 5차 지원금은 신용카드나 체크카드, 지역사랑상품권 등으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS가 받은 외교관 여권은 일회용?]]></title>
-        <id>https://v.daum.net/v/20210916210156021</id>
-        <link href="https://v.daum.net/v/20210916210156021"/>
-        <updated>2021-09-30T23:31:43.369Z</updated>
-        <content type="html"><![CDATA[[리포트] 이틀 전 청와대입니다. 방탄소년단, BTS가 문재인 대통령과 주먹 인사를 나누더니 한 명씩 호명되는데요. "임명장 김남준. 미래 세대와 문화를 위한 대통령 특별 사절에 임함." BTS 멤버들의 유엔총회 참석을 앞두고 특사로 위촉된 겁니다. 눈길을 끄는건 붉은색 외교관 여권이었는데요. 어떤 자격으로 받아서, 어떻게 사용하는 건지 알아]]></content>
     </entry>
 </feed>
