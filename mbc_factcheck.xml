@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-10-11T11:20:22.697Z</updated>
+    <updated>2021-10-11T12:30:33.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["좋아하는 형님들"..김만배 어떤 기사 썼길래]]></title>
+        <id>https://v.daum.net/v/20211011202810134</id>
+        <link href="https://v.daum.net/v/20211011202810134"/>
+        <updated>2021-10-11T12:27:04.666Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘 화천대유 대주주 김만배 씨가 검찰에 출석했죠. 밝혀져야할 대장동 특혜 의혹 중에는 화천대유의 초호화 법률고문단의 역할, 이에 대한 뇌물성 대가 여부도 포함돼 있는데요. 법조기자로만 20년 가까운 세월을 보낸 김만배 씨는 화천대유 고문단을 "좋아하는 형님들"이라고 불렀습니다. [김만배/화천대유 대주주]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영양실조로 사망 외환위기 후 최다?]]></title>
         <id>https://v.daum.net/v/20211008203716374</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210903202215198"/>
         <updated>2021-10-07T09:15:08.793Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘 법무부가 강윤성 사건 등을 계기로 전자발찌 훼손과 재범 방지 대책을 내놨습니다. 신속수사팀을 설치하고, 경찰 등 유관기관과의 공조와 재범 우려가 높은 고위험군 감독을 강화하겠다는게.. 주요 내용입니다. 그런데 이번 사건, 더 충격적이었던 관리 실태 중 하나가 어떻게 강윤성 같은 강력 성범죄자가 여성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성충동 약물치료' 재범률 0% 믿을 만한가]]></title>
-        <id>https://v.daum.net/v/20210901200412565</id>
-        <link href="https://v.daum.net/v/20210901200412565"/>
-        <updated>2021-10-07T09:15:08.794Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼 강력 성범죄가 잇따르면서 각종 대책이 나오고 있는데요. 특히 최근 20대 계부가 20개월 난 딸을 성폭행하고 학대하다 살해한 사건. 그 참혹성이 알려지면서 '성충동 약물치료', 이른바 '화학적 거세'로 강하게 처벌해야 한다는 목소리가 커지고 있습니다. 약물치료가 사실상 형벌이고, 재범 가능]]></content>
     </entry>
 </feed>
