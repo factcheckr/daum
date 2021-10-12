@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-10-12T10:19:35.654Z</updated>
+    <updated>2021-10-12T11:19:19.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아파트 숨은 공간 찾아드려요" 피트 확장은 불법?]]></title>
+        <id>https://v.daum.net/v/20211012201005053</id>
+        <link href="https://v.daum.net/v/20211012201005053"/>
+        <updated>2021-10-12T11:17:04.568Z</updated>
+        <content type="html"><![CDATA[피트 공간이라고 들어보셨나요. 이렇게 주택 평면도를 보면 X 표시가 돼 있거나&nbsp;텅 빈 공간으로 표시돼 있는데요. 온라인에선 이 공간 확장 전후를 비교하면서&nbsp;숨은 면적 10㎡를 찾아냈다는 글도 올라와 있는데,&nbsp;과연 문제없는지 따져보겠습니다. 피트 공간을 드레스룸이나 팬트리로 개조해도 될까요? 결론부터 말씀드리면, 불법입니다. 아파트 일부 세대 안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물놀이 카페도 안전요원 배치 필수?]]></title>
         <id>https://v.daum.net/v/20211011203058170</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210922203601277"/>
         <updated>2021-09-30T23:31:43.366Z</updated>
         <content type="html"><![CDATA[최근 코로나 백신 접종 완료자 인센티브 확대로, 거리두기 4단계인 수도권에선 최대 6인, 3단계인 비수도권은 최대 8인까지 사적 모임이 가능한데요. 자영업자들의 온라인 커뮤니티에선 백신 접종을 마쳤다고 거짓말을 하거나 증명서도 없이 접종 완료라고 우기는 손님들이 많다는 글도 올라오고 있습니다. 거짓말을 하는 손님에게 속았을 때도 방역수칙 위반 책임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재난지원금 현금화하려 '카드깡'?]]></title>
-        <id>https://v.daum.net/v/20210917204756562</id>
-        <link href="https://v.daum.net/v/20210917204756562"/>
-        <updated>2021-09-30T23:31:43.367Z</updated>
-        <content type="html"><![CDATA[[리포트] 인터넷에 올라온 글입니다. 코로나 상생 국민지원금 25만 원을 부모님 가게에서 결제하고, 부가가치세를 뺀 현금 22만 5천 원을 돌려받아도 되냐고 문의하는 글인데요. 이렇게 재난지원금을 쓰는 대신 현금화 할 방법 없느냐는 질문, 온라인에 잇따르는데 문제없는지 따져봤습니다. 이번 5차 지원금은 신용카드나 체크카드, 지역사랑상품권 등으로]]></content>
     </entry>
 </feed>
