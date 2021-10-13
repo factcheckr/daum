@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-13T11:19:48.143Z</updated>
+    <updated>2021-10-13T12:31:24.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 핵개발 뒤 분쟁 없어졌다?..홍준표 발언 따져보니]]></title>
+        <id>https://v.daum.net/v/20211013210506930</id>
+        <link href="https://v.daum.net/v/20211013210506930"/>
+        <updated>2021-10-13T12:31:23.744Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번에는 대선주자 발언을 '팩트체크' 합니다. 홍준표 후보입니다. 북한 핵에 맞서서 우리도 핵무장 하자 선거 때면 반복되는 주장입니다. 홍준표 후보는 "인도와 파키스탄이 핵 개발하고 난 뒤에 분쟁이 없어졌다"고 주장했습니다. 핵무장을 주장하는 근거로 삼은 건데, 정말 그럴지 팩트체크팀을 이끌고 있는 최재원 기자가 따져봤습니다. [기자] 그제(11일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]중고명품 거래는 '세금 프리'?]]></title>
+        <id>https://v.daum.net/v/20211013201957248</id>
+        <link href="https://v.daum.net/v/20211013201957248"/>
+        <updated>2021-10-13T12:31:23.745Z</updated>
+        <content type="html"><![CDATA[수천만 원을 호가하는&nbsp;명품 수입 시계와 전기 자동차까지. 모두 중고품 거래 애플리케이션에&nbsp;매물로 올라온 물건입니다. 이렇게 온라인 중고 거래 장터가&nbsp;고가 제품이나 명품 거래 공간으로 급부상했지만&nbsp;세금은 내지 않는 '탈세 루트'가 되고 있다는 지적이 나오는데, 근거 있는지 따져봅니다. 집에서 안 쓰던 중고품을 팔아서 번 소득도&nbsp;세금, 내야 할까요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 음주측정 거부가 음주운전보다 처벌 덜하다?]]></title>
         <id>https://v.daum.net/v/20211013160234890</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20211011202810134"/>
         <updated>2021-10-11T12:30:33.096Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘 화천대유 대주주 김만배 씨가 검찰에 출석했죠. 밝혀져야할 대장동 특혜 의혹 중에는 화천대유의 초호화 법률고문단의 역할, 이에 대한 뇌물성 대가 여부도 포함돼 있는데요. 법조기자로만 20년 가까운 세월을 보낸 김만배 씨는 화천대유 고문단을 "좋아하는 형님들"이라고 불렀습니다. [김만배/화천대유 대주주]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '타워팰리스 산 중국인' ②편.. 외국인 부동산 규제 가능?]]></title>
-        <id>https://v.daum.net/v/20211011123008585</id>
-        <link href="https://v.daum.net/v/20211011123008585"/>
-        <updated>2021-10-11T04:22:13.578Z</updated>
-        <content type="html"><![CDATA[서울 강남구 고급 주상복합 아파트 타워팰리스, 최근 한 30대 중국인이 이 아파트 펜트하우스를 89억 원 주고 사들입니다. 우리나라는 규제 때문에 은행 대출받아 집사기가 어려운데, 이 중국인은 외국 은행에서 대출받은 현금으로 집을 산 걸로 알려졌습니다. 바로 논란이 일었습니다. 중국인의 한국 부동산 투자, 그냥 넘어가선 안 된다며 관련 기사에서 많은 댓글이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 백신패스 없으면 대선 투표도 못 한다?]]></title>
-        <id>https://v.daum.net/v/20211010224019883</id>
-        <link href="https://v.daum.net/v/20211010224019883"/>
-        <updated>2021-10-10T14:20:58.616Z</updated>
-        <content type="html"><![CDATA[[앵커] 정부가 단계적 일상 회복과 함께 공식화한 '백신 패스' 관련 논란이 끊이지 않고 있습니다. 백신 패스가 없으면 대선 투표도 못 하게 될 것이라는 주장까지 나오고 있는데요, 사실인지, 김승환 기자가 따져봤습니다. [기자] ▶패스 없으면 대선 투표도 못 한다? 회원 수 200만 명에 달하는 유명 인터넷 카페입니다. '백신 패스'를 비판하는]]></content>
     </entry>
 </feed>
