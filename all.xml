@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-13T06:23:37.454Z</updated>
+    <updated>2021-10-13T07:21:00.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['타워팰리스 산 중국인' ③편..다른 나라 어떻게? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 욱일기 관련해서 바로 팩트체크 해보겠습니다. 일본 정부는 욱일기가 일본에서 널리 쓰는 디자인일 뿐이고 정치적인 의미도 없는데 한국이 트집을 잡는다고 주장합니다. 하지만, 일본 스스로 욱일기가 정치적이라고 인정하고 국제 스포츠행사에 쓰지 말자고 했던 적도 많습니다. 팩트체크, 최재원 기자입니다. [기자] [스가 요시히데/당시 일본 관방장관 (2019]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사실확인] 음주측정 거부가 음주운전보다 처벌 덜하다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211013160234890</id>
+        <link href="https://v.daum.net/v/20211013160234890"/>
+        <updated>2021-10-13T07:20:59.883Z</updated>
+        <content type="html"><![CDATA[어제(12일) 구속된 장용준 씨의 혐의 가운데 하나는 음주측정 거부입니다. 경찰은 사건 당일 장 씨가 술을 마시는 장면이 담긴 CCTV를 확보한 것으로 알려졌지만, 장 씨가 음주측정을 거부하면서 결국 음주운전 혐의는 적용하지 못했는데요. 행여나 음주측정을 거부해도 음주운전보다 처벌이 가볍다면 음주운전자들이 측정을 거부하지 않을까, 우려도 됩니다. 실제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[사실은] '타워팰리스 산 중국인' ③편..다른 나라 어떻게? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211013105709660</id>
         <link href="https://v.daum.net/v/20211013105709660"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211010224019883"/>
         <updated>2021-10-10T14:20:58.616Z</updated>
         <content type="html"><![CDATA[[앵커] 정부가 단계적 일상 회복과 함께 공식화한 '백신 패스' 관련 논란이 끊이지 않고 있습니다. 백신 패스가 없으면 대선 투표도 못 하게 될 것이라는 주장까지 나오고 있는데요, 사실인지, 김승환 기자가 따져봤습니다. [기자] ▶패스 없으면 대선 투표도 못 한다? 회원 수 200만 명에 달하는 유명 인터넷 카페입니다. '백신 패스'를 비판하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍준표 "기관만 이용하는 공매도, 개인에게 불리하니 폐지해야" [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211010092414944</id>
-        <link href="https://v.daum.net/v/20211010092414944"/>
-        <updated>2021-10-10T01:03:01.346Z</updated>
-        <content type="html"><![CDATA[국민의힘 대권 주자인 홍준표 의원. 뉴시스  국민의힘 대권 주자 중 하나인 홍준표 의원이 최근 주식 공매도 제도의 폐지를 촉구하고 나섰다. 10월 들어 국내 증시가 하락세를 거듭하고 있는 상황에서 공매도 제도가 주식시장의 폭락을 더욱 부추기고 있는게 아니냐는 목소리가 나오고 있는 상황에서 주식투자를 하고 있는 ‘동학개미’들의 표심을 얻기 위한 메시지로]]></content>
     </entry>
 </feed>
