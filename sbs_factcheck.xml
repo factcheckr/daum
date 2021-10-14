@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2021-10-14T01:00:25.128Z</updated>
+    <updated>2021-10-14T02:04:42.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["청년들 목숨이 낙엽처럼"..김용균 전과 후, 얼마나 달라졌나?]]></title>
+        <id>https://v.daum.net/v/20211014100600742</id>
+        <link href="https://v.daum.net/v/20211014100600742"/>
+        <updated>2021-10-14T02:02:50.871Z</updated>
+        <content type="html"><![CDATA[지난 6일, 전남 여수에서 특성화고 학생 홍정운 군이 목숨을 잃었습니다. 바닷속을 잠수해 요트를 청소하는 현장 실습 중이었습니다. 12kg짜리 납덩이가 달린 허리 벨트를 풀지 못해 밑으로 가라 앉았습니다.&nbsp; 홍 군은 잠수 자격증도 없었고, 물을 무서워해 수영도 제대로 못했습니다. 실습 계획서에는 홍 군의 임무가 승선 보조, 고객 응대 서비스로 적혀 있었습니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['타워팰리스 산 중국인' ③편..다른 나라 어떻게?]]></title>
         <id>https://v.daum.net/v/20211013105709660</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210915101801233"/>
         <updated>2021-10-07T13:26:21.682Z</updated>
         <content type="html"><![CDATA[지난 6일부터 코로나19 상생지원금, 이른바 '재난지원금' 신청과 지급이 시작됐습니다. 이번에는 전 국민에게 지급하는 게 아니라 말도 많고 탈도 많습니다. 그런데, 기준을 갖춘 외국인에게 재난지원금을 지급한다는 소식이 나오면서 논란이 불거졌습니다. 한국인도 12%나 받지 못하는데, 이걸 왜 세금도 안 내는 외국인에게 지급하느냐는 겁니다. SNS에서는 "혈세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전자발찌 재범률이 줄고 있다" 따져보니]]></title>
-        <id>https://v.daum.net/v/20210911092400837</id>
-        <link href="https://v.daum.net/v/20210911092400837"/>
-        <updated>2021-10-07T13:26:21.686Z</updated>
-        <content type="html"><![CDATA[지난주 대한민국은 '전자발찌' 논란으로 뜨거웠습니다. 전자발찌를 훼손하고 여성 2명을 살해한 강윤성 사건 이후, 한 남성이 전자발찌를 차고 자신의 집에서 미성년자를 성폭행했던 일이 뒤늦게 알려지기도 했습니다. 전자발찌를 차고 같은 범죄를 또 저질렀습니다. 전자발찌 제도가 제대로 운영되지 않고 있다는 우려의 목소리가 나왔습니다. 법무부는 강윤성이 전자발찌를]]></content>
     </entry>
 </feed>
