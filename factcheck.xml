@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-18T11:19:38.358Z</updated>
+    <updated>2021-10-18T12:32:55.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://v.daum.net/v/20211018201047917</id>
         <link href="https://v.daum.net/v/20211018201047917"/>
         <updated>2021-10-18T11:19:37.827Z</updated>
-        <content type="html"><![CDATA[나흘 전 MRI, 즉 자기공명 영상을 찍으려던 60대 환자가 갑자기 날아온 산소통에 몸이 끼어 숨을 거두는 안타까운 사고가 발생했습니다 MRI 기계가 작동할 때 발생하는 자성이 철제 산소통을 자석처럼 끌어당겨서 일어난 사고였는데, MRI의 자성, 얼마나 강한지 확인해 봅니다. MRI 기계의 작동 원리를 볼까요. 환자가 누운 채 들어가는 원통 모양 기]]></content>
+        <content type="html"><![CDATA[나흘 전 MRI, 즉 자기공명 영상을 찍으려던 60대 환자가 갑자기 날아온 산소통에 몸이 끼어 숨을 거두는 안타까운 사고가 발생했습니다. MRI 기계가 작동할 때 발생하는 자성이 철제 산소통을 자석처럼 끌어당겨서 일어난 사고였는데, MRI의 자성, 얼마나 강한지 확인해 봅니다. MRI 기계의 작동 원리를 볼까요. 환자가 누운 채 들어가는 원통]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 상속세 부담이 OECD 국가 중 두 번째로 크다고?]]></title>
