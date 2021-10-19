@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-10-19T13:28:24.834Z</updated>
+    <updated>2021-10-19T14:18:46.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아파트 주차장 알박기, 단속 못한다?]]></title>
+        <id>https://v.daum.net/v/20211019200300948</id>
+        <link href="https://v.daum.net/v/20211019200300948"/>
+        <updated>2021-10-19T14:18:13.906Z</updated>
+        <content type="html"><![CDATA[최근 온라인에서 화제가 된 사진입니다. 아파트 주차장 바닥에 놓인 상자에 붙은 안내문인데. "독서실에서 공부 중인 고3 아들을 데리러 가니, 다른 곳에 주차해달라"고 적혀 있습니다. 공용 공간인 아파트 주차장을 사유지처럼 알박기한다는 비판이 나오는데, 제재할 방법있는지 확인해봅니다. 아파트 주차장을 임의로 점유하면 단속 가능하다는 주장. 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산소통까지 빨아들인 MRI, 거대 자석?]]></title>
         <id>https://v.daum.net/v/20211018201047917</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210929200402919"/>
         <updated>2021-09-30T23:31:43.362Z</updated>
         <content type="html"><![CDATA[베이징 올림픽 유치 홍보영상에 한복이 등장했단 소식, 어제 전해드렸죠. 중국의 '문화 동북공정'이란 우려가 나오는데, 중국 온라인에선 이런 주장까지 나옵니다. [요우즈 / 중국 누리꾼] "중국인들이면 다 아는 처우잉 화가의 '청명상하도' 일부입니다. 다들 보면 아시겠죠. '태극기'가 한눈에 보이지 않습니까." 태극기가 이 주장대로 명나라 군대 깃]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어게임 전화번호, 매매 가능?]]></title>
-        <id>https://v.daum.net/v/20210928201559037</id>
-        <link href="https://v.daum.net/v/20210928201559037"/>
-        <updated>2021-09-30T23:31:43.363Z</updated>
-        <content type="html"><![CDATA[생존 게임 참가자를 소재로 한 드라마 '오징어게임'의 인기가 높은데요. 드라마 속 특정 장면도 논란이 되고 있습니다. [현장음] "빈 자리가 얼마 안 남았습니다." 명함에 적힌 전화번호 노출 피해자의 호소가 이어지면서 자신의 전화번호를 대신 공개한 정치인도 등장했는데요. [허경영 / 국가혁명당 명예대표] "전화가 1초에 한 통씩 옵니다. 선거]]></content>
     </entry>
 </feed>
