@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-10-18T23:22:53.052Z</updated>
+    <updated>2021-10-19T01:02:50.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산소통까지 빨아들인 MRI, 거대 자석?]]></title>
+        <id>https://v.daum.net/v/20211018201047917</id>
+        <link href="https://v.daum.net/v/20211018201047917"/>
+        <updated>2021-10-19T01:01:28.545Z</updated>
+        <content type="html"><![CDATA[나흘 전 MRI, 즉 자기공명 영상을 찍으려던 60대 환자가 갑자기 날아온 산소통에 몸이 끼어 숨을 거두는 안타까운 사고가 발생했습니다. MRI 기계가 작동할 때 발생하는 자성이 철제 산소통을 자석처럼 끌어당겨서 일어난 사고였는데, MRI의 자성, 얼마나 강한지 확인해 봅니다. MRI 기계의 작동 원리를 볼까요. 환자가 누운 채 들어가는 원통]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교사가 쓴 마스크, 아이 언어발달 막는다?]]></title>
         <id>https://v.daum.net/v/20211014200952791</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210928201559037"/>
         <updated>2021-09-30T23:31:43.363Z</updated>
         <content type="html"><![CDATA[생존 게임 참가자를 소재로 한 드라마 '오징어게임'의 인기가 높은데요. 드라마 속 특정 장면도 논란이 되고 있습니다. [현장음] "빈 자리가 얼마 안 남았습니다." 명함에 적힌 전화번호 노출 피해자의 호소가 이어지면서 자신의 전화번호를 대신 공개한 정치인도 등장했는데요. [허경영 / 국가혁명당 명예대표] "전화가 1초에 한 통씩 옵니다. 선거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 백신에 '수상한 물질'..특허까지 마쳤다?]]></title>
-        <id>https://v.daum.net/v/20210927203258116</id>
-        <link href="https://v.daum.net/v/20210927203258116"/>
-        <updated>2021-09-30T23:31:43.364Z</updated>
-        <content type="html"><![CDATA[권솔 기자 휴가로 이번 주는 제가 팩트맨을 맡습니다. 최근 온라인에&nbsp;도는 영상입니다. 코로나19 백신 접종 부위에 자석이 붙는다며 백신에 자석을 당기는 '그래핀' 성분이 들어있다는 주장의 근거로 쓰이는 영상인데요. 사실인지 따져 보겠습니다. 그래핀이란 물질, 연필심을 만드는 흑연에서 떼어 낸 얇은 막으로 100% 탄소로 이뤄져 있습니다. 디스]]></content>
     </entry>
 </feed>
