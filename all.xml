@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-21T01:01:44.423Z</updated>
+    <updated>2021-10-21T02:14:38.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[오징어게임은 안 되면서, '재편집' 오징어게임은 괜찮다? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 코로나 백신은 낮은 온도에서 쭉 보관돼야 합니다. 보통 전문업체가 맡아서 병원으로 배송해줍니다. 그런데 가져가는 백신 물량이 적은 동네 병원은 보건소로 직접 와서 아이스박스에 받아가라고 했다는 주장이 나왔습니다. 왜 이런 일이 생겼는지 괜찮은 건지 따져봤습니다. 팩트체크, 최재원 기자입니다. [기자] 병원이 직접 아이스박스를 들고 보건소로 와 백신]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 백신 안 맞은 자녀도 격리없이 하와이여행 가능? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211021100053260</id>
+        <link href="https://v.daum.net/v/20211021100053260"/>
+        <updated>2021-10-21T02:14:37.343Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 대한항공이 신종 코로나바이러스 감염증(코로나19)으로 중단됐던 하와이 노선의 운항을 11월 3일부터 재개하기로 하는 등 하늘길이 속속 열릴 조짐을 보이고 있다. 아시아나항공도 인천∼사이판 노선 운항을 재개한 데 이어 12월 23일부터 주 1회 일정으로 인천∼괌 노선을 운항할 예정이다. 이처럼 하와이와 괌 등 해외 인기 여행]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] 국회의원은 국감장에서 허위 발언해도 면책된다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211021084743421</id>
         <link href="https://v.daum.net/v/20211021084743421"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211018070105249"/>
         <updated>2021-10-17T22:22:29.535Z</updated>
         <content type="html"><![CDATA[국내 코로나19 백신 접종자가 4천만 명을 넘어섰습니다. 지난 16일 0시 기준 1차 접종자는 40,333,027명으로 접종률은 78.6%, 2차 접종자는 32,810,280명으로 접종률은 63.9%입니다. 오늘 (18일)부터는 16~17세도 접종자 대열에 가세합니다. 접종자가 늘어나는 만큼 접종 후 이상반응을 호소하는 사람들도 늘고 있습니다. 특히 접종자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["프랑스, 탈원전 뒤집고 유턴" 언론 보도는 '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211018061201564</id>
-        <link href="https://v.daum.net/v/20211018061201564"/>
-        <updated>2021-10-19T01:02:49.832Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp; (파리 EPA=연합뉴스) 에마뉘엘 마크롱 프랑스 대통령이 12일(현지시간) 수도 파리의 대통령 집무실에서 '프랑스 2030' 투자 계획을 발표하고 있다. 마크롱 대통령은 2030년까지 300억 유로(약 41조4천600억 원)를 투자해 친환경 수소 산업 선도국으로 발돋움하고 자동차부터 반도체까지 핵심 분야에서 혁]]></content>
     </entry>
 </feed>
