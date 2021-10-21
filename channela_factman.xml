@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-10-21T11:15:20.530Z</updated>
+    <updated>2021-10-21T12:27:49.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 뮤비 창작비, 영수증 처리 안된다?]]></title>
+        <id>https://v.daum.net/v/20211021202757672</id>
+        <link href="https://v.daum.net/v/20211021202757672"/>
+        <updated>2021-10-21T12:27:22.438Z</updated>
+        <content type="html"><![CDATA[지난달 대통령 특사로 UN 총회에서 공연한, BTS 모습이 담긴 뮤직비디오입니다. 그런데 최근 국정감사에서, 이 뮤직비디오 제작에 든 창작 비용이 제대로 인정받지 못했다는 주장이 나왔죠. 사실 관계를 따져봅니다. 당시 BTS 측과 정부가 맺은 7억 원짜리 용역 계약서입니다. 별첨된 세부항목에 항공비, 숙박비, 차량, 식비, 방역준비비는 보이는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아파트 주차장 알박기, 단속 못한다?]]></title>
         <id>https://v.daum.net/v/20211019200300948</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210930200846118"/>
         <updated>2021-09-30T23:31:43.362Z</updated>
         <content type="html"><![CDATA[[이나연 / 서울시 마포구] "똥을 너무 많이 싸서, 저도 네 번인가 맞았고." [이모 씨 / 서울시 마포구] "여기는 너무 많아요. 먹이를 주니까 사람을 피하질 않아요." 평화의 상징이던 비둘기, 도심 속 애물단지로 전락한 지 오래죠. 그런데 이런 비둘기에 먹다 남은 음식 등을 먹이로 주는 사람들도 늘고 있는데, 이런 행동 제지할 순 없을까요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 '1급 국보'에 태극기가?]]></title>
-        <id>https://v.daum.net/v/20210929200402919</id>
-        <link href="https://v.daum.net/v/20210929200402919"/>
-        <updated>2021-10-21T01:01:13.078Z</updated>
-        <content type="html"><![CDATA[베이징 올림픽 유치 홍보영상에 한복이 등장했단 소식, 어제 전해드렸죠. 중국의 '문화 동북공정'이란 우려가 나오는데, 중국 온라인에선 이런 주장까지 나옵니다. [요우즈 / 중국 누리꾼] "중국인들이면 다 아는 처우잉 화가의 '청명상하도' 일부입니다. 다들 보면 아시겠죠. '태극기'가 한눈에 보이지 않습니까." 태극기가 이 주장대로 명나라 군대 깃]]></content>
     </entry>
 </feed>
