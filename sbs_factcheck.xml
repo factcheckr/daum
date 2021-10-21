@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2021-10-21T02:14:38.089Z</updated>
+    <updated>2021-10-21T03:19:10.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재산 상속하면, 절반을 세금으로 떼 간다?]]></title>
+        <id>https://v.daum.net/v/20211021113306845</id>
+        <link href="https://v.daum.net/v/20211021113306845"/>
+        <updated>2021-10-21T03:17:11.610Z</updated>
+        <content type="html"><![CDATA[고(故) 이건희 회장에게 받은 유산에 대한 삼성그룹 오너 일가의 상속세가 12조 원에 달하는 것으로 알려졌습니다. 우리나라 상속세율이 과하다는 지적이 나왔습니다. 정부는 최근 상속세 과세 체계 개편에 나선다고 밝혔습니다. 이런 분위기에 속에서, 우리나라 상속세율 상속 재산의 최대 50%까지 매긴다는 보도가 나오고 있습니다. 사실 상속세율 논란은 어제오늘 얘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임은 안 되면서, '재편집' 오징어게임은 괜찮다?]]></title>
         <id>https://v.daum.net/v/20211017090300470</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210929140000645"/>
         <updated>2021-10-07T13:26:21.682Z</updated>
         <content type="html"><![CDATA[문재인 대통령이 개고기 식용 금지를 검토하겠다는 입장을 내놨습니다. 지난 27일 김부겸 국무총리와의 주례 회동에서 '유기된 반려 동물 관리 체계' 개선 보고를 받은 뒤 나온 말입니다. 개 식용 찬반 양론이 다시 불붙었습니다.&nbsp; 그런데, 생각보다 해외에서 관심이 뜨겁습니다. 외신들이 비중 있게 보도하고 있습니다. AP, AFP, 로이터, 가디언, CNN, B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성(性)인지 예산'은 성(性)을 인지하고 있나요?]]></title>
-        <id>https://v.daum.net/v/20210927113600741</id>
-        <link href="https://v.daum.net/v/20210927113600741"/>
-        <updated>2021-10-07T13:26:21.682Z</updated>
-        <content type="html"><![CDATA[국회에 내년도 예산안이 제출됐습니다. 올해 대비 8.3% 늘어난 604조 4천 억 원으로 사상 처음 600조 원을 돌파했습니다. 하지만, 대선 정국과 맞물리면서 예산안에 대한 관심이 덜 합니다. 그 어느 때보다 감시가 필요합니다. 기획재정부가 국회에 제출한 예산안에는 '성(性)인지 예산'이 별도 항목으로 편성돼 있습니다. 이 예산부터 살펴봤습니다. 최근 젠]]></content>
     </entry>
 </feed>

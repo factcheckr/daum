@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-21T02:14:38.074Z</updated>
+    <updated>2021-10-21T03:19:10.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 재산 상속하면, 절반을 세금으로 떼 간다?]]></title>
+        <id>https://v.daum.net/v/20211021113306845</id>
+        <link href="https://v.daum.net/v/20211021113306845"/>
+        <updated>2021-10-21T03:19:09.432Z</updated>
+        <content type="html"><![CDATA[고(故) 이건희 회장에게 받은 유산에 대한 삼성그룹 오너 일가의 상속세가 12조 원에 달하는 것으로 알려졌습니다. 우리나라 상속세율이 과하다는 지적이 나왔습니다. 정부는 최근 상속세 과세 체계 개편에 나선다고 밝혔습니다. 이런 분위기에 속에서, 우리나라 상속세율 상속 재산의 최대 50%까지 매긴다는 보도가 나오고 있습니다. 사실 상속세율 논란은 어제오늘 얘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 백신 안 맞은 자녀도 격리없이 하와이여행 가능?]]></title>
         <id>https://v.daum.net/v/20211021100053260</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211018121330642"/>
         <updated>2021-10-18T03:23:36.494Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 삼성 오너 일가가 고(故) 이건희 회장에게 받은 유산에 대한 상속세를 내기 위해 삼성전자를 포함한 계열사 주식 2조원어치를 처분한다는 소식에 한때 주식시장이 출렁였다. 금융감독원 전자공시시스템에 따르면 홍라희 전 리움미술관장은 지난 5일 삼성전자 주식 1천994만1천860주(0.33%, 8일 종가 기준 1조4천258억원)에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 코로나19 백신 맞고 많이 아프면 젊고 건강하다?]]></title>
-        <id>https://v.daum.net/v/20211018070105249</id>
-        <link href="https://v.daum.net/v/20211018070105249"/>
-        <updated>2021-10-17T22:22:29.535Z</updated>
-        <content type="html"><![CDATA[국내 코로나19 백신 접종자가 4천만 명을 넘어섰습니다. 지난 16일 0시 기준 1차 접종자는 40,333,027명으로 접종률은 78.6%, 2차 접종자는 32,810,280명으로 접종률은 63.9%입니다. 오늘 (18일)부터는 16~17세도 접종자 대열에 가세합니다. 접종자가 늘어나는 만큼 접종 후 이상반응을 호소하는 사람들도 늘고 있습니다. 특히 접종자]]></content>
     </entry>
 </feed>
