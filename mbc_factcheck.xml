@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-10-22T11:15:33.187Z</updated>
+    <updated>2021-10-22T12:27:56.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이런 곳까지 몰래카메라가?..왜 제한 못하나]]></title>
+        <id>https://v.daum.net/v/20211022203406078</id>
+        <link href="https://v.daum.net/v/20211022203406078"/>
+        <updated>2021-10-22T12:26:59.781Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 불법촬영 범죄, 하루가 멀다 하고 연일 뉴스에 등장합니다. 모텔직원과 짜고 전 객실에 초소형 카메라를 설치하거나, 가방에 스마트폰을 숨기고 다니면서 여성들의 신체를 촬영한 사건, 중학생이 휴대전화로 학교·학원 화장실에서 불법촬영을 한 사건.. 모두 최근 며칠 새 보도된 사건들인데요. 불법촬영이 기승을 부리는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["좋아하는 형님들"..김만배 어떤 기사 썼길래]]></title>
         <id>https://v.daum.net/v/20211011202810134</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210907201318277"/>
         <updated>2021-10-07T09:15:08.792Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고 보니 시작합니다. 앞서 보신 것처럼 이렇게 어려운 소상공인을 두 번 울리는 금융 사기가 기승을 부리고 있습니다. 혹시 이런 문자 받으신 분 계신가요. '귀하는 특례보증대출 신청대상인데 현재까지 미신청으로 분류되어 재안내를 드린다.' 평상시에 같은 은행으로부터 받는 '광고' 문자와 형식도 거의 같습니다. 그래서 저희 알고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전자발찌 찬 강력 성범죄자가 화장품 방문 판매?]]></title>
-        <id>https://v.daum.net/v/20210903202215198</id>
-        <link href="https://v.daum.net/v/20210903202215198"/>
-        <updated>2021-10-07T09:15:08.793Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘 법무부가 강윤성 사건 등을 계기로 전자발찌 훼손과 재범 방지 대책을 내놨습니다. 신속수사팀을 설치하고, 경찰 등 유관기관과의 공조와 재범 우려가 높은 고위험군 감독을 강화하겠다는게.. 주요 내용입니다. 그런데 이번 사건, 더 충격적이었던 관리 실태 중 하나가 어떻게 강윤성 같은 강력 성범죄자가 여성]]></content>
     </entry>
 </feed>
