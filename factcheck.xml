@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-22T20:19:01.135Z</updated>
+    <updated>2021-10-22T21:16:02.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '위드 코로나' 일본식 영어다?]]></title>
+        <id>https://v.daum.net/v/20211023053407631</id>
+        <link href="https://v.daum.net/v/20211023053407631"/>
+        <updated>2021-10-22T21:16:01.523Z</updated>
+        <content type="html"><![CDATA[[앵커] 백신 접종률이 목표치에 다가가면서 코로나19와의 공존, 방역 조치 완화를 뜻하는 이른바 '위드 코로나' 기대감이 높습니다. 그런데, 지금도 널리 쓰이는 이 표현이 영어권에서는 알아들을 수 없는 용어인 데다, 일본식 영어라는 지적이 나오고 있습니다. 박희재 기자가 팩트체크했습니다. [기자] [정은경 / 질병관리청장 (지난해 7월) : 감염위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 훈민정음, 중국어 한자 소리 적으려 만들어졌다?]]></title>
         <id>https://v.daum.net/v/20211022211103693</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211019200300948"/>
         <updated>2021-10-19T11:18:41.548Z</updated>
         <content type="html"><![CDATA[최근 온라인에서 화제가 된 사진입니다. 아파트 주차장 바닥에 놓인 상자에 붙은 안내문인데. "독서실에서 공부 중인 고3 아들을 데리러 가니, 다른 곳에 주차해달라"고 적혀 있습니다. 공용 공간인 아파트 주차장을 사유지처럼 알박기한다는 비판이 나오는데, 제재할 방법있는지 확인해봅니다. 아파트 주차장을 임의로 점유하면 단속 가능하다는 주장. 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '오징어 게임' 만든 넷플릭스, 지원군인가 먹튀인가]]></title>
-        <id>https://v.daum.net/v/20211019084443929</id>
-        <link href="https://v.daum.net/v/20211019084443929"/>
-        <updated>2021-10-19T01:02:49.828Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 달고나, 영희 인형, 딱지치기, 초록색 트레이닝복… 세계적인 흥행 속에 갖가지 화제를 낳고 있는 드라마 '오징어 게임'에 대한 관심이 수익배분 문제로까지 옮겨가면서 설왕설래하는 모습이다. 국정감사가 한창인 정치권에선 세계 최대 온라인 동영상 서비스(OTT)인 넷플릭스가 '오징어 게임'의 지식재산권(IP)을 모두 가져가는 바]]></content>
     </entry>
 </feed>
