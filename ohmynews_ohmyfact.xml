@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2021-10-23T05:16:06.272Z</updated>
+    <updated>2021-10-23T06:20:48.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대장동 개발이익 환수 10% 뿐" 주장은 '사실 반 거짓 반']]></title>
+        <id>https://v.daum.net/v/20211022202700925</id>
+        <link href="https://v.daum.net/v/20211022202700925"/>
+        <updated>2021-10-23T06:20:35.472Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;심상정 정의당 의원이 20일 경기도청에 열린 국회 국토교통위원회의 경기도에 대한 국정감사에서 질의하고 있다.    ⓒ 국회사진취재단  &nbsp; &nbsp;[검증대상] 경실련 "대장동 개발이익은 1조 8천억 원, 공공환수액은 10%뿐" 더불어민주당 대선후보인 이재명 경기지사와 정의당 대선후보인 심상정 의원이 지난&nbsp;20일 경기도청]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스 '리유저블 컵' 배포가 환경 살리기?.. 대체로 거짓]]></title>
         <id>https://v.daum.net/v/20211001140903281</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210701072400913"/>
         <updated>2021-10-07T11:15:18.544Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 전 검찰총장이 29일 오후 서울 서초구 매헌 윤봉길 의사 기념관에서 대선출마 선언을 하고 있다.    ⓒ 국회사진취재단  &nbsp;이 정권은 권력을 사유화하는데 그치지 않고 집권을 연장하여 계속 국민을 약탈하려 합니다. 우리 헌법의 근간인 자유민주주의에서 '자유'를 빼내려 합니다. 민주주의는 자유를 지키기 위한 것이고 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차별금지법이 인구 증가를 방해한다?.. 새빨간 거짓]]></title>
-        <id>https://v.daum.net/v/20210625071800461</id>
-        <link href="https://v.daum.net/v/20210625071800461"/>
-        <updated>2021-10-07T11:15:18.546Z</updated>
-        <content type="html"><![CDATA[[임안젤, 김시연 기자] &nbsp;        ▲ &nbsp;국가인권위원회가 지난 2020년 6월 30일 오전 서울 중구 인권위 사무실에서 '평등 및 차별금지에 관한 법률'(평등법 또는 차별금지법) 제정 필요 의견을 밝히는 기자회견을 한 가운데, 회견장 입구에서 일부 시민들이 반대 시위를 벌이고 있다.(자료 사진)    ⓒ 권우성  &nbsp;차별금지법 입법을 촉구하는 국민동의청]]></content>
     </entry>
 </feed>
