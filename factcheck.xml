@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-22T23:17:46.906Z</updated>
+    <updated>2021-10-23T00:59:16.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 윤석열과 홍준표의 데이터, 팩트체크 했습니다.]]></title>
+        <id>https://v.daum.net/v/20211023095100678</id>
+        <link href="https://v.daum.net/v/20211023095100678"/>
+        <updated>2021-10-23T00:59:15.897Z</updated>
+        <content type="html"><![CDATA[국민의힘 대선 경선 토론이 한창입니다. 지난 11일 광주·전북·전남 합동 토론을 시작으로, 오는 30일까지 진행됩니다. 다음 달 1일부터 이틀 간 모바일 투표, 3일부터 이틀 간 ARS 투표 및 국민 여론조사를 한 뒤, 5일 전당대회에서 국민의힘 대통령 후보가 최종 결정됩니다. SBS 사실은팀은 민주당 대권주자 토론회 당시 나온 말들을 팩트체크 한 적 있습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "코로나 백신 맞으려면 심장서 먼 오른팔에"?]]></title>
         <id>https://v.daum.net/v/20211023080008700</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211020200656656"/>
         <updated>2021-10-20T11:15:27.162Z</updated>
         <content type="html"><![CDATA[지난주 서울 강남의 백화점 보석 매장에서 벌어진 사건입니다. 다른 보석 매장에서 일하다 스카우트된 직원이 그동안 수집·정리한 'VIP 고객 명단'을 새로 일하게 된 매장과 공유해야 할지를 두고 실랑이가 벌어졌는데요. 직원 개인이 가진 영업 정보에 대해 회사가 공유 요구를 할 수 있는지 확인해봅니다. 회사에 고용된 신분이니 정보 공유해야 한다, 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 실습카드에 남은 홍정운군의 희망사항은 지워졌다]]></title>
-        <id>https://v.daum.net/v/20211020100607980</id>
-        <link href="https://v.daum.net/v/20211020100607980"/>
-        <updated>2021-10-21T01:01:43.762Z</updated>
-        <content type="html"><![CDATA[6일 전남 여수에서 잠수작업을 하다가 숨진 현장실습생 홍정운(18)군은 지난 여름 부모님을 요트 선착장으로 불러낸 적이 있다. 어려운 가정 형편에 4남매를 키우느라 고생하는 부모님에게 ‘요트 투어’를 시켜주고 싶다고 했다. 한 요트 업체에서 주말 아르바이트를 하면서 손님들을 많이 받았지만 정작 부모님에게 아름다운 여수 앞바다의 풍광을 보여주지 못하는 게 못]]></content>
     </entry>
 </feed>
