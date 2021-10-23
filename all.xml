@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-23T00:59:16.544Z</updated>
+    <updated>2021-10-23T02:06:40.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윤석열과 홍준표의 데이터, 팩트체크 했습니다. (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20211023095100678</id>
+        <link href="https://v.daum.net/v/20211023095100678"/>
+        <updated>2021-10-23T00:59:15.897Z</updated>
+        <content type="html"><![CDATA[국민의힘 대선 경선 토론이 한창입니다. 지난 11일 광주·전북·전남 합동 토론을 시작으로, 오는 30일까지 진행됩니다. 다음 달 1일부터 이틀 간 모바일 투표, 3일부터 이틀 간 ARS 투표 및 국민 여론조사를 한 뒤, 5일 전당대회에서 국민의힘 대통령 후보가 최종 결정됩니다. SBS 사실은팀은 민주당 대권주자 토론회 당시 나온 말들을 팩트체크 한 적 있습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재산 상속하면, 절반을 세금으로 떼 간다? (다음 뉴스 ─ SBS 사실은)]]></title>
         <id>https://v.daum.net/v/20211021113306845</id>
@@ -80,13 +87,6 @@
         <link href="https://v.daum.net/v/20210930145115363"/>
         <updated>2021-09-30T06:19:53.189Z</updated>
         <content type="html"><![CDATA[새만금 간척 사업을 기념하는 박물관 건립 예산이 양성평등을 위한 예산이다… 누구나 이용하는 도서관 사업 예산도, 캠퍼스에 창업 센터 만드는 예산도 마찬가지다… 기획재정부가 국회에 제출한 내년도 예산안 내용입니다. 모두 '성(性)인지 예산'으로 분류됐습니다. 성인지 예산은 남녀별로 미치는 효과를 고려해, 평등하게 혜택을 누릴 수 있도록 짜여진 예산입니다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국에선 연간 100만 마리 개가 도축" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20210929140000645</id>
-        <link href="https://v.daum.net/v/20210929140000645"/>
-        <updated>2021-09-29T06:19:53.163Z</updated>
-        <content type="html"><![CDATA[문재인 대통령이 개고기 식용 금지를 검토하겠다는 입장을 내놨습니다. 지난 27일 김부겸 국무총리와의 주례 회동에서 '유기된 반려 동물 관리 체계' 개선 보고를 받은 뒤 나온 말입니다. 개 식용 찬반 양론이 다시 불붙었습니다.&nbsp; 그런데, 생각보다 해외에서 관심이 뜨겁습니다. 외신들이 비중 있게 보도하고 있습니다. AP, AFP, 로이터, 가디언, CNN, B]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이런 곳까지 몰래카메라가?..왜 제한 못하나 (다음 뉴스 ─ MBC 알고보니)]]></title>
