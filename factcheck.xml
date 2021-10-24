@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-24T00:56:36.723Z</updated>
+    <updated>2021-10-24T02:02:54.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '지인에게 무료 변론'은 청탁금지법 위반?]]></title>
+        <id>https://v.daum.net/v/20211024100052069</id>
+        <link href="https://v.daum.net/v/20211024100052069"/>
+        <updated>2021-10-24T02:02:53.587Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당 이재명 대선 후보가 선거법 위반 사건을 무료로 변론 받았다는 의혹을 두고 정치권 안팎에서 공방이 이어지고 있다. 특히 전현희 국민권익위원장이 지난 20일 국회 정무위원회 종합감사에서 "지인이나 친구 등 아주 가까운 사람에게는 경우에 따라 무료로 변론할 수도 있어서 그 자체로 청탁금지법 위반으로 보기 어렵다"고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '대장동 공익환수 5,503억' 어디까지 사실일까?]]></title>
         <id>https://v.daum.net/v/20211024044608299</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211021113306845"/>
         <updated>2021-10-21T03:19:09.432Z</updated>
         <content type="html"><![CDATA[고(故) 이건희 회장에게 받은 유산에 대한 삼성그룹 오너 일가의 상속세가 12조 원에 달하는 것으로 알려졌습니다. 우리나라 상속세율이 과하다는 지적이 나왔습니다. 정부는 최근 상속세 과세 체계 개편에 나선다고 밝혔습니다. 이런 분위기에 속에서, 우리나라 상속세율 상속 재산의 최대 50%까지 매긴다는 보도가 나오고 있습니다. 사실 상속세율 논란은 어제오늘 얘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 백신 안 맞은 자녀도 격리없이 하와이여행 가능?]]></title>
-        <id>https://v.daum.net/v/20211021100053260</id>
-        <link href="https://v.daum.net/v/20211021100053260"/>
-        <updated>2021-10-21T02:14:37.343Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 대한항공이 신종 코로나바이러스 감염증(코로나19)으로 중단됐던 하와이 노선의 운항을 11월 3일부터 재개하기로 하는 등 하늘길이 속속 열릴 조짐을 보이고 있다. 아시아나항공도 인천∼사이판 노선 운항을 재개한 데 이어 12월 23일부터 주 1회 일정으로 인천∼괌 노선을 운항할 예정이다. 이처럼 하와이와 괌 등 해외 인기 여행]]></content>
     </entry>
 </feed>
