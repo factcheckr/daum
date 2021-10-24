@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-24T22:17:58.954Z</updated>
+    <updated>2021-10-24T23:18:11.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 코로나 예방 위해 마스크 내내 쓰는데 독감 접종 해야할까]]></title>
+        <id>https://v.daum.net/v/20211025080037792</id>
+        <link href="https://v.daum.net/v/20211025080037792"/>
+        <updated>2021-10-24T23:18:10.679Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 겨울철을 앞두고 방역당국에서 신종 코로나바이러스 감염증(코로나19)에 더해 인플루엔자(독감) 백신 접종까지 권고하고 있으나 망설이는 사람들이 적지 않다. 마스크 착용이 생활화된 탓에 독감이 자취를 감추다시피 했는데 굳이 예방접종을 할 필요가 있느냐는 것이다. 온라인 카페 등에는 "작년 코로나 시작되고는 마스크 쓰고 생활하니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '지인에게 무료 변론'은 청탁금지법 위반?]]></title>
         <id>https://v.daum.net/v/20211024100052069</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211021202757672"/>
         <updated>2021-10-21T12:27:48.450Z</updated>
         <content type="html"><![CDATA[지난달 대통령 특사로 UN 총회에서 공연한, BTS 모습이 담긴 뮤직비디오입니다. 그런데 최근 국정감사에서, 이 뮤직비디오 제작에 든 창작 비용이 제대로 인정받지 못했다는 주장이 나왔죠. 사실 관계를 따져봅니다. 당시 BTS 측과 정부가 맺은 7억 원짜리 용역 계약서입니다. 별첨된 세부항목에 항공비, 숙박비, 차량, 식비, 방역준비비는 보이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 재산 상속하면, 절반을 세금으로 떼 간다?]]></title>
-        <id>https://v.daum.net/v/20211021113306845</id>
-        <link href="https://v.daum.net/v/20211021113306845"/>
-        <updated>2021-10-21T03:19:09.432Z</updated>
-        <content type="html"><![CDATA[고(故) 이건희 회장에게 받은 유산에 대한 삼성그룹 오너 일가의 상속세가 12조 원에 달하는 것으로 알려졌습니다. 우리나라 상속세율이 과하다는 지적이 나왔습니다. 정부는 최근 상속세 과세 체계 개편에 나선다고 밝혔습니다. 이런 분위기에 속에서, 우리나라 상속세율 상속 재산의 최대 50%까지 매긴다는 보도가 나오고 있습니다. 사실 상속세율 논란은 어제오늘 얘]]></content>
     </entry>
 </feed>
