@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-25T07:18:16.428Z</updated>
+    <updated>2021-10-25T08:21:48.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[윤석열과 홍준표의 데이터, 팩트체크 했습니다. (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -621,6 +621,13 @@
         <content type="html"><![CDATA[국민의힘 대선 경선 토론이 한창입니다. 지난 11일 광주·전북·전남 합동 토론을 시작으로, 오는 30일까지 진행됩니다. 다음 달 1일부터 이틀 간 모바일 투표, 3일부터 이틀 간 ARS 투표 및 국민 여론조사를 한 뒤, 5일 전당대회에서 국민의힘 대통령 후보가 최종 결정됩니다. SBS 사실은팀은 민주당 대권주자 토론회 당시 나온 말들을 팩트체크 한 적 있습]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트 체크] 건보공단 상담사 소속기관화가 '청년 일자리 빼앗기'? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211023080603826</id>
+        <link href="https://v.daum.net/v/20211023080603826"/>
+        <updated>2021-10-25T08:21:47.913Z</updated>
+        <content type="html"><![CDATA[지난 21일 국민건강보험공단 고객센터의 소속기관화가 결정된 것과 관련해 인천국제공항 보안검색 직원 직접고용 때처럼 다시 ‘불공정’ 시비가 일 조짐을 보이자, 건보공단이 선제적으로 이를 조목조목 반박하는 ‘팩트 체크’에 나섰다. 건보공단은 22일 ‘건보공단 고객센터의 운영방식 변경에 대한 3대 가짜 뉴스’라는 보도자료를 내어 고객센터 소속기관화와 관련된 사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] "코로나 백신 맞으려면 심장서 먼 오른팔에"? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211023080008700</id>
         <link href="https://v.daum.net/v/20211023080008700"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211021202757672"/>
         <updated>2021-10-21T12:27:22.438Z</updated>
         <content type="html"><![CDATA[지난달 대통령 특사로 UN 총회에서 공연한, BTS 모습이 담긴 뮤직비디오입니다. 그런데 최근 국정감사에서, 이 뮤직비디오 제작에 든 창작 비용이 제대로 인정받지 못했다는 주장이 나왔죠. 사실 관계를 따져봅니다. 당시 BTS 측과 정부가 맺은 7억 원짜리 용역 계약서입니다. 별첨된 세부항목에 항공비, 숙박비, 차량, 식비, 방역준비비는 보이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 재산 상속하면, 절반을 세금으로 떼 간다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211021113306845</id>
-        <link href="https://v.daum.net/v/20211021113306845"/>
-        <updated>2021-10-21T03:17:11.610Z</updated>
-        <content type="html"><![CDATA[고(故) 이건희 회장에게 받은 유산에 대한 삼성그룹 오너 일가의 상속세가 12조 원에 달하는 것으로 알려졌습니다. 우리나라 상속세율이 과하다는 지적이 나왔습니다. 정부는 최근 상속세 과세 체계 개편에 나선다고 밝혔습니다. 이런 분위기에 속에서, 우리나라 상속세율 상속 재산의 최대 50%까지 매긴다는 보도가 나오고 있습니다. 사실 상속세율 논란은 어제오늘 얘]]></content>
     </entry>
 </feed>
