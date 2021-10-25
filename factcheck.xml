@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-25T10:22:06.350Z</updated>
+    <updated>2021-10-25T11:15:31.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]성범죄자 알림e 신상정보, 사실과 다르다?]]></title>
+        <id>https://v.daum.net/v/20211025200418669</id>
+        <link href="https://v.daum.net/v/20211025200418669"/>
+        <updated>2021-10-25T11:15:30.672Z</updated>
+        <content type="html"><![CDATA[[강윤성] "피해자분과 그 가족분들께 진심으로 사죄드립니다." 전자발찌를 훼손하고 여성 두 명을 연쇄 살해했던 강윤성. 이 사건을 계기로 경찰이 성범죄자 집중 점검에 나섰는데요. 문제는 시민들에게 공개된 성범죄자의 정보가 실제와 다를 수 있다는 점입니다. 왜 그런지 따져봅니다. 정부의 성범죄자 관리 체계입니다. 성범죄자의 신상정보는 등록 관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 코로나 예방 위해 마스크 내내 쓰는데 독감 접종 해야할까]]></title>
         <id>https://v.daum.net/v/20211025080037792</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211022203406078"/>
         <updated>2021-10-22T12:27:56.049Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 불법촬영 범죄, 하루가 멀다 하고 연일 뉴스에 등장합니다. 모텔직원과 짜고 전 객실에 초소형 카메라를 설치하거나, 가방에 스마트폰을 숨기고 다니면서 여성들의 신체를 촬영한 사건, 중학생이 휴대전화로 학교·학원 화장실에서 불법촬영을 한 사건.. 모두 최근 며칠 새 보도된 사건들인데요. 불법촬영이 기승을 부리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]BTS 뮤비 창작비, 영수증 처리 안된다?]]></title>
-        <id>https://v.daum.net/v/20211021202757672</id>
-        <link href="https://v.daum.net/v/20211021202757672"/>
-        <updated>2021-10-21T12:27:48.450Z</updated>
-        <content type="html"><![CDATA[지난달 대통령 특사로 UN 총회에서 공연한, BTS 모습이 담긴 뮤직비디오입니다. 그런데 최근 국정감사에서, 이 뮤직비디오 제작에 든 창작 비용이 제대로 인정받지 못했다는 주장이 나왔죠. 사실 관계를 따져봅니다. 당시 BTS 측과 정부가 맺은 7억 원짜리 용역 계약서입니다. 별첨된 세부항목에 항공비, 숙박비, 차량, 식비, 방역준비비는 보이는]]></content>
     </entry>
 </feed>
