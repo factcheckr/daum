@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-27T20:19:20.296Z</updated>
+    <updated>2021-10-27T21:16:04.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT '85분 먹통 사태' 손해배상 받을 수 있다? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20211028060227750</id>
+        <link href="https://v.daum.net/v/20211028060227750"/>
+        <updated>2021-10-27T21:16:04.036Z</updated>
+        <content type="html"><![CDATA[사진=뉴시스  지난 25일 발생한 KT 유·무선 통신장애로 피해를 본 소비자들이 KT를 상대로 ‘손해배상’ 청구에 나서겠다고 움직이고 있다. KT 약관에 따라서는 이동전화와 초고속인터넷 서비스를 연속 3시간 이상 서비스를 하지 못할 경우에 한정해 손해배상을 청구할 수 있지만, ‘전기통신사업법’을 근거로 손해배상 청구가 가능하다는 것이다. 전기통신사업법]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]'위드 코로나', 원산지는 일본?]]></title>
         <id>https://v.daum.net/v/20211027200252112</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211025080037792"/>
         <updated>2021-10-24T23:18:10.679Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 겨울철을 앞두고 방역당국에서 신종 코로나바이러스 감염증(코로나19)에 더해 인플루엔자(독감) 백신 접종까지 권고하고 있으나 망설이는 사람들이 적지 않다. 마스크 착용이 생활화된 탓에 독감이 자취를 감추다시피 했는데 굳이 예방접종을 할 필요가 있느냐는 것이다. 온라인 카페 등에는 "작년 코로나 시작되고는 마스크 쓰고 생활하니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '지인에게 무료 변론'은 청탁금지법 위반?]]></title>
-        <id>https://v.daum.net/v/20211024100052069</id>
-        <link href="https://v.daum.net/v/20211024100052069"/>
-        <updated>2021-10-24T02:02:53.587Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당 이재명 대선 후보가 선거법 위반 사건을 무료로 변론 받았다는 의혹을 두고 정치권 안팎에서 공방이 이어지고 있다. 특히 전현희 국민권익위원장이 지난 20일 국회 정무위원회 종합감사에서 "지인이나 친구 등 아주 가까운 사람에게는 경우에 따라 무료로 변론할 수도 있어서 그 자체로 청탁금지법 위반으로 보기 어렵다"고]]></content>
     </entry>
 </feed>
