@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-10-27T10:20:04.165Z</updated>
+    <updated>2021-10-27T11:15:34.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위드 코로나', 원산지는 일본?]]></title>
+        <id>https://v.daum.net/v/20211027200252112</id>
+        <link href="https://v.daum.net/v/20211027200252112"/>
+        <updated>2021-10-27T11:14:58.876Z</updated>
+        <content type="html"><![CDATA[[리포트] 영국 일간지 더 타임즈 기사입니다. '콩글리시'로 불리는 한국식 영어 표현을 다루면서, 영어권엔 없는 표현의 사례로 '위드 코로나'를 꼽았습니다. '위드 코로나(With Conora), 언제 어디에서 쓰이기 시작했는지 확인해봅니다. 이 단어는 지난해 6월 일부 민간 포럼에서 등장했고, 정부 브리핑에서 처음 사용된 건 지난해 7월이었습니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT, 3시간 미만이라 보상 불가?]]></title>
         <id>https://v.daum.net/v/20211026195646460</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211006200651350"/>
         <updated>2021-10-06T11:14:26.546Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 시청자 제보로 시작합니다. "코로나로 가게 월세 낼 돈도 없다고&nbsp;하소연하는 지인에게&nbsp;남편 몰래 1천만 원을 빌려줬더니 잠적했다.&nbsp;사기죄로 고소할 수 있냐"는&nbsp;문의하셨는데, 확인해봤습니다. 지난달 개인 간 채무관계에 대한&nbsp;대법원 판결이 있었습니다. 경제적 형편이 어려운 것을 알고 빌려줬다면,&nbsp;돈을 돌려받지 못해도 처벌할 수 없다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아동학대 잡은 녹음..불법 도청?]]></title>
-        <id>https://v.daum.net/v/20211005204257064</id>
-        <link href="https://v.daum.net/v/20211005204257064"/>
-        <updated>2021-10-05T12:26:26.444Z</updated>
-        <content type="html"><![CDATA[어린이집이나 유치원 학교에서 일어나는 아동학대,&nbsp;부모들은 종종 자녀의 옷에 녹음기를 숨겨&nbsp;이렇게 증거를 확보합니다 [초등학교 담임교사 (지난 2019년)] "너 ○○○하고 똑같은 취급 받고 싶어? ○○하지 말라 했지?" 그런데 당사자 허락이 없는 이런 녹음,&nbsp;불법이라 아동학대 증거로 쓰일 수 없다는&nbsp;주장도 있는데 사실인지 따져봅니다. 대화에 참여]]></content>
     </entry>
 </feed>
