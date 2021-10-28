@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2021-10-28T11:15:14.977Z</updated>
+    <updated>2021-10-28T12:27:34.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헌혈로 '에이즈·간염 피' 수만 명에게 퍼졌다?]]></title>
+        <id>https://v.daum.net/v/20211028203505113</id>
+        <link href="https://v.daum.net/v/20211028203505113"/>
+        <updated>2021-10-28T12:27:27.200Z</updated>
+        <content type="html"><![CDATA[[앵커] 에이즈나 간염에 걸린 사람들이 헌혈을 해서 수만 명이 수혈 받았다는 보도들이 나왔습니다. 오염된 혈액이 퍼져나간 게 아니냐는 우려가 쏟아졌습니다. 하지만 팩트체크 결과 헌혈이나 수혈을 주저하실 필요가 없는 걸로 나왔습니다. 최재원 기자가 자세하게 알려드립니다. [기자] "부적격 혈액이 3만 개 가까이 수혈됐다, HIV 보균자의 피도 수혈됐다" 대한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선후보 '정신분석' 미국선 넘쳐난다? 따져보니]]></title>
         <id>https://v.daum.net/v/20211025204402262</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210819200905890"/>
         <updated>2021-10-07T11:15:23.924Z</updated>
         <content type="html"><![CDATA[[앵커] 곧바로 팩트체크 이어가겠습니다. 언론중재법을 놓고 해외 언론 단체에서도 우려와 지적이 나왔는데, 그 중에는 권위주의 정부들이나 만드는 법을 한국이 따라가고 있다, 이런 주장도 있었습니다. 과연 해외 사례는 어떤지 따져보겠습니다. 최재원 기자, 이 주장을 한 단체가 '국제언론인협회'라는 곳이죠? [기자] 네, "한국은 새 '가짜뉴스 법안'을 철회하라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얌체 과속' 잡을 암행순찰, 함정수사라 불법?]]></title>
-        <id>https://v.daum.net/v/20210812205703430</id>
-        <link href="https://v.daum.net/v/20210812205703430"/>
-        <updated>2021-10-07T11:15:23.925Z</updated>
-        <content type="html"><![CDATA[[앵커] 단속 카메라 앞에서만 잠깐 속도를 줄였다가 바로 다시 과속하는 차량들이 있죠. 경찰이 그래서 '암행순찰차'로 단속하는 걸 검토하고 있습니다. 그런데 '암행 단속' 자체가 불법이란 반발도 있습니다. 정말 그런지, 팩트체크팀이 확인했습니다. 최재원 기자입니다. [기자] 겉만 보면 일반 승용차 같지만, [잠깐 서보세요. 잠깐 서보세요.] 안에는 단속 경]]></content>
     </entry>
 </feed>
