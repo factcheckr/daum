@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-28T12:27:34.783Z</updated>
+    <updated>2021-10-28T13:24:02.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://v.daum.net/v/20211028212557098</id>
         <link href="https://v.daum.net/v/20211028212557098"/>
         <updated>2021-10-28T12:27:34.106Z</updated>
-        <content type="html"><![CDATA[[리포트] 주유소에서 기름을 넣고 다시 도로에 진입할 때, 방향지시등 왼쪽과 오른쪽 어느 쪽을 켜시나요? 운전자에게 물어봤습니다. "(깜빡이 왼쪽 켜시는지 오른쪽 켜시는지) 오른쪽. (왜요?) 차선으로 굽잖아요. 오른쪽으로 아니 왼쪽." "왼쪽 아닌가? 헷갈리네요?" 실제론 어떨까. 주유를 끝내고 차로로 진입하려는 차량, 왼쪽 지시등을 켭니다]]></content>
+        <content type="html"><![CDATA[[리포트] 주유소에서 기름을 넣고 다시 도로에 진입할 때, 방향지시등 왼쪽과 오른쪽 어느 쪽을 켜시나요? 운전자에게 물어봤습니다. "(깜빡이 왼쪽 켜시는지 오른쪽 켜시는지) 오른쪽. (왜요?) 차선으로 굽잖아요. 오른쪽으로 아니 왼쪽." "왼쪽 아닌가? 헷갈리네요?" 실제론 어떨까. 주유를 끝내고 차로로 진입하려는 차량, 왼쪽 지시등을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 헌혈로 '에이즈·간염 피' 수만 명에게 퍼졌다?]]></title>
