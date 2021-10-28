@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-28T21:16:03.189Z</updated>
+    <updated>2021-10-28T22:17:27.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[또 위안부 망언..'심문 보고서 49호'의 진실 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 곧바로 팩트체크 이어가겠습니다. 언론중재법을 놓고 해외 언론 단체에서도 우려와 지적이 나왔는데, 그 중에는 권위주의 정부들이나 만드는 법을 한국이 따라가고 있다, 이런 주장도 있었습니다. 과연 해외 사례는 어떤지 따져보겠습니다. 최재원 기자, 이 주장을 한 단체가 '국제언론인협회'라는 곳이죠? [기자] 네, "한국은 새 '가짜뉴스 법안'을 철회하라]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 먹는 코로나 치료제 '몰누피라비르'가 기형아 유발? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211029070046083</id>
+        <link href="https://v.daum.net/v/20211029070046083"/>
+        <updated>2021-10-28T22:17:27.034Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 세계 각국에서 출시를 서두르는 먹는 형태의 신종 코로나바이러스 감염증(코로나19) 치료제가 향후 방역의 판도를 바꿀 게임 체인저가 될 것이란 기대가 크다. 내달 1일 '단계적 일상회복'(위드 코로나)으로 전환을 준비하는 정부는 내년 1~2월 도입을 목표로 40만명분의 코로나19 경구용 치료제 구매 계약을 체결할 예정이다. 일]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트맨]주유소 나올 때 깜빡이 왼쪽? 오른쪽? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211028212557098</id>
         <link href="https://v.daum.net/v/20211028212557098"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211026221602533"/>
         <updated>2021-10-27T01:59:06.299Z</updated>
         <content type="html"><![CDATA[감사원이 26일 대한적십자사에 대해 감사한 결과 지난 5년 동안 인간면역결핍바이러스(HIV·에이치아이브이)와 비(B)형 간염 등 ‘부적격혈액제제’를 2만8천여건 수혈하고 이를 단 한 번도 수혈자에게 통보하지 않은 것으로 드러났다는 감사 결과를 발표했습니다. 이 감사 결과를 담은 보도는 수혈을 받은 이들에게 에이치아이브이나 간염 등의 감염병이 혈액을 매개로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 국립묘지 안장 안 된다는데..왜 논란되나 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211026201011702</id>
-        <link href="https://v.daum.net/v/20211026201011702"/>
-        <updated>2021-10-26T11:14:50.947Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 전직 대통령 노태우 씨가 숨지면서 오늘 하루종일 노 씨가 국립현충원에 안장될 수 있나 없나 관련 기사들이 쏟아져 나왔습니다. 국가보훈처에 직접 물어봤는데요. 답변은 '안장대상이 아니다'라는 거였습니다. 정부가 아니라고 하는데도 왜 이런 기사 계속 나오고 안장여부가 관심사가 되는지 알아봤습니다. ◀ 리]]></content>
     </entry>
 </feed>
