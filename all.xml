@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-28T22:17:27.740Z</updated>
+    <updated>2021-10-28T23:18:03.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[또 위안부 망언..'심문 보고서 49호'의 진실 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 곧바로 팩트체크 이어가겠습니다. 언론중재법을 놓고 해외 언론 단체에서도 우려와 지적이 나왔는데, 그 중에는 권위주의 정부들이나 만드는 법을 한국이 따라가고 있다, 이런 주장도 있었습니다. 과연 해외 사례는 어떤지 따져보겠습니다. 최재원 기자, 이 주장을 한 단체가 '국제언론인협회'라는 곳이죠? [기자] 네, "한국은 새 '가짜뉴스 법안'을 철회하라]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령후보 지지율 조사하는 온라인 커뮤니티 글은 선거법 위반? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211029080134911</id>
+        <link href="https://v.daum.net/v/20211029080134911"/>
+        <updated>2021-10-28T23:18:02.713Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 제20대 대통령선거가 가까워지면서 각종 온라인 커뮤니티에는 대선과 관련된 글들이 심심찮게 올라오고 있다. 선거와 관련된 기사를 공유하는가 하면 특정 후보에 대한 지지, 또는 반대 의사를 밝히기도 한다. 나아가 유력 후보들에 대한 지지도를 파악하기 위해 투표를 유도하기도 하고, 자신이 좋아하는 후보가 당선되]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] 먹는 코로나 치료제 '몰누피라비르'가 기형아 유발? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211029070046083</id>
         <link href="https://v.daum.net/v/20211029070046083"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211027110900953"/>
         <updated>2021-10-27T02:31:44.046Z</updated>
         <content type="html"><![CDATA[지난 25일 뉴욕타임스(NYT)가 일본군 위안부 피해 사실을 고발했던 고(故) 김학순 인권운동가의 부고 기사를 실었습니다. '지나쳤던 인물들'(Overlooked) 시리즈의 일환입니다. 이 시리즈는 제대로 보도하지 못한 인물의 부고 기사를 통해 늦게 나마 삶을 조명하려는 취지에서 기획됐습니다. 신문은 전문가의 말을 인용, "김학순 운동가는 20세기 가장 용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] HIV 감염인 피 수혈됐다고? 감염 혈액은 수혈 전 걸러져요 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211026221602533</id>
-        <link href="https://v.daum.net/v/20211026221602533"/>
-        <updated>2021-10-27T01:59:06.299Z</updated>
-        <content type="html"><![CDATA[감사원이 26일 대한적십자사에 대해 감사한 결과 지난 5년 동안 인간면역결핍바이러스(HIV·에이치아이브이)와 비(B)형 간염 등 ‘부적격혈액제제’를 2만8천여건 수혈하고 이를 단 한 번도 수혈자에게 통보하지 않은 것으로 드러났다는 감사 결과를 발표했습니다. 이 감사 결과를 담은 보도는 수혈을 받은 이들에게 에이치아이브이나 간염 등의 감염병이 혈액을 매개로]]></content>
     </entry>
 </feed>
