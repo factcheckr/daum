@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-28T00:55:36.532Z</updated>
+    <updated>2021-10-28T02:00:04.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[또 위안부 망언..'심문 보고서 49호'의 진실 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 단속 카메라 앞에서만 잠깐 속도를 줄였다가 바로 다시 과속하는 차량들이 있죠. 경찰이 그래서 '암행순찰차'로 단속하는 걸 검토하고 있습니다. 그런데 '암행 단속' 자체가 불법이란 반발도 있습니다. 정말 그런지, 팩트체크팀이 확인했습니다. 최재원 기자입니다. [기자] 겉만 보면 일반 승용차 같지만, [잠깐 서보세요. 잠깐 서보세요.] 안에는 단속 경]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 유류세 인하하면 부자들이 더 혜택받는다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211028101551911</id>
+        <link href="https://v.daum.net/v/20211028101551911"/>
+        <updated>2021-10-28T02:00:03.851Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 국제유가가 상승세를 이어가면서 더불어민주당과 정부가 다음달 12일부터 6개월 동안 휘발유·경유·LPG부탄의 유류세를 20% 인하하기로 했다. 당정이 역대 최고 수준의 유류세 인하를 제시했다고는 하지만 일각에서는 이를 두고 "고급·대형차를 여러 대 보유해 휘발유 소비가 많은 고소득층에 혜택이 돌아갈 것"이라는 얘기가 나]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KT '85분 먹통 사태' 손해배상 받을 수 있다? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211028060227750</id>
         <link href="https://v.daum.net/v/20211028060227750"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211025200418669"/>
         <updated>2021-10-25T11:14:56.616Z</updated>
         <content type="html"><![CDATA[[강윤성] "피해자분과 그 가족분들께 진심으로 사죄드립니다." 전자발찌를 훼손하고 여성 두 명을 연쇄 살해했던 강윤성. 이 사건을 계기로 경찰이 성범죄자 집중 점검에 나섰는데요. 문제는 시민들에게 공개된 성범죄자의 정보가 실제와 다를 수 있다는 점입니다. 왜 그런지 따져봅니다. 정부의 성범죄자 관리 체계입니다. 성범죄자의 신상정보는 등록 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나 예방 위해 마스크 내내 쓰는데 독감 접종 해야할까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211025080037792</id>
-        <link href="https://v.daum.net/v/20211025080037792"/>
-        <updated>2021-10-24T23:18:10.679Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 겨울철을 앞두고 방역당국에서 신종 코로나바이러스 감염증(코로나19)에 더해 인플루엔자(독감) 백신 접종까지 권고하고 있으나 망설이는 사람들이 적지 않다. 마스크 착용이 생활화된 탓에 독감이 자취를 감추다시피 했는데 굳이 예방접종을 할 필요가 있느냐는 것이다. 온라인 카페 등에는 "작년 코로나 시작되고는 마스크 쓰고 생활하니]]></content>
     </entry>
 </feed>
