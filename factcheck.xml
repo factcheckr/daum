@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-29T02:34:58.319Z</updated>
+    <updated>2021-10-29T03:19:29.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '유선' 여론조사는 보수, '무선'은 진보에 유리?]]></title>
+        <id>https://v.daum.net/v/20211029115704761</id>
+        <link href="https://v.daum.net/v/20211029115704761"/>
+        <updated>2021-10-29T03:19:29.212Z</updated>
+        <content type="html"><![CDATA[정치의 시간입니다. 내년 3월 대통령 선거를 앞두고 여론조사 결과가 우후죽순처럼 쏟아집니다. 여론조사마다 결과는 들쑥날쑥 입니다. 그런데 이런 얘기 들어보셨죠? 여론조사 할 때 유선 전화 비율이 높으면 보수 진영에 유리하고, 휴대 전화로만 하면 진보 진영에 유리하다… 선거철마다 나오는 말인데, 저희 사실은팀에 검증 요청이 들어왔습니다. 아무래도 젊은 분보다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대통령후보 지지율 조사하는 온라인 커뮤니티 글은 선거법 위반?]]></title>
         <id>https://v.daum.net/v/20211029080134911</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211027200252112"/>
         <updated>2021-10-27T11:15:34.065Z</updated>
         <content type="html"><![CDATA[[리포트] 영국 일간지 더 타임즈 기사입니다. '콩글리시'로 불리는 한국식 영어 표현을 다루면서, 영어권엔 없는 표현의 사례로 '위드 코로나'를 꼽았습니다. '위드 코로나(With Conora), 언제 어디에서 쓰이기 시작했는지 확인해봅니다. 이 단어는 지난해 6월 일부 민간 포럼에서 등장했고, 정부 브리핑에서 처음 사용된 건 지난해 7월이었습니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 또 위안부 망언..'심문 보고서 49호'의 진실]]></title>
-        <id>https://v.daum.net/v/20211027110900953</id>
-        <link href="https://v.daum.net/v/20211027110900953"/>
-        <updated>2021-10-27T02:32:47.730Z</updated>
-        <content type="html"><![CDATA[지난 25일 뉴욕타임스(NYT)가 일본군 위안부 피해 사실을 고발했던 고(故) 김학순 인권운동가의 부고 기사를 실었습니다. '지나쳤던 인물들'(Overlooked) 시리즈의 일환입니다. 이 시리즈는 제대로 보도하지 못한 인물의 부고 기사를 통해 늦게 나마 삶을 조명하려는 취지에서 기획됐습니다. 신문은 전문가의 말을 인용, "김학순 운동가는 20세기 가장 용]]></content>
     </entry>
 </feed>
