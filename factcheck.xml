@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-29T22:22:04.274Z</updated>
+    <updated>2021-10-29T23:19:08.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 항체진단키트 '음성'이면 물백신 맞은 것?]]></title>
+        <id>https://v.daum.net/v/20211030080034057</id>
+        <link href="https://v.daum.net/v/20211030080034057"/>
+        <updated>2021-10-29T23:19:07.664Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 계승현 기자 = 신종 코로나바이러스 감염증(코로나19) 항체진단키트 검사 결과 '음성'이 나온다면 항체를 만들지 못하는 '물백신'을 맞은 것이라는 주장이 이어지고 있다. 식품의약품안전처(식약처)는 국내에서 허가받은 항체진단키트가 코로나19 백신 접종 후 항체 생성 여부 확인에는 적합하지 않다고 일축했지만, 일각에서는 정부가 국민에 '물백]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] "김기현, 울산 땅으로 1,800배 수익 추정"..사실일까?]]></title>
         <id>https://v.daum.net/v/20211030053708645</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211028163720363"/>
         <updated>2021-10-28T08:21:05.544Z</updated>
         <content type="html"><![CDATA[(광주=연합뉴스) 천정인 기자 = 5·18 민주화운동에 대한 고(故) 노태우 전 대통령의 책임을 두고 평가가 갈리고 있다. 노씨는 '12·12 및 5·18 사건' 수사와 재판으로 징역 17년의 확정판결을 받았지만, 일각에선 "5·18과 관련해 처벌받은 것은 아니다"고 주장한다. 노씨의 최측근으로 '6공화국 황태자'로 불렸던 박철언 전 의원은 27일 노씨의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 유류세 인하하면 부자들이 더 혜택받는다?]]></title>
-        <id>https://v.daum.net/v/20211028101551911</id>
-        <link href="https://v.daum.net/v/20211028101551911"/>
-        <updated>2021-10-28T02:00:03.851Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 국제유가가 상승세를 이어가면서 더불어민주당과 정부가 다음달 12일부터 6개월 동안 휘발유·경유·LPG부탄의 유류세를 20% 인하하기로 했다. 당정이 역대 최고 수준의 유류세 인하를 제시했다고는 하지만 일각에서는 이를 두고 "고급·대형차를 여러 대 보유해 휘발유 소비가 많은 고소득층에 혜택이 돌아갈 것"이라는 얘기가 나]]></content>
     </entry>
 </feed>
