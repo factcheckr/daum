@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-10-30T00:53:16.011Z</updated>
+    <updated>2021-10-30T01:58:38.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전두환 국립묘지 논란, 이제 잦아들까]]></title>
+        <id>https://v.daum.net/v/20211030102519633</id>
+        <link href="https://v.daum.net/v/20211030102519633"/>
+        <updated>2021-10-30T01:57:39.455Z</updated>
+        <content type="html"><![CDATA[고(故) 노태우 전 대통령의 국가장(國家葬)을 둘러싸고 논란입니다. 전직 대통령에 대한 예우와 국민 통합을 위한 조치라는 입장과, 군사반란과 국민학살을 저지른 과오에 비춰 과도한 예우라는 지적이 부딪치고 있습니다. 중대한 범죄를 저지르면 전직 대통령의 국가장 치를 수 없게 국가장법을 개정해야한다는 주장도 힘을 얻고 있습니다. 이미 관련법 개정안은 10년 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국 최고 출산율 세종시..'육아휴직 3년'이 비결?]]></title>
         <id>https://v.daum.net/v/20211028202814974</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210915202208554"/>
         <updated>2021-10-07T09:15:08.787Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 국내 코로나 확진자가 28만 명에 이르고 있습니다. 확진 뒤 완치된 각종 경험도 온라인에 올라오고 있는데, 완치가 됐는데 PCR검사에서 양성이 나왔다. 자꾸 양성이 나와서 병원치료도 못 받고 불이익을 당한다‥ 이런 말 계속 나오고 있습니다. 어떤 문제가 있는지 알아봤습니다. ◀ 리포트 ▶ 회사원 25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공익신고, 언론제보 안하고 60일동안 기다려야?]]></title>
-        <id>https://v.daum.net/v/20210912113714928</id>
-        <link href="https://v.daum.net/v/20210912113714928"/>
-        <updated>2021-10-07T09:15:08.788Z</updated>
-        <content type="html"><![CDATA[최근 검찰이 여권 인사와 언론사 종사자에 대한 고발을 야당인 '국민의힘'에 사주했다는 이른바 '고발 사주' 의혹이 정치권에 파장을 일으키고 있습니다. 이후 사건 제보자가 검찰에 신고하고 검찰이 제보자를 '공익신고자'로 보호하겠다는 방침을 밝히면서, 공익신고자의 자격 논란도 일고 있습니다. 정치권과 일부 언론에서는 "언론 제보를 한 사람은 공익신고자 자격이]]></content>
     </entry>
 </feed>
