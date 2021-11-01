@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-11-01T00:58:15.678Z</updated>
+    <updated>2021-11-01T02:03:46.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['몰카'범죄는 왜 일상이 되었을까]]></title>
+        <id>https://v.daum.net/v/20211101101311399</id>
+        <link href="https://v.daum.net/v/20211101101311399"/>
+        <updated>2021-11-01T02:02:44.581Z</updated>
+        <content type="html"><![CDATA[초등학교 교장의 불법촬영이 사회에 충격을 안기고 있습니다. 학생들에 윤리의식을 함양하고 인성교육을 하는 학교에서, 그것도 '교장선생님'이 계획적으로 초소형 카메라를 설치했다는 것에 술렁이고 있습니다. 50대 교장 A씨가 초소형카메라 뿐만 아니라 스마트폰을 이용해서 범죄를 저지른 정황도 드러나고 있습니다. A씨는 적발된 카메라를 "시골에 있는 농장에 설치하려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전두환 국립묘지 논란, 이제 잦아들까]]></title>
         <id>https://v.daum.net/v/20211030102519633</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210923201617515"/>
         <updated>2021-10-07T09:15:08.783Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 전기요금 인상과 관련해 여러 언론들이 탈원전 정책 때문이란 분석을 내놨습니다. "탈원전이 전기요금 인상을 야기했다", 원희룡 전 제주지사도 SNS에 "전기료 인상은 탈원전 청구서다"라는 글을 올렸는데요. "급격한 탈원전 정책으로 전기요금을 올릴 수밖에 없는 상황을 만들었다"는 주장입니다. 과연 어디까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완치라 퇴소했는데, 코로나 양성?]]></title>
-        <id>https://v.daum.net/v/20210915202208554</id>
-        <link href="https://v.daum.net/v/20210915202208554"/>
-        <updated>2021-10-07T09:15:08.787Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 국내 코로나 확진자가 28만 명에 이르고 있습니다. 확진 뒤 완치된 각종 경험도 온라인에 올라오고 있는데, 완치가 됐는데 PCR검사에서 양성이 나왔다. 자꾸 양성이 나와서 병원치료도 못 받고 불이익을 당한다‥ 이런 말 계속 나오고 있습니다. 어떤 문제가 있는지 알아봤습니다. ◀ 리포트 ▶ 회사원 25]]></content>
     </entry>
 </feed>
