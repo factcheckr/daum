@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-02T14:22:24.616Z</updated>
+    <updated>2021-11-02T15:25:17.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[모병제 vs 징병제, 자세히 따져봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 곧바로 팩트체크를 이어가겠습니다. 언론중재법 개정안을 놓고 민주당은 이렇게 주장을 하고 있습니다. [송영길/더불어민주당 대표 (지난 20일) : 경제권력, 정치권력을 다 뺐는데 뭘 언론 재갈 물리기법이라는 건지…] [송영길/더불어민주당 대표 (어제) : 단지 일반 국민들과 기업을 위한 구제장치를 마련했는데…] 이 주장을 따져보겠습니다. 최재원 기자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트파인더] 시진핑이 보낸 '노태우 조전' 비공개, '외교 결례' 맞나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211103001002876</id>
+        <link href="https://v.daum.net/v/20211103001002876"/>
+        <updated>2021-11-02T15:25:17.181Z</updated>
+        <content type="html"><![CDATA[정부가 때아닌 ‘조전(弔電)’ 논란에 휩싸였다. 노태우 전 대통령의 별세를 위로하는 시진핑 중국 국가주석의 조전 발송 사실을 사흘이나 묵혀뒀다가 공개해 ‘고의 지연’ 의심을 받은 것이다. 외교부는 “타국 정상들의 조전을 한 데 모아 발표하는 과정에서 늦어진 것”이라며 억울하다는 표정이다. 2일 정부 당국의 설명을 종합하면 시 주석의 조전은 지난달 29일 밤]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트맨]오징어게임 강화유리, 척보면 안다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211102200959266</id>
         <link href="https://v.daum.net/v/20211102200959266"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211030222509989"/>
         <updated>2021-10-30T14:16:04.829Z</updated>
         <content type="html"><![CDATA[[앵커] 부동산 비리에 국민적 관심이 집중되고 있는 가운데, 이번엔 국민의힘 김기현 원내대표의 울산 땅을 둘러싼 의혹이 제기됐습니다. 김 원내대표가 울산 KTX역 인근의 도로개설사업으로 1,800배 정도 수익을 거두게 됐다는 내용인데, 사실인지 취재해봤습니다. 팩트와이, 신지원 기자입니다. [기자] 울산 울주군에 있는 김기현 원내대표 소유 토지입니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 전두환 국립묘지 논란, 이제 잦아들까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211030102519633</id>
-        <link href="https://v.daum.net/v/20211030102519633"/>
-        <updated>2021-10-30T01:57:39.455Z</updated>
-        <content type="html"><![CDATA[고(故) 노태우 전 대통령의 국가장(國家葬)을 둘러싸고 논란입니다. 전직 대통령에 대한 예우와 국민 통합을 위한 조치라는 입장과, 군사반란과 국민학살을 저지른 과오에 비춰 과도한 예우라는 지적이 부딪치고 있습니다. 중대한 범죄를 저지르면 전직 대통령의 국가장 치를 수 없게 국가장법을 개정해야한다는 주장도 힘을 얻고 있습니다. 이미 관련법 개정안은 10년 가]]></content>
     </entry>
 </feed>
