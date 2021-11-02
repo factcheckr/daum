@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-02T21:21:21.725Z</updated>
+    <updated>2021-11-02T22:23:32.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[모병제 vs 징병제, 자세히 따져봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 곧바로 팩트체크를 이어가겠습니다. 언론중재법 개정안을 놓고 민주당은 이렇게 주장을 하고 있습니다. [송영길/더불어민주당 대표 (지난 20일) : 경제권력, 정치권력을 다 뺐는데 뭘 언론 재갈 물리기법이라는 건지…] [송영길/더불어민주당 대표 (어제) : 단지 일반 국민들과 기업을 위한 구제장치를 마련했는데…] 이 주장을 따져보겠습니다. 최재원 기자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 요소수 품귀 해결하려 저감장치 중지?.."비현실적·비효율적" (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211103070036583</id>
+        <link href="https://v.daum.net/v/20211103070036583"/>
+        <updated>2021-11-02T22:23:32.139Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김은경 기자 = 화물트럭과 같은 디젤(경유) 엔진 차량에 필수적으로 들어가는 '요소수' 품귀 현상이 빚어지면서 경유 차량의 질소산화물 저감장치(SCR)를 두고서도 논란이 일고 있다. 요소수는 경유 차량에서 발생하는 질소산화물(NOx)을 물과 질소로 바꿔주는 성분으로, 2016년 이후 제작·수입된 경유 차량에 의무적으로 장착되는 SCR에 들]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트파인더] 시진핑이 보낸 '노태우 조전' 비공개, '외교 결례' 맞나 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211103001002876</id>
         <link href="https://v.daum.net/v/20211103001002876"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211031084500660"/>
         <updated>2021-10-31T00:56:02.579Z</updated>
         <content type="html"><![CDATA[이번 주는 국민의힘 윤석열 대선 경선 후보의 '전두환 옹호 발언' 후폭풍이 거셌습니다. "군사 쿠데타와 5.18만 빼면 전 씨가 정치는 잘했다"는 지난 19일 발언 때문입니다. 윤 후보는 결국 이틀 뒤 사과했지만, 자신의 SNS에 반려견에 사과를 주는 사진을 올리면서 논란이 다시 불붙었습니다. 윤 후보는 이번 주 내내 전두환 씨 관련 질문을 받아야 했습니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] "김기현, 울산 땅으로 1,800배 수익 추정"..사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211030222509989</id>
-        <link href="https://v.daum.net/v/20211030222509989"/>
-        <updated>2021-10-30T14:16:04.829Z</updated>
-        <content type="html"><![CDATA[[앵커] 부동산 비리에 국민적 관심이 집중되고 있는 가운데, 이번엔 국민의힘 김기현 원내대표의 울산 땅을 둘러싼 의혹이 제기됐습니다. 김 원내대표가 울산 KTX역 인근의 도로개설사업으로 1,800배 정도 수익을 거두게 됐다는 내용인데, 사실인지 취재해봤습니다. 팩트와이, 신지원 기자입니다. [기자] 울산 울주군에 있는 김기현 원내대표 소유 토지입니]]></content>
     </entry>
 </feed>
