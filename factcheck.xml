@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-03T02:38:46.181Z</updated>
+    <updated>2021-11-03T03:20:49.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리 정부의 2030년 온실가스 감축 목표는 과도하다?]]></title>
+        <id>https://v.daum.net/v/20211103115623808</id>
+        <link href="https://v.daum.net/v/20211103115623808"/>
+        <updated>2021-11-03T03:20:48.834Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 2030년 온실가스 배출량을 2018년 대비 40% 줄이겠다는 우리나라 정부의 목표가 지나치다는 지적이 경제단체 등을 중심으로 제기되고 있다. 우리 정부는 지난달 27일 국무회의에서 2030 온실가스감축목표(NDC)를 2018년 대비 40%로 확정한 데 이어 문재인 대통령이 지난 1일(현지시간) 영국 글래]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 윤석열 · 홍준표 "여론조사를 보면..", 사실은?]]></title>
         <id>https://v.daum.net/v/20211103111201737</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211101200504710"/>
         <updated>2021-11-01T11:15:32.698Z</updated>
         <content type="html"><![CDATA[[리포트] 호캉스, 그러니까 호텔에서 휴가를 보내는 분들 많은데요. 아이가 실수로 이불에 소변을 보거나 뭔가를 흘려서 호텔에 손실을 입혔을 때 어디까지 책임져야 하는지 확인해봅니다. 지난주 온라인 커뮤니티에 올라온 게시글입니다. 아이가 호텔 이불에 코피를 흘려서 이불을 못 쓰게 됐고, "파손 처리가 내부규정"이니 배상하란 연락을 받았다는 내용인데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '몰카'범죄는 왜 일상이 되었을까]]></title>
-        <id>https://v.daum.net/v/20211101101311399</id>
-        <link href="https://v.daum.net/v/20211101101311399"/>
-        <updated>2021-11-01T02:03:46.188Z</updated>
-        <content type="html"><![CDATA[초등학교 교장의 불법촬영이 사회에 충격을 안기고 있습니다. 학생들에 윤리의식을 함양하고 인성교육을 하는 학교에서, 그것도 '교장선생님'이 계획적으로 초소형 카메라를 설치했다는 것에 술렁이고 있습니다. 50대 교장 A씨가 초소형카메라 뿐만 아니라 스마트폰을 이용해서 범죄를 저지른 정황도 드러나고 있습니다. A씨는 적발된 카메라를 "시골에 있는 농장에 설치하려]]></content>
     </entry>
 </feed>
