@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-03T00:59:44.216Z</updated>
+    <updated>2021-11-03T02:01:47.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 핼러윈 기간에 외국인의 방역 수칙 위반 많았다?]]></title>
+        <id>https://v.daum.net/v/20211103102855379</id>
+        <link href="https://v.daum.net/v/20211103102855379"/>
+        <updated>2021-11-03T02:01:46.850Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 정부가 핼러윈 데이(10월 31일) 전후로 외국인에 대한 방역을 강화하고 방역 수칙 위반 외국인에 대해서는 강제 출국 등의 조처를 하겠다고 하면서 외국인을 보는 시선이 부드럽지 않다. 전해철 중앙재난안전대책본부(중대본) 2차장(행정안전부 장관)은 지난달 31일 중대본 회의에서 핼러윈 데이를 계기로 확진자 증가 가능성이 크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 요소수 품귀 해결하려 저감장치 중지?.."비현실적·비효율적"]]></title>
         <id>https://v.daum.net/v/20211103070036583</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211101070022242"/>
         <updated>2021-10-31T22:17:10.822Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 공동주택의 층간소음 분쟁이 늘어나고 있는 가운데 최근 온라인 커뮤니티 등에 올라 온 "우리 아파트 밤 10시 이후 목욕 금지"라는 글이 논란을 불렀다. 작성자는 "층간소음 때문에 금지라는데 너무 각박하다. 야근하고 돌아온 사람은 어떻게 하냐"고 불만을 제기했다. 네티즌 사이에서도 "회식이라도 하고 오면 씻지도 못하는 거냐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 이재명 "한국판 홀로코스트법 필요" 따져 보니..]]></title>
-        <id>https://v.daum.net/v/20211031084500660</id>
-        <link href="https://v.daum.net/v/20211031084500660"/>
-        <updated>2021-10-31T00:57:10.534Z</updated>
-        <content type="html"><![CDATA[이번 주는 국민의힘 윤석열 대선 경선 후보의 '전두환 옹호 발언' 후폭풍이 거셌습니다. "군사 쿠데타와 5.18만 빼면 전 씨가 정치는 잘했다"는 지난 19일 발언 때문입니다. 윤 후보는 결국 이틀 뒤 사과했지만, 자신의 SNS에 반려견에 사과를 주는 사진을 올리면서 논란이 다시 불붙었습니다. 윤 후보는 이번 주 내내 전두환 씨 관련 질문을 받아야 했습니다]]></content>
     </entry>
 </feed>
