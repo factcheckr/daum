@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-04T14:19:07.573Z</updated>
+    <updated>2021-11-04T15:19:38.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[윤석열 · 홍준표 "여론조사를 보면..", 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[서울 강남구 고급 주상복합 아파트 타워팰리스, 최근 한 30대 중국인이 이 아파트 펜트하우스를 89억 원 주고 사들입니다. 우리나라는 규제 때문에 은행 대출받아 집사기가 어려운데, 이 중국인은 외국 은행에서 대출받은 현금으로 집을 산 걸로 알려졌습니다. 바로 논란이 일었습니다. 중국인의 한국 부동산 투자, 그냥 넘어가선 안 된다며 관련 기사에서 많은 댓글이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[백신 맞고 숨져도 7,200원 보상이 전부? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20211104203106391</id>
+        <link href="https://v.daum.net/v/20211104203106391"/>
+        <updated>2021-11-04T12:33:18.647Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 주말 온라인 커뮤니티에 올라온 글입니다. 아버지가 코로나19 백신을 맞은 지 이틀 만에 숨졌는데, 조사결과 백신과의 인과성이 인정 안 돼서 병원비 7,200원만 보상받을 수 있게 됐다는 내용입니다. 이 글을 인용한 기사들도 꽤 많이 나왔는데요. 실제 보상금이 이렇게 적게 지급되는지 그 근거가 무엇인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['몰카'범죄는 왜 일상이 되었을까 (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20211101101311399</id>
         <link href="https://v.daum.net/v/20211101101311399"/>
@@ -164,13 +171,6 @@
         <link href="https://v.daum.net/v/20210925114008836"/>
         <updated>2021-09-26T22:57:58.038Z</updated>
         <content type="html"><![CDATA[전화 금융사기, 보이스피싱은 이제 일상이나 다름없습니다. 특히 최근엔 코로나 극복을 위한 각종 정책이 시행되면서 "소상공인 대출을 받게 해주겠다". "초저금리 대환대출로 싼 금리로 갈아타라"는 식의 휴대전화 문자가 기승을 부립니다. 대형 금융기관이 보내는 것처럼 형식과 내용도 그럴싸 합니다. 심지어 문자엔 '보이스피싱을 주의하라'는 경고까지 들어 있습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기료 인상은 '급격한 탈원전' 탓? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20210923201617515</id>
-        <link href="https://v.daum.net/v/20210923201617515"/>
-        <updated>2021-09-26T22:57:58.039Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 전기요금 인상과 관련해 여러 언론들이 탈원전 정책 때문이란 분석을 내놨습니다. "탈원전이 전기요금 인상을 야기했다", 원희룡 전 제주지사도 SNS에 "전기료 인상은 탈원전 청구서다"라는 글을 올렸는데요. "급격한 탈원전 정책으로 전기요금을 올릴 수밖에 없는 상황을 만들었다"는 주장입니다. 과연 어디까지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 맞고 많이 아프면 젊고 건강하다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
