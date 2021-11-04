@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-04T13:28:54.662Z</updated>
+    <updated>2021-11-04T14:19:07.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[윤석열 · 홍준표 "여론조사를 보면..", 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -257,6 +257,13 @@
         <content type="html"><![CDATA[[KBS 청주][앵커] 충청권 공공기관이 지역 출신 인재를 의무적으로 뽑아야하는 비율이 올해부터 최대 27%까지 늘었습니다. 취업을 준비하는 지역 청년들의 기대감이 큰데요. 현실은 어떨까요? 팩트체크K 이규명 기자가 취재했습니다. [리포트] 공공기관의 지역 인재 채용 정보를 제공하는 온라인 박람회가 한창입니다. 지난해, 혁신도시법 개정으로 올해 충청권 51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[경유차 요소수 대란..대체기술은? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20211104202947346</id>
+        <link href="https://v.daum.net/v/20211104202947346"/>
+        <updated>2021-11-04T12:33:18.647Z</updated>
+        <content type="html"><![CDATA[경유 차량의 필수품, 요소수 대란이 벌어지고 있습니다. 모든 경유차에 요소수가 필요한 건지, 대체 기술은 없는지 확인해봅니다. 요소수는 배기가스를 정화하는 역할을 합니다. 배기가스 속 발암물질인 질소산화물이 요소수와 만나면, 인체에 무해한 물과 질소로 바뀌면서 오염물질이 최대 99%까지 줄어듭니다. 국내에선 유럽연합의 배출가스 기준 '유로6']]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[치매·뇌경색 와도 운전면허는 그대로? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20211103200004044</id>
         <link href="https://v.daum.net/v/20211103200004044"/>
@@ -332,13 +339,6 @@
         <link href="https://v.daum.net/v/20211014200952791"/>
         <updated>2021-10-14T11:16:40.469Z</updated>
         <content type="html"><![CDATA[[리포트] 온라인에 올라온 글입니다. "코로나19 이후 아이들 말이 느려졌다." "교사의 입 모양을 보면서 언어 자극을 받는데 마스크가 다 가린다"는 주장입니다. 교사 등의 마스크 착용이 정말 영유아 언어발달에 영향을 미치는지 따져보겠습니다. 미국 플로리다 애틀랜틱 대학 연구팀이 2012년 발표한 논문입니다. 영유아 언어발달과 관련해 가장 많]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중고명품 거래는 '세금 프리'? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20211013201957248</id>
-        <link href="https://v.daum.net/v/20211013201957248"/>
-        <updated>2021-10-13T12:31:23.745Z</updated>
-        <content type="html"><![CDATA[수천만 원을 호가하는&nbsp;명품 수입 시계와 전기 자동차까지. 모두 중고품 거래 애플리케이션에&nbsp;매물로 올라온 물건입니다. 이렇게 온라인 중고 거래 장터가&nbsp;고가 제품이나 명품 거래 공간으로 급부상했지만&nbsp;세금은 내지 않는 '탈세 루트'가 되고 있다는 지적이 나오는데, 근거 있는지 따져봅니다. 집에서 안 쓰던 중고품을 팔아서 번 소득도&nbsp;세금, 내야 할까요?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무효표 처리, 결선투표 누구 말이 맞나 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
