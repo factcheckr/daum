@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2021-11-08T11:16:36.411Z</updated>
+    <updated>2021-11-08T12:32:43.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요소수, 소변·비료로도 만들 수 있다?]]></title>
+        <id>https://v.daum.net/v/20211108202904247</id>
+        <link href="https://v.daum.net/v/20211108202904247"/>
+        <updated>2021-11-08T12:32:36.620Z</updated>
+        <content type="html"><![CDATA[[앵커] 요소수가 모자라자 대용품을 찾는 시도들도 많습니다. 요소 대신 소변을 쓴다거나 농업용 비료에 물을 섞어 만들면 된다는 주장도 나오는데 믿을 만한 내용인지 팩트체크팀, 최재원 기자가 알려드리겠습니다. [기자] "소변으로 요소수를 대체할 수 있다", "전국민 운동이라도 해야 하는 것 아니냐" 소변을 이용해 요소수를 만들 수 있다는 얘기, 사실일까? []]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민 문맹률 80%라 군부독재는 숙명이었다?]]></title>
         <id>https://v.daum.net/v/20211101212108222</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210831204406830"/>
         <updated>2021-10-07T11:15:23.922Z</updated>
         <content type="html"><![CDATA[[앵커] 생후 20개월 된 아이를 학대해 살해한 20대 남성에 대해 '화학적 거세' 가능성이 거론되고 있습니다. 재판 과정에서 끔찍했던 범행 방식이 알려지며, 그것만으론 부족하다는 공분의 목소리가 큽니다. 어떤 처분이 가능한지 팩트체크팀이 따져봤습니다. 최재원 기자입니다. [기자] [(숨진 아이한테 할 말 있으십니까? 아이를 아이스박스에 넣은 이유가 뭐예요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치·경제권력은 '징벌적 손배' 못 건다? 따져보니]]></title>
-        <id>https://v.daum.net/v/20210824203905053</id>
-        <link href="https://v.daum.net/v/20210824203905053"/>
-        <updated>2021-10-07T11:15:23.923Z</updated>
-        <content type="html"><![CDATA[[앵커] 곧바로 팩트체크를 이어가겠습니다. 언론중재법 개정안을 놓고 민주당은 이렇게 주장을 하고 있습니다. [송영길/더불어민주당 대표 (지난 20일) : 경제권력, 정치권력을 다 뺐는데 뭘 언론 재갈 물리기법이라는 건지…] [송영길/더불어민주당 대표 (어제) : 단지 일반 국민들과 기업을 위한 구제장치를 마련했는데…] 이 주장을 따져보겠습니다. 최재원 기자]]></content>
     </entry>
 </feed>

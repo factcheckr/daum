@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-11-08T11:16:36.422Z</updated>
+    <updated>2021-11-08T12:32:43.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아이 심장 잘 뛰나 궁금해"..소율아빠 소원 이뤄질까]]></title>
+        <id>https://v.daum.net/v/20211108203109271</id>
+        <link href="https://v.daum.net/v/20211108203109271"/>
+        <updated>2021-11-08T12:28:23.637Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ [지난 2019년] "엉덩이춤, 엉덩이춤, 엉덩이춤… 아이고 예쁘다. 아이고 잘 하네." 지난주 6살 소율이는 세 명의 목숨을 살리고 세상을 떠났습니다. 어렵게 아이를 떠나보낸 소율이 아빠는 나중에 "딸의 심장이 다시 건강하게 잘 뛰는지"라도 알고 싶다고 했습니다. [전기섭/소율이 아버지] "소율이 심장도 뛰고 있는 거다… 그러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백신 맞고 숨져도 7,200원 보상이 전부?]]></title>
         <id>https://v.daum.net/v/20211104203106391</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210928203412367"/>
         <updated>2021-10-07T09:15:08.781Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 곽상도 의원의 아들 50억원 퇴직금, 연일 논란이 되고 있습니다. 화천대유 대주주는 '산재위로금'이 포함된 거라고 어제 오늘 거듭 밝혔는데요. [김만배 화천대유 대주주/오늘] "나중에 필요하면 본인이 (산재신청서를) 제출할 것으로 보이는데.. 그 당시에 저희 회사에서 판단했을 때 중재해라고 판단했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목숨도 앗아가는 보이스피싱..'감형사유' 봤더니]]></title>
-        <id>https://v.daum.net/v/20210925114008836</id>
-        <link href="https://v.daum.net/v/20210925114008836"/>
-        <updated>2021-10-07T09:15:08.782Z</updated>
-        <content type="html"><![CDATA[전화 금융사기, 보이스피싱은 이제 일상이나 다름없습니다. 특히 최근엔 코로나 극복을 위한 각종 정책이 시행되면서 "소상공인 대출을 받게 해주겠다". "초저금리 대환대출로 싼 금리로 갈아타라"는 식의 휴대전화 문자가 기승을 부립니다. 대형 금융기관이 보내는 것처럼 형식과 내용도 그럴싸 합니다. 심지어 문자엔 '보이스피싱을 주의하라'는 경고까지 들어 있습니다.]]></content>
     </entry>
 </feed>
