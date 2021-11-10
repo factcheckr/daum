@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-10T05:16:19.870Z</updated>
+    <updated>2021-11-10T06:23:39.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 중국에 '요소수' 올인했던 한국..다른 나라는?]]></title>
+        <id>https://v.daum.net/v/20211110151505326</id>
+        <link href="https://v.daum.net/v/20211110151505326"/>
+        <updated>2021-11-10T06:23:39.337Z</updated>
+        <content type="html"><![CDATA[요소수 품귀 사태로 우리 경제가 흔들리고 있습니다. 알려진 대로, 중국에서 요소를 수입하기 어려워졌기 때문입니다. 요소는 석탄이나 천연가스에서 추출해 생산합니다. 중국이 호주산 석탄 문제를 놓고 갈등을 빚으면서 자국 내 석탄이 부족해지자 사실상 요소 수출을 중단했습니다. 한국은 디젤차가 많아 피해가 유독 큽니다. 요소수는 경유차 질소산화물 저감 장치에 필수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 암모니아가 차량용 요소수 대체할 수 있다?]]></title>
         <id>https://v.daum.net/v/20211110113017513</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211104202947346"/>
         <updated>2021-11-04T12:33:18.647Z</updated>
         <content type="html"><![CDATA[경유 차량의 필수품, 요소수 대란이 벌어지고 있습니다. 모든 경유차에 요소수가 필요한 건지, 대체 기술은 없는지 확인해봅니다. 요소수는 배기가스를 정화하는 역할을 합니다. 배기가스 속 발암물질인 질소산화물이 요소수와 만나면, 인체에 무해한 물과 질소로 바뀌면서 오염물질이 최대 99%까지 줄어듭니다. 국내에선 유럽연합의 배출가스 기준 '유로6']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 백신 미접종도 해고·입사 취소 사유가 된다?]]></title>
-        <id>https://v.daum.net/v/20211104114234950</id>
-        <link href="https://v.daum.net/v/20211104114234950"/>
-        <updated>2021-11-04T03:24:02.449Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 정부가 단계적 일상회복(위드 코로나)을 위해 '방역패스'(접종증명·음성확인제) 정책을 확대하면서 곳곳에서 불만의 목소리가 나오고 있다. 최근 취업 관련 인터넷 카페에는 백신 미접종을 이유로 해고를 당했다거나 입사가 취소됐다는 글이 잇따라 올라와 논란이 되기도 했다. 한 누리꾼은 "사장이 왜 안 맞냐고 묻기에 주변에 부작용]]></content>
     </entry>
 </feed>
