@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-10T07:19:43.473Z</updated>
+    <updated>2021-11-10T08:25:11.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] '재고 한 달' 요소수, 올 겨울 전력대란 부른다?]]></title>
+        <title type="html"><![CDATA[[팩트체크] '재고 한 달' 요소수, 올겨울 전력대란 부른다?]]></title>
         <id>https://v.daum.net/v/20211110151602397</id>
         <link href="https://v.daum.net/v/20211110151602397"/>
         <updated>2021-11-10T07:19:42.831Z</updated>
-        <content type="html"><![CDATA[요소수 품귀 사태가 확산되면서 대기오염 방지설비에 요소수를 사용하는 화력발전소의 가동과 전력 공급에 문제가 없을 지 우려가 나온다. 언론에는 10일 ‘요소수 재고 한달치뿐, 화력발전 15% 멈춰설 위기’ ‘난방 급증하는 겨울 오는데, 요소수발 전력대란 비상’이라는 기사도 등장했다. 화력발전의 15%가 멈춰설 위기여서 전력대란이 올 수도 있다는 것은 사실일까]]></content>
+        <content type="html"><![CDATA[요소수 품귀 사태가 확산되면서 대기오염 방지설비에 요소수를 사용하는 화력발전소의 가동과 전력 공급에 문제가 없을지 우려가 나온다. 언론에는 10일 ‘요소수 재고 한달치뿐, 화력발전 15% 멈춰 설 위기’ ‘난방 급증하는 겨울 오는데, 요소수발 전력대란 비상’이라는 기사도 등장했다. 화력발전의 15%가 멈춰 설 위기여서 전력대란이 올 수도 있다는 것은 사실일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 중국에 '요소수' 올인했던 한국..다른 나라는?]]></title>
