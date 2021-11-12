@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-12T00:58:06.957Z</updated>
+    <updated>2021-11-12T02:01:18.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '새 생명 주셔서 고맙다'는 편지 받으면..어떨까]]></title>
+        <id>https://v.daum.net/v/20211112102206806</id>
+        <link href="https://v.daum.net/v/20211112102206806"/>
+        <updated>2021-11-12T02:01:17.993Z</updated>
+        <content type="html"><![CDATA[지난달 말 6살 소율양이 세상을 떠났습니다. 불의의 사고로 투병생활을 이어온지 2년 만에, 먼저 세상을 뜬 엄마의 품에 안겼습니다. 소율양은 심장과 좌·우 신장을 남기고 떠났습니다. 짧게 세상에 있다 갔지만 소율양의 몸의 일부는 누군가의 몸속에서 여전히 살아서 자라고 있습니다. 아버지 전기섭씨가 장기기증을 결심한 이유입니다. -전기섭/소율양 아버지 "제가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 회사 소유 PC·휴대전화는 사용 직원 동의 없이 열람?]]></title>
         <id>https://v.daum.net/v/20211112073411134</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211110151602397"/>
         <updated>2021-11-10T07:19:42.831Z</updated>
         <content type="html"><![CDATA[요소수 품귀 사태가 확산되면서 대기오염 방지설비에 요소수를 사용하는 화력발전소의 가동과 전력 공급에 문제가 없을지 우려가 나온다. 언론에는 10일 ‘요소수 재고 한달치뿐, 화력발전 15% 멈춰 설 위기’ ‘난방 급증하는 겨울 오는데, 요소수발 전력대란 비상’이라는 기사도 등장했다. 화력발전의 15%가 멈춰 설 위기여서 전력대란이 올 수도 있다는 것은 사실일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 중국에 '요소수' 올인했던 한국..다른 나라는?]]></title>
-        <id>https://v.daum.net/v/20211110151505326</id>
-        <link href="https://v.daum.net/v/20211110151505326"/>
-        <updated>2021-11-10T06:23:39.337Z</updated>
-        <content type="html"><![CDATA[요소수 품귀 사태로 우리 경제가 흔들리고 있습니다. 알려진 대로, 중국에서 요소를 수입하기 어려워졌기 때문입니다. 요소는 석탄이나 천연가스에서 추출해 생산합니다. 중국이 호주산 석탄 문제를 놓고 갈등을 빚으면서 자국 내 석탄이 부족해지자 사실상 요소 수출을 중단했습니다. 한국은 디젤차가 많아 피해가 유독 큽니다. 요소수는 경유차 질소산화물 저감 장치에 필수]]></content>
     </entry>
 </feed>
