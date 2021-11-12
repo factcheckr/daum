@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-12T11:16:03.519Z</updated>
+    <updated>2021-11-12T12:28:59.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 스토킹 처벌법, 층간소음 분쟁에까지 적용?]]></title>
+        <id>https://v.daum.net/v/20211112202703077</id>
+        <link href="https://v.daum.net/v/20211112202703077"/>
+        <updated>2021-11-12T12:28:59.068Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 스토킹 처벌법이 시행된 지 약 3주가 지났습니다. 신고 건수가 크게 늘었고, 벌써 구속된 경우도 있습니다. 그런데 층간 소음 분쟁이나 개인 간 다툼까지 스토킹으로 신고해서 오용 우려가 있다는 기사들도 나옵니다. 정말 층간 소음 분쟁에까지 스토킹 처벌법이 적용될 수 있는 걸까요? 이게 사실인지, 무엇이 문제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 갑론을박 대장동특검..당장 수사할 수 있을까]]></title>
         <id>https://v.daum.net/v/20211112140222923</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211110203317760"/>
         <updated>2021-11-10T12:32:40.009Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 오토바이나 전동킥보드 등을 탈 때 반드시 헬멧을 써야합니다. 쓰지 않으면 범칙금 내거든요. 그런데 공사장 안전모나 다른 단단한 모자를 헬멧 대신 써도 단속이 안 될까요? 홍지호 기자가 사실확인에서 알아봤습니다. 【 기자 】 오토바이나 자전거, 이젠 전동킥보드를 탈 때도 운전자의 안전을 위해 헬멧을 의무적으로 써야 합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경유차 저감장치 빼면 요소수 없이 운행 가능하다? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20211110200200870</id>
-        <link href="https://v.daum.net/v/20211110200200870"/>
-        <updated>2021-11-10T11:15:49.040Z</updated>
-        <content type="html"><![CDATA[전국적으로 차량용 요소수 품귀현상이 지속되고 있는 10일 충남 천안시의 한 고속도로 휴게소 주유소에 트럭들이 요소수를 넣기 위해 길게 줄을 서 있다. 뉴스1  “요소수 없으면 정관수술 하게 해달라” 요소수 품귀 사태가 좀처럼 해결되지 않아 '물류대란' 가능성이 고조되는 가운데 요소수를 충분히 확보할 때까지만이라도 경유 차량을 요소수 없이&nbsp;운행할 수 있]]></content>
     </entry>
 </feed>

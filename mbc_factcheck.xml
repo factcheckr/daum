@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-11-12T11:16:03.524Z</updated>
+    <updated>2021-11-12T12:28:59.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스토킹 처벌법, 층간소음 분쟁에까지 적용?]]></title>
+        <id>https://v.daum.net/v/20211112202703077</id>
+        <link href="https://v.daum.net/v/20211112202703077"/>
+        <updated>2021-11-12T12:27:26.601Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 스토킹 처벌법이 시행된 지 약 3주가 지났습니다. 신고 건수가 크게 늘었고, 벌써 구속된 경우도 있습니다. 그런데 층간 소음 분쟁이나 개인 간 다툼까지 스토킹으로 신고해서 오용 우려가 있다는 기사들도 나옵니다. 정말 층간 소음 분쟁에까지 스토킹 처벌법이 적용될 수 있는 걸까요? 이게 사실인지, 무엇이 문제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['새 생명 주셔서 고맙다'는 편지 받으면..어떨까]]></title>
         <id>https://v.daum.net/v/20211112102206806</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211002101009103"/>
         <updated>2021-10-07T09:15:08.780Z</updated>
         <content type="html"><![CDATA[전기요금이 논란입니다. 3분기보다 kWh당 3원 오르는 전기요금, 1인 가구 기준 평균 한달에 1,000원 가량 오르는 셈이지만, 가뜩이나 다른 물가 다 오르는데 가계의 부담이 가중되는 건 어찌보면 당연합니다. 1% 전기요금 오르면 소비자 물가가 0.017%p 오른다는 선험적인 통계도 있습니다. 하지만 그렇다고 해도 '8년 만에 1.6%' 오른 것을 두고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모에게 빌린 돈은 편법 증여 아니다?]]></title>
-        <id>https://v.daum.net/v/20210930201915286</id>
-        <link href="https://v.daum.net/v/20210930201915286"/>
-        <updated>2021-10-07T09:15:08.781Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 편법 증여 포함해서 최근 부모 돈 빌려 집을 사는 젊은 층도 크게 늘고 있습니다. 온라인 상에는 부모님 돈 빌려서 주택자금 마련하는 법까지 돌고 있는데요. 부모에게 빌린 돈, 갚기만 하면 편법 증여가 아니라고 볼 수 있을까요. 뭐가 문제인지 따져봤습니다. ◀ 리포트 ▶ 편법 증여 등을 막기 위]]></content>
     </entry>
 </feed>
