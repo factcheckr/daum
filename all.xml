@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-14T21:16:07.921Z</updated>
+    <updated>2021-11-14T22:20:19.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[중국에 '요소수' 올인했던 한국..다른 나라는? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,20 @@
         <content type="html"><![CDATA[[앵커] LED 조명으로 코로나 바이러스를 치료할 수 있단 내용의 보도들이 최근 온라인에서 관심을 끌었습니다. 백신 주사나 치료제가 아니라, 조명으로 바이러스를 없앨 수 있다는 거냐, 의아하단 반응이 많습니다. 팩트체크팀이 확인해봤습니다. 최재원 기자입니다. [기자] "LED 빛으로 델타 변이 99%가 제거됐다" "집에서 코로나 치료하는 기술이 개발됐다"]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크K] 백신 접종 후 심근염, 주사 접종방식 잘못돼 생긴다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211115070055475</id>
+        <link href="https://v.daum.net/v/20211115070055475"/>
+        <updated>2021-11-14T22:20:19.127Z</updated>
+        <content type="html"><![CDATA[국내 12~17세 유아·청소년 대상 코로나19 백신 접종이 30%대에 머물고 있습니다. 14일 0시 기준 접종 대상 276만 8천여 명 가운데 1차 접종을 마친 사람은 94만 3천 8백 명, 접종률은 34.1% 로 나타났습니다. 접종률이 다른 연령대보다 저조한 것은 접종 후 이상반응에 대한 우려 때문입니다. 우리보다 먼저 이 연령대에 백신 접종을 시작한 외]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 1910년 한일합병 책임은 누구에게 있나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211115063104200</id>
+        <link href="https://v.daum.net/v/20211115063104200"/>
+        <updated>2021-11-14T22:20:19.128Z</updated>
+        <content type="html"><![CDATA[(뉴욕=연합뉴스) 고일환 특파원 = 1910년 일본의 대한제국 합병 과정에서 미국의 역할에 대한 논란이 최근 다시 한번 불거졌다. 지난 12일 더불어민주당 이재명 대선 후보가 존 오소프 미국 상원의원과 만난 자리에서 "일본에 한국이 합병된 이유는 미국이 '가쓰라-태프트 협약'을 통해서 승인했기 때문"이라고 말한 것이 계기가 됐다. 한일합병에 대해 미국이 책]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공용폰 압수, 정보주체 동의 필요없다? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211114230146793</id>
         <link href="https://v.daum.net/v/20211114230146793"/>
@@ -647,19 +661,5 @@
         <link href="https://v.daum.net/v/20211112073411134"/>
         <updated>2021-11-11T23:21:09.607Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 최근 대검찰청 감찰부가 전·현직 대변인이 사용하던 공용 휴대전화를 압수 수색한 것을 두고 생긴 논란은 일반 직장인들까지 관심을 갖게 한다. 회사에서 제공한 PC로 일하는 것이 일반적이고 업무에 따라선 휴대전화까지 받아 사용하는 경우가 있기 때문이다. 문제는 업무용 PC나 휴대전화라 해도 사용자의 사적인 정보가 담길 수밖에 없]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]어린이집 종교수업은 아동학대? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211111201452654</id>
-        <link href="https://v.daum.net/v/20211111201452654"/>
-        <updated>2021-11-11T12:32:58.484Z</updated>
-        <content type="html"><![CDATA[경기도의 한 시립 어린이집이 종교 교육 논란에 휩싸였습니다. "커피 마시면 지옥 간다." 원장이 아이들에게 이런 말을 했다면서, 학부모들이 경찰에 신고까지 했는데요. 부모나 자녀 본인의 동의 없는 종교 수업, 해도 되는지 확인해 봅니다. 교육부와 보건복지부가 유치원과 어린이집에 적용하는 교육 지침입니다. "종교를 이유로 차별받지 않아야 한다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 전국민 지원금 25조·소상공인 손실보상 50조 정말 쉽지 않나 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211111160009824</id>
-        <link href="https://v.daum.net/v/20211111160009824"/>
-        <updated>2021-11-11T07:19:07.924Z</updated>
-        <content type="html"><![CDATA[(세종=연합뉴스) 차지연 기자 = 정치권이 대선을 앞두고 전국민 방역지원금 지급, 50조원 규모의 소상공인 추가 손실보상 등 상당한 재정이 들어가는 공약을 쏟아내는 것에 대해 정부가 반대 입장을 고수하고 있다. 더불어민주당 이재명 대선후보의 전국민 방역지원금 구상에 대해 김부겸 국무총리는 지난 10일 밤 KBS '더라이브'에 출연해 "정부에게는 현재로선]]></content>
     </entry>
 </feed>
