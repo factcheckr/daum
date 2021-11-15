@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-15T10:22:13.078Z</updated>
+    <updated>2021-11-15T11:18:03.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이재명 · 윤석열의 '코로나 지원금' 따져봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] LED 조명으로 코로나 바이러스를 치료할 수 있단 내용의 보도들이 최근 온라인에서 관심을 끌었습니다. 백신 주사나 치료제가 아니라, 조명으로 바이러스를 없앨 수 있다는 거냐, 의아하단 반응이 많습니다. 팩트체크팀이 확인해봤습니다. 최재원 기자입니다. [기자] "LED 빛으로 델타 변이 99%가 제거됐다" "집에서 코로나 치료하는 기술이 개발됐다"]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트맨]첫눈 일찍 오면 겨울이 더 춥다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211115200651481</id>
+        <link href="https://v.daum.net/v/20211115200651481"/>
+        <updated>2021-11-15T11:18:02.941Z</updated>
+        <content type="html"><![CDATA[하얗게 내린 눈으로 온 산이 뒤덮였습니다. 사람들도 한껏 들떴습니다. "눈이 너무 예쁘게 와서 마치 겨울왕국 동화 속에 들어와 있는 것 같아서 너무 좋은 것 같아요." 올해 첫눈은 서울지역 기준 지난해보다 한 달 빨리 찾아왔습니다. 첫눈이 일찍 오면 그해 겨울이 더 춥다는 속설, 정말인지 따져봅니다. 결론부터 말씀드리면 눈이 일찍 왔다고 해서]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] 주말 SNS 달군 '허경영 전화'는 선거법 위반일까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211115164015232</id>
         <link href="https://v.daum.net/v/20211115164015232"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211114070307281"/>
         <updated>2021-11-13T22:17:18.416Z</updated>
         <content type="html"><![CDATA[노컷뉴스 팩트체크국민의힘 김재원 최고위원은 당내 대선 경선 직후 3천명이 탈당하는 동안 7천명 정도가 입당했다고 주장했습니다. 2030 세대 감소폭도 400명에 불과하다고 했습니다. 사실인지 따져봤습니다.없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷[편집자 주] 국민의힘이 윤석열 후보를 대선 주자로 확정한 뒤 이제는 경선 과정에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 첫눈 일찍 오면 그해 겨울은 더 춥다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211113090011544</id>
-        <link href="https://v.daum.net/v/20211113090011544"/>
-        <updated>2021-11-13T00:54:47.198Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 올해 서울 지역의 첫눈이 작년보다 한 달 일찍 찾아왔다. 입동 다음 날인 8일 낮부터 기온이 급격히 떨어지며 체감상 겨울이 성큼 다가온 가운데 첫눈마저 예년보다 일찍 내렸다는 소식에 일각에서는 올해 혹한을 예고하는 것이 아니냐는 우려도 나온다. 실제로 첫눈이 평년보다 일찍 내리면 그해 겨울은 더 추울까. 결론부터 말하면]]></content>
     </entry>
 </feed>
