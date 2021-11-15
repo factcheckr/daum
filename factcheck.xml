@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-15T02:36:59.141Z</updated>
+    <updated>2021-11-15T03:19:16.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 사고 책임이 더 큰 킥보드 운전자 치료비도 차량 운전자가 문다?]]></title>
+        <id>https://v.daum.net/v/20211115113859791</id>
+        <link href="https://v.daum.net/v/20211115113859791"/>
+        <updated>2021-11-15T03:19:15.830Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 전동킥보드 이용자가 늘면서 크고 작은 사고가 끊이지 않고 있으나 피해를 본 보행자나 차량은 제대로 보상을 받지 못한다는 불만이 적지 않다. 킥보드 과실이 큰 사고였는데도 킥보드 운전자의 치료비를 피해 차량 운전자가 부담했다는 언론 보도가 최근 나오자, "피해자가 가해자 보상을 해줘야 한다니 어처구니가 없다"는 등 네티즌들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 이재명 · 윤석열의 '코로나 지원금' 따져봤습니다]]></title>
         <id>https://v.daum.net/v/20211115110000644</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211112140222923"/>
         <updated>2021-11-12T05:17:09.954Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성조 기자 = 대장동 의혹 특별검사 도입을 놓고 정치권이 연일 기싸움을 벌이면서 역대 14번째인 '대장동 특검팀'이 출범할 수 있을지에도 관심이 쏠린다. 더불어민주당 이재명 대선 후보가 10일 특검에 '조건부 찬성' 입장을 밝힌 가운데 국민의힘은 연일 특검 도입을 압박한다. 여당은 검찰 수사가 선행돼야 한다고 전제하면서도 특검 논의를 할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 故 홍정운의 꿈..목숨이 낙엽처럼]]></title>
-        <id>https://v.daum.net/v/20211112114508878</id>
-        <link href="https://v.daum.net/v/20211112114508878"/>
-        <updated>2021-11-12T09:18:21.416Z</updated>
-        <content type="html"><![CDATA[홍정운 군은 4남매 중 셋째였습니다. 낯을 많이 가렸지만 친한 또래들 앞에선 장난기 넘쳤던 친구. 하지만, 가정 형편을 생각해 대학 대신 바다에 미래를 걸었던 속 깊은 아들이기도 했습니다. 고등학교를 졸업해 돈 많이 벌어서 요트 사업을 하겠다는 꿈도 꿨습니다. [故 홍정운 : 아파트 예쁜데? 내 것 할까? 한 동을 사줄게.] 홍정운 군이 미래를 걸었던 바다]]></content>
     </entry>
 </feed>
