@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-11-15T14:19:11.623Z</updated>
+    <updated>2021-11-15T15:19:29.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫눈 일찍 오면 겨울이 더 춥다?]]></title>
+        <id>https://v.daum.net/v/20211115200651481</id>
+        <link href="https://v.daum.net/v/20211115200651481"/>
+        <updated>2021-11-15T15:18:59.293Z</updated>
+        <content type="html"><![CDATA[하얗게 내린 눈으로 온 산이 뒤덮였습니다. 사람들도 한껏 들떴습니다. "눈이 너무 예쁘게 와서 마치 겨울왕국 동화 속에 들어와 있는 것 같아서 너무 좋은 것 같아요." 올해 첫눈은 서울지역 기준 지난해보다 한 달 빨리 찾아왔습니다. 첫눈이 일찍 오면 그해 겨울이 더 춥다는 속설, 정말인지 따져봅니다. 결론부터 말씀드리면 눈이 일찍 왔다고 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이집 종교수업은 아동학대?]]></title>
         <id>https://v.daum.net/v/20211111201452654</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211026195646460"/>
         <updated>2021-10-26T11:15:14.180Z</updated>
         <content type="html"><![CDATA[[자영업자] "장사하려는데 (인터넷이) 끊겨서 난리였어요." [택시기사] "한 시간가량 영업을 못 했다…." 앞서 보셨듯이 대표까지 사과했지만 어제 KT 통신망 마비로 자영업자들은 적잖은 손실을 봤고, 그 보상문제는 이제부터 시작입니다. 피해 보상 어떻게 될지 과거 사례를 통해 전망해 봅니다. KT의 손해배상 규정입니다. "연속 3시간 이상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성범죄자 알림e 신상정보, 사실과 다르다?]]></title>
-        <id>https://v.daum.net/v/20211025200418669</id>
-        <link href="https://v.daum.net/v/20211025200418669"/>
-        <updated>2021-10-25T11:14:56.616Z</updated>
-        <content type="html"><![CDATA[[강윤성] "피해자분과 그 가족분들께 진심으로 사죄드립니다." 전자발찌를 훼손하고 여성 두 명을 연쇄 살해했던 강윤성. 이 사건을 계기로 경찰이 성범죄자 집중 점검에 나섰는데요. 문제는 시민들에게 공개된 성범죄자의 정보가 실제와 다를 수 있다는 점입니다. 왜 그런지 따져봅니다. 정부의 성범죄자 관리 체계입니다. 성범죄자의 신상정보는 등록 관]]></content>
     </entry>
 </feed>
