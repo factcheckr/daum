@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-15T00:58:10.570Z</updated>
+    <updated>2021-11-15T02:02:23.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 이재명 · 윤석열의 '코로나 지원금' 따져봤습니다]]></title>
+        <id>https://v.daum.net/v/20211115110000644</id>
+        <link href="https://v.daum.net/v/20211115110000644"/>
+        <updated>2021-11-15T02:02:23.091Z</updated>
+        <content type="html"><![CDATA[대선을 앞두고 여야 대선 후보들이 앞다퉈 막대한 코로나 지원금 공약을 내놓고 있습니다. 더불어민주당 이재명 후보는 전 국민을 대상으로 한 재난 지원금을 언급했습니다. 우리나라 지원금이 세계적으로 가장 낮은 수준이라며, 추가로 30~50만 원 정도를 제시했습니다. 우리나라 인구가 5,182만 명이니까, 단순 계산하면 30만 원 지급할 때 15조 5460억 원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경항모, 혈세 20조 투입되는 '돈 먹는 하마' 인가? [팩트파인더]]]></title>
         <id>https://v.daum.net/v/20211115080005223</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211112114508878"/>
         <updated>2021-11-12T09:18:21.416Z</updated>
         <content type="html"><![CDATA[홍정운 군은 4남매 중 셋째였습니다. 낯을 많이 가렸지만 친한 또래들 앞에선 장난기 넘쳤던 친구. 하지만, 가정 형편을 생각해 대학 대신 바다에 미래를 걸었던 속 깊은 아들이기도 했습니다. 고등학교를 졸업해 돈 많이 벌어서 요트 사업을 하겠다는 꿈도 꿨습니다. [故 홍정운 : 아파트 예쁜데? 내 것 할까? 한 동을 사줄게.] 홍정운 군이 미래를 걸었던 바다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '새 생명 주셔서 고맙다'는 편지 받으면..어떨까]]></title>
-        <id>https://v.daum.net/v/20211112102206806</id>
-        <link href="https://v.daum.net/v/20211112102206806"/>
-        <updated>2021-11-12T02:01:17.993Z</updated>
-        <content type="html"><![CDATA[지난달 말 6살 소율양이 세상을 떠났습니다. 불의의 사고로 투병생활을 이어온지 2년 만에, 먼저 세상을 뜬 엄마의 품에 안겼습니다. 소율양은 심장과 좌·우 신장을 남기고 떠났습니다. 짧게 세상에 있다 갔지만 소율양의 몸의 일부는 누군가의 몸속에서 여전히 살아서 자라고 있습니다. 아버지 전기섭씨가 장기기증을 결심한 이유입니다. -전기섭/소율양 아버지 "제가]]></content>
     </entry>
 </feed>
