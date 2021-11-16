@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2021-11-16T10:20:03.748Z</updated>
+    <updated>2021-11-16T11:15:29.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위드코로나' 이후..일상생활 조금씩 '정상화']]></title>
+        <id>https://v.daum.net/v/20211116193735096</id>
+        <link href="https://v.daum.net/v/20211116193735096"/>
+        <updated>2021-11-16T11:14:40.923Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 앞선 리포트에서 전해드린 것처럼  정부의 단계적 일상회복, 이른바 위드코로나 시행 이후 조금씩 일상을 찾아가고 있는데요. 오늘 팩트체크K 에서는 '위드코로나' 이후 변화화는 일상의 모습에 대해 보도국 정진규 기자와  좀 더 자세히 짚어보겠습니다. 정 기자,  이달부터 정부의 단계적 일상회복,  이른바 위드코로나가 시행됐는데.. 가장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백신 접종 후 심근염, 주사 접종방식 잘못돼 생긴다?]]></title>
         <id>https://v.daum.net/v/20211115070055475</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210423080030265"/>
         <updated>2021-09-26T22:58:07.715Z</updated>
         <content type="html"><![CDATA[일본 정부가 후쿠시마 원전 오염수를 바다로 방류하는 계획을 지난 13일 공식 발표하면서 우리나라를 비롯한 주변국뿐만 아니라 일본 후쿠시마 주민들과 환경단체 등 일본 내부에서도 반발이 일고 있습니다. 스가 요시히데 일본 총리는 설비 공사 등을 거쳐 앞으로 2년 뒤 방류를 시작할 계획이며 "삼중수소 농도를 일본 기준의 40분의 1, WHO의 식수 기준의 7분의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 코로나19 자가검사키트, 수출만 하고 자국민 사용은 외면?]]></title>
-        <id>https://v.daum.net/v/20210415080022283</id>
-        <link href="https://v.daum.net/v/20210415080022283"/>
-        <updated>2021-09-26T22:58:07.716Z</updated>
-        <content type="html"><![CDATA[오세훈 서울시장이 지난 12일 국무회의에 참석해 다중이용시설과 학교, 종교시설에서 사용할 수 있도록  코로나19 자가검사키트의 국내 사용 허가를 촉구하면서  자가검사키트에 대한 관심이 높아졌습니다. 이런 가운데 유럽 등 해외에서 국내 자가검사키트에 대한 주문이 잇따르고 있다는 소식까지 포털사이트를 통해 전해지면서 일부 누리꾼들은  국내서는 왜 사용이 안 되]]></content>
     </entry>
 </feed>
