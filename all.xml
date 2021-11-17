@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-17T02:01:11.614Z</updated>
+    <updated>2021-11-17T02:37:01.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이재명 · 윤석열의 '코로나 지원금' 따져봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] LED 조명으로 코로나 바이러스를 치료할 수 있단 내용의 보도들이 최근 온라인에서 관심을 끌었습니다. 백신 주사나 치료제가 아니라, 조명으로 바이러스를 없앨 수 있다는 거냐, 의아하단 반응이 많습니다. 팩트체크팀이 확인해봤습니다. 최재원 기자입니다. [기자] "LED 빛으로 델타 변이 99%가 제거됐다" "집에서 코로나 치료하는 기술이 개발됐다"]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[뉴스AS] 구속된 권오수-김건희, 도이치모터스 3대 주식거래 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211117100615215</id>
+        <link href="https://v.daum.net/v/20211117100615215"/>
+        <updated>2021-11-17T02:37:00.954Z</updated>
+        <content type="html"><![CDATA[16일 밤 주가조작 혐의로 구속된 권오수 도이치모터스 회장은 윤석열 국민의힘 대선 후보의 아내 김건희씨와 지속적 거래를 해왔다. 윤 후보 쪽 부인에도 불구하고 두 사람 사이 석연찮은 거래들은 결국 검찰 수사로 확인할 수밖에 없다. 김씨 관련 의혹의 핵심은 권 회장이 급락한 도이치모터스 주가를 띄우기 위해 주가조작 세력과 짜고 시세조종을 하는 과정에 김씨가]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크K] '위드코로나' 이동량 급증..매출 10% 이상 증가 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211117092102478</id>
         <link href="https://v.daum.net/v/20211117092102478"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211115164015232"/>
         <updated>2021-11-15T08:22:29.416Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 지난 주말 각종 온라인 커뮤니티와 소셜미디어(SNS)상에는 "허경영 전화가 왔다"는 인증 글이 잇따르며 이른바 '허경영 전화'가 화제가 됐다. 글의 대부분은 '02-780-9010' 번호로 걸려온 전화를 받았더니 허경영 국가혁명당 명예대표의 전화였다거나 스팸 전화인 줄 알았는데 허 명예대표의 전화였다는 것이다. 이는 내년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]광주시 일상회복지원금 지급, 지방채 발행 없이 가능? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211115160900058</id>
-        <link href="https://v.daum.net/v/20211115160900058"/>
-        <updated>2021-11-15T07:19:02.393Z</updated>
-        <content type="html"><![CDATA[광주시가 내년 설을 전후해 재난지원금 성격의 '일상회복지원금' 지급을 추진하면서 시민들의 일상 회복에 도움을 주기 위해 필요하다는 의견과 지방선거를 앞둔 선심성 예산으로 불필요하다는 찬반 양론이 부딪히고 있다. 특히 광주시가 당초 일상회복지원금 지급을 위한 재원 마련을 위해 지방채 750억 원을 발행할 계획이라고 밝혔다가 채 1주일도 안 돼 일상회복지원금을]]></content>
     </entry>
 </feed>
