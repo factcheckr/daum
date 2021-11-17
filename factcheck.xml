@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-17T13:24:27.267Z</updated>
+    <updated>2021-11-17T14:16:57.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '여가부 개편' 띄운 후보들..예산 사용처 보니]]></title>
+        <id>https://v.daum.net/v/20211117223610652</id>
+        <link href="https://v.daum.net/v/20211117223610652"/>
+        <updated>2021-11-17T14:16:56.598Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 여야 대선 후보들이 나란히 여성가족부 개편 카드를 꺼내 들었습니다. 여성가족부 정책 기조를 여성 인권에서 양성 평등으로 바꾸겠다는 것인데, 지금 여가부 정책은 어떤지 이경원 기자가 사실은 코너에서 따져봤습니다. &lt;기자&gt; [이재명/더불어민주당 대선 후보 (지난 12일) : 여성가족부보다는 여성도 남성도 평등한 사회를 지향하자는 측면에서 평등가족부로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 교회가 달라는 대로? 전광훈 '563억원' 억지 주장]]></title>
         <id>https://v.daum.net/v/20211117202904943</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211116214906560"/>
         <updated>2021-11-16T13:24:07.294Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 앞서 보신 것처럼  정부의 단계적 일상회복, 이른바 '위드코로나' 시행 이후 우리 사회도 조금씩  조금씩 일상을 찾아가고 있는데요. 무엇이 어떻게 변하고 있는지  데이터로 확인해 봤습니다. 팩트체크K,  정진규 기자가 보도합니다. [리포트] 단계적 일상회복 이후  가장 크게 달라진 점은 거리로 나서는 사람들이 늘었다는 겁니다. 이동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]은행 열매 악취, 사라졌다?]]></title>
-        <id>https://v.daum.net/v/20211116195353337</id>
-        <link href="https://v.daum.net/v/20211116195353337"/>
-        <updated>2021-11-16T11:15:28.410Z</updated>
-        <content type="html"><![CDATA[노랗게 물든 은행잎이 계절이 바뀐 걸 실감하게 하죠. 하지만 바닥에 떨어진 은행 열매에서 풍기는 악취는 가을철 불청객인데요. 시민들 중엔 올해는 예년보다 거리에 은행 악취가 덜한 것 같다고 하시는 분들이 많다는데, 근거가 있는지 확인해봅니다. 결론부터 말씀드리면 적어도 서울에선 은행 열매 악취 민원, 지난해의 절반 수준으로 크게 줄어들었습니다.]]></content>
     </entry>
 </feed>
