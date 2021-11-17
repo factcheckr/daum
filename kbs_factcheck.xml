@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2021-11-16T23:18:48.202Z</updated>
+    <updated>2021-11-17T00:56:27.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위드코로나' 이동량 급증..매출 10% 이상 증가]]></title>
+        <id>https://v.daum.net/v/20211117092102478</id>
+        <link href="https://v.daum.net/v/20211117092102478"/>
+        <updated>2021-11-17T00:54:51.621Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] 정진규 기자 (jin9@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위드코로나' 이동량 급증..매출 10% 이상 증가]]></title>
         <id>https://v.daum.net/v/20211116214906560</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210604152432797"/>
         <updated>2021-09-26T22:58:07.713Z</updated>
         <content type="html"><![CDATA[국내에서 코로나19 '돌파감염' 추정 사례가 9건으로 집계됐습니다.  '돌파감염'은 백신 별로 권장 접종 횟수를 모두 접종한 뒤 2주가 지나 확진되는 경우로 변이 바이러스의 확산 가능성을 엿볼 수 있는 지표로 여겨집니다. 중앙방역대책본부에 따르면 5월 31일 0시 기준 국내에서 접종을 완료한 뒤 2주가 지난 사람은 103만 9,559명이었고 이 가운데 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["백신 접종 효과 100%"..맞으면 코로나19 안 걸린다는 의미?]]></title>
-        <id>https://v.daum.net/v/20210428080153862</id>
-        <link href="https://v.daum.net/v/20210428080153862"/>
-        <updated>2021-09-26T22:58:07.714Z</updated>
-        <content type="html"><![CDATA[■ 홍남기 "75세 이상 접종 효과 AZ 백신 100%, 화이자 백신 93.2%"…사실일까? 홍남기 국무총리 대행이 이틀 전(26일) 코로나19 백신 수급 관련 대국민 담화에서 "현재 정부가 확보한 백신은 전 세계적으로 안전성과 효과성이 인정되어 접종 중" 이라면서 "75세 이상 접종 효과 분석 결과, 아스트라제네카(AZ) 백신 100%, 화이자 백신 9]]></content>
     </entry>
 </feed>

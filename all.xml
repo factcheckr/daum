@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-16T23:18:48.209Z</updated>
+    <updated>2021-11-17T00:56:27.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이재명 · 윤석열의 '코로나 지원금' 따져봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -174,6 +174,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA['위드코로나' 이동량 급증..매출 10% 이상 증가 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20211117092102478</id>
+        <link href="https://v.daum.net/v/20211117092102478"/>
+        <updated>2021-11-17T00:54:51.621Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] 정진규 기자 (jin9@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위드코로나' 이동량 급증..매출 10% 이상 증가 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20211116214906560</id>
         <link href="https://v.daum.net/v/20211116214906560"/>
         <updated>2021-11-16T13:23:22.821Z</updated>
@@ -248,13 +255,6 @@
         <link href="https://v.daum.net/v/20210604152432797"/>
         <updated>2021-09-26T22:58:07.713Z</updated>
         <content type="html"><![CDATA[국내에서 코로나19 '돌파감염' 추정 사례가 9건으로 집계됐습니다.  '돌파감염'은 백신 별로 권장 접종 횟수를 모두 접종한 뒤 2주가 지나 확진되는 경우로 변이 바이러스의 확산 가능성을 엿볼 수 있는 지표로 여겨집니다. 중앙방역대책본부에 따르면 5월 31일 0시 기준 국내에서 접종을 완료한 뒤 2주가 지난 사람은 103만 9,559명이었고 이 가운데 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["백신 접종 효과 100%"..맞으면 코로나19 안 걸린다는 의미? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20210428080153862</id>
-        <link href="https://v.daum.net/v/20210428080153862"/>
-        <updated>2021-09-26T22:58:07.714Z</updated>
-        <content type="html"><![CDATA[■ 홍남기 "75세 이상 접종 효과 AZ 백신 100%, 화이자 백신 93.2%"…사실일까? 홍남기 국무총리 대행이 이틀 전(26일) 코로나19 백신 수급 관련 대국민 담화에서 "현재 정부가 확보한 백신은 전 세계적으로 안전성과 효과성이 인정되어 접종 중" 이라면서 "75세 이상 접종 효과 분석 결과, 아스트라제네카(AZ) 백신 100%, 화이자 백신 9]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행 열매 악취, 사라졌다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
@@ -593,6 +593,27 @@
         <content type="html"><![CDATA[[앵커] LED 조명으로 코로나 바이러스를 치료할 수 있단 내용의 보도들이 최근 온라인에서 관심을 끌었습니다. 백신 주사나 치료제가 아니라, 조명으로 바이러스를 없앨 수 있다는 거냐, 의아하단 반응이 많습니다. 팩트체크팀이 확인해봤습니다. 최재원 기자입니다. [기자] "LED 빛으로 델타 변이 99%가 제거됐다" "집에서 코로나 치료하는 기술이 개발됐다"]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크K] '위드코로나' 이동량 급증..매출 10% 이상 증가 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211117092102478</id>
+        <link href="https://v.daum.net/v/20211117092102478"/>
+        <updated>2021-11-17T00:56:27.128Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] 정진규 기자 (jin9@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 집앞에서 기다리고 따라가고..취재여도 스토킹 행위일까(종합) (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211117091814378</id>
+        <link href="https://v.daum.net/v/20211117091814378"/>
+        <updated>2021-11-17T00:56:27.129Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 경찰이 더불어민주당 이재명 대선후보 부인 김혜경씨를 취재하던 언론사 취재진 5명에게 스토킹 행위 경고 조치를 한 것을 두고 기자의 취재 행위를 스토킹으로 봐야 하는지 논란이다. 경기 분당경찰서는 15일 오후 김씨 자택 인근에서 취재하던 5명에 대해 스토킹 처벌법 위반 소지가 있다고 판단해 경고 조치하고 돌려보냈다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 맹견 아니어도 대형견에 입마개 채울 수 있나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211117090006697</id>
+        <link href="https://v.daum.net/v/20211117090006697"/>
+        <updated>2021-11-17T00:56:27.130Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 반려견 증가와 함께 개 물림 사고가 빈발하면서 안전 관리와 법적 책임을 강화해야 한다는 목소리가 크다. 소방청의 환자 이송 통계에 따르면 최근 5년간 개 물림 사고는 총 1만1천152건으로 매년 2천100~2천400건, 하루 평균 6~7건이 발생했다. 최근 30대 여성이 구청에서 운영하는 반려견 놀이터를 찾았다가 목줄이 풀린]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] 집앞에서 기다리고 따라가고..취재여도 스토킹 행위일까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211117073440828</id>
         <link href="https://v.daum.net/v/20211117073440828"/>
@@ -640,26 +661,5 @@
         <link href="https://v.daum.net/v/20211115160900058"/>
         <updated>2021-11-15T07:19:02.393Z</updated>
         <content type="html"><![CDATA[광주시가 내년 설을 전후해 재난지원금 성격의 '일상회복지원금' 지급을 추진하면서 시민들의 일상 회복에 도움을 주기 위해 필요하다는 의견과 지방선거를 앞둔 선심성 예산으로 불필요하다는 찬반 양론이 부딪히고 있다. 특히 광주시가 당초 일상회복지원금 지급을 위한 재원 마련을 위해 지방채 750억 원을 발행할 계획이라고 밝혔다가 채 1주일도 안 돼 일상회복지원금을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 사고 책임이 더 큰 킥보드 운전자 치료비도 차량 운전자가 문다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211115113859791</id>
-        <link href="https://v.daum.net/v/20211115113859791"/>
-        <updated>2021-11-15T03:19:15.830Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 전동킥보드 이용자가 늘면서 크고 작은 사고가 끊이지 않고 있으나 피해를 본 보행자나 차량은 제대로 보상을 받지 못한다는 불만이 적지 않다. 킥보드 과실이 큰 사고였는데도 킥보드 운전자의 치료비를 피해 차량 운전자가 부담했다는 언론 보도가 최근 나오자, "피해자가 가해자 보상을 해줘야 한다니 어처구니가 없다"는 등 네티즌들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 이재명 · 윤석열의 '코로나 지원금' 따져봤습니다 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211115110000644</id>
-        <link href="https://v.daum.net/v/20211115110000644"/>
-        <updated>2021-11-15T02:02:23.091Z</updated>
-        <content type="html"><![CDATA[대선을 앞두고 여야 대선 후보들이 앞다퉈 막대한 코로나 지원금 공약을 내놓고 있습니다. 더불어민주당 이재명 후보는 전 국민을 대상으로 한 재난지원금을 언급했습니다. 우리나라 지원금이 세계적으로 가장 낮은 수준이라며, 추가로 30~50만 원 정도를 제시했습니다. 우리나라 인구가 5,182만 명이니까, 단순 계산하면 30만 원 지급할 때 15조 5,460억 원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경항모, 혈세 20조 투입되는 '돈 먹는 하마' 인가? [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211115080005223</id>
-        <link href="https://v.daum.net/v/20211115080005223"/>
-        <updated>2021-11-14T23:23:55.792Z</updated>
-        <content type="html"><![CDATA[1년 전 국회에서 퇴짜를 맞았던 해군 경항공모함 예산의 기사회생 여부가 이달 중 판가름난다. 국회의 내년도 예산안 심사가 본궤도에 오르면서 해군은 과오를 되풀이하지 않겠다는 각오다. 경제성을 따지는 사업타당성조사는 물론 국회가 지난해 예산을 전액 삭감하면서 조건부로 내건 연구 용역에서도 적합 판정을 받았다. 착수 예산도 지난해 100억 원에서 30% 감액한]]></content>
     </entry>
 </feed>
