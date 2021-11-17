@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-17T10:20:16.162Z</updated>
+    <updated>2021-11-17T11:15:55.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]사진 찍을 때 V 하면, 지문 해킹?]]></title>
+        <id>https://v.daum.net/v/20211117194358692</id>
+        <link href="https://v.daum.net/v/20211117194358692"/>
+        <updated>2021-11-17T11:15:54.752Z</updated>
+        <content type="html"><![CDATA[하나 둘 셋 찰칵 사진 찍을 떄 손가락으로 V자 만드는 분들 많죠. 그런데 이런 포즈가 지문 같은 개인 생체정보의 복제 위험성을 높인다고 하는데, 근거가 있는 주장인지 따져 봅니다. 7년 전, 독일의 해커 집단이 당시 독일 국방장관의 손가락이 찍힌 사진에서 엄지 지문을 복제하는 데 성공했다고 발표한 적 있습니다. [장 크리슬러 / 독일 해커]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 올해 초과 세수는 50조원? 19조원?]]></title>
         <id>https://v.daum.net/v/20211117165033727</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211116193735096"/>
         <updated>2021-11-16T11:15:28.410Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 앞선 리포트에서 전해드린 것처럼  정부의 단계적 일상회복, 이른바 위드코로나 시행 이후 조금씩 일상을 찾아가고 있는데요. 오늘 팩트체크K 에서는 '위드코로나' 이후 변화화는 일상의 모습에 대해 보도국 정진규 기자와  좀 더 자세히 짚어보겠습니다. 정 기자,  이달부터 정부의 단계적 일상회복,  이른바 위드코로나가 시행됐는데.. 가장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]첫눈 일찍 오면 겨울이 더 춥다?]]></title>
-        <id>https://v.daum.net/v/20211115200651481</id>
-        <link href="https://v.daum.net/v/20211115200651481"/>
-        <updated>2021-11-15T11:18:02.941Z</updated>
-        <content type="html"><![CDATA[하얗게 내린 눈으로 온 산이 뒤덮였습니다. 사람들도 한껏 들떴습니다. "눈이 너무 예쁘게 와서 마치 겨울왕국 동화 속에 들어와 있는 것 같아서 너무 좋은 것 같아요." 올해 첫눈은 서울지역 기준 지난해보다 한 달 빨리 찾아왔습니다. 첫눈이 일찍 오면 그해 겨울이 더 춥다는 속설, 정말인지 따져봅니다. 결론부터 말씀드리면 눈이 일찍 왔다고 해]]></content>
     </entry>
 </feed>
