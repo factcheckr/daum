@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-18T11:16:35.267Z</updated>
+    <updated>2021-11-18T12:28:41.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]얀센 부스터샷 최적의 조합은?]]></title>
+        <id>https://v.daum.net/v/20211118204657121</id>
+        <link href="https://v.daum.net/v/20211118204657121"/>
+        <updated>2021-11-18T12:28:41.144Z</updated>
+        <content type="html"><![CDATA[[리포트] 얀센 백신 접종자를 대상으로 한 추가 접종, 즉 '부스터샷'이 열흘 전부터 본격 시작됐습니다. 보통 모더나와 화이자 백신 중 하나를 맞는데요. 면역력을 높여주는 최적의 부스터샷 조합이 있는지 확인해봅니다. 미국국립보건원, NIH의 연구 결과입니다. 1차 얀센 접종자 중 추가 접종 때 모더나, 화이자, 얀센을 맞은 집단을 구분해서 2주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 여성가족부는 돈을 어디에, 얼마나 쓰나요?]]></title>
         <id>https://v.daum.net/v/20211118094801553</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211116193735096"/>
         <updated>2021-11-18T07:17:09.411Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 앞선 리포트에서 전해드린 것처럼  정부의 단계적 일상회복, 이른바 위드코로나 시행 이후 조금씩 일상을 찾아가고 있는데요. 오늘 팩트체크K 에서는 '위드코로나' 이후 변화화는 일상의 모습에 대해 보도국 정진규 기자와  좀 더 자세히 짚어보겠습니다. 정 기자,  이달부터 정부의 단계적 일상회복,  이른바 위드코로나가 시행됐는데.. 가장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]첫눈 일찍 오면 겨울이 더 춥다?]]></title>
-        <id>https://v.daum.net/v/20211115200651481</id>
-        <link href="https://v.daum.net/v/20211115200651481"/>
-        <updated>2021-11-18T07:17:09.413Z</updated>
-        <content type="html"><![CDATA[하얗게 내린 눈으로 온 산이 뒤덮였습니다. 사람들도 한껏 들떴습니다. "눈이 너무 예쁘게 와서 마치 겨울왕국 동화 속에 들어와 있는 것 같아서 너무 좋은 것 같아요." 올해 첫눈은 서울지역 기준 지난해보다 한 달 빨리 찾아왔습니다. 첫눈이 일찍 오면 그해 겨울이 더 춥다는 속설, 정말인지 따져봅니다. 결론부터 말씀드리면 눈이 일찍 왔다고 해]]></content>
     </entry>
 </feed>

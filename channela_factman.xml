@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-11-18T11:16:35.262Z</updated>
+    <updated>2021-11-18T12:28:41.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얀센 부스터샷 최적의 조합은?]]></title>
+        <id>https://v.daum.net/v/20211118204657121</id>
+        <link href="https://v.daum.net/v/20211118204657121"/>
+        <updated>2021-11-18T12:28:10.860Z</updated>
+        <content type="html"><![CDATA[[리포트] 얀센 백신 접종자를 대상으로 한 추가 접종, 즉 '부스터샷'이 열흘 전부터 본격 시작됐습니다. 보통 모더나와 화이자 백신 중 하나를 맞는데요. 면역력을 높여주는 최적의 부스터샷 조합이 있는지 확인해봅니다. 미국국립보건원, NIH의 연구 결과입니다. 1차 얀센 접종자 중 추가 접종 때 모더나, 화이자, 얀센을 맞은 집단을 구분해서 2주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사진 찍을 때 V 하면, 지문 해킹?]]></title>
         <id>https://v.daum.net/v/20211117194358692</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211101200504710"/>
         <updated>2021-11-01T11:15:02.865Z</updated>
         <content type="html"><![CDATA[[리포트] 호캉스, 그러니까 호텔에서 휴가를 보내는 분들 많은데요. 아이가 실수로 이불에 소변을 보거나 뭔가를 흘려서 호텔에 손실을 입혔을 때 어디까지 책임져야 하는지 확인해봅니다. 지난주 온라인 커뮤니티에 올라온 게시글입니다. 아이가 호텔 이불에 코피를 흘려서 이불을 못 쓰게 됐고, "파손 처리가 내부규정"이니 배상하란 연락을 받았다는 내용인데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주유소 나올 때 깜빡이 왼쪽? 오른쪽?]]></title>
-        <id>https://v.daum.net/v/20211028212557098</id>
-        <link href="https://v.daum.net/v/20211028212557098"/>
-        <updated>2021-10-28T12:27:04.095Z</updated>
-        <content type="html"><![CDATA[[리포트] 주유소에서 기름을 넣고 다시 도로에 진입할 때, 방향지시등 왼쪽과 오른쪽 어느 쪽을 켜시나요? 운전자에게 물어봤습니다. "(깜빡이 왼쪽 켜시는지 오른쪽 켜시는지) 오른쪽. (왜요?) 차선으로 굽잖아요. 오른쪽으로 아니 왼쪽." "왼쪽 아닌가? 헷갈리네요?" 실제론 어떨까. 주유를 끝내고 차로로 진입하려는 차량, 왼쪽 지시등을]]></content>
     </entry>
 </feed>
