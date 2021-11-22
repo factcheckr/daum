@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-21T23:17:59.639Z</updated>
+    <updated>2021-11-22T00:56:31.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["박근혜는 경선 후 대선판에 안 나타났다" 홍준표 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20211119210600282</id>
+        <link href="https://v.daum.net/v/20211119210600282"/>
+        <updated>2021-11-22T00:56:31.298Z</updated>
+        <content type="html"><![CDATA[[박수림 기자] &nbsp;        ▲ &nbsp;홍준표 국민의힘 의원이 8일 서울 영등포구 여의도 BNB타워에서 열린 jp희망캠프 해단식에서 인사말을 하고 있다.    ⓒ 공동취재사진  &nbsp;[검증대상] 홍준표 "박근혜는 경선 후 대선판에 나타난 일 없었다" "대선 경선 때 치열하게 경쟁하여 이명박 후보가 승리하자 박근혜 후보는 경선장에서 깨끗하게 승복하고 그 후 그 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 놀이터 늘어났지만..부익부 빈익빈?]]></title>
         <id>https://v.daum.net/v/20211119201007347</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211117092102478"/>
         <updated>2021-11-17T00:56:27.128Z</updated>
         <content type="html"><![CDATA[[KBS 청주] 정진규 기자 (jin9@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] '위드코로나' 이동량 급증..매출 10% 이상 증가]]></title>
-        <id>https://v.daum.net/v/20211116214906560</id>
-        <link href="https://v.daum.net/v/20211116214906560"/>
-        <updated>2021-11-18T07:17:09.408Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 앞서 보신 것처럼  정부의 단계적 일상회복, 이른바 '위드코로나' 시행 이후 우리 사회도 조금씩  조금씩 일상을 찾아가고 있는데요. 무엇이 어떻게 변하고 있는지  데이터로 확인해 봤습니다. 팩트체크K,  정진규 기자가 보도합니다. [리포트] 단계적 일상회복 이후  가장 크게 달라진 점은 거리로 나서는 사람들이 늘었다는 겁니다. 이동]]></content>
     </entry>
 </feed>
