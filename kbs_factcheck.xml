@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2021-11-23T09:19:51.749Z</updated>
+    <updated>2021-11-23T10:20:41.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전두환은 5.18민주화운동 피해자들에게 사과했다?"]]></title>
+        <id>https://v.daum.net/v/20211123185457686</id>
+        <link href="https://v.daum.net/v/20211123185457686"/>
+        <updated>2021-11-23T10:20:00.865Z</updated>
+        <content type="html"><![CDATA[전두환 씨가 오늘(23일) 사망했습니다. 국내외 언론매체들은 전 씨의 사망 소식을 전하면서 그가 1979년 12.12쿠데타를 자행한 뒤 1980년 5.18민주화운동을  유혈 진압한 사실을 전했습니다. 그가 군사변란의 수괴이자 광주 학살의 책임자였음에도 과거 행적에 반성도 없었고 피해자들에게 단 한 차례도 사과하지 않았다는 점도 강조했습니다. 하지만 전 씨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위드코로나' 이동량 급증..매출 10% 이상 증가]]></title>
         <id>https://v.daum.net/v/20211117092102478</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210607155655619"/>
         <updated>2021-09-26T22:58:07.711Z</updated>
         <content type="html"><![CDATA[오늘(7일)부터 2분기 접종대상자 가운데 30세 미만의 필수 인력 등에 대한 화이자 백신 예약이 시작됐습니다. 예약 대상은 아스트라제네카(AZ) 백신 접종 대상에서 제외된 1992년 1월 1일 이후 출생자 가운데① 의료기관 및 약국종사자 ② 사회필수인력(경찰, 소방, 해경 등) ③ 취약시설 입소·종사자 ④ 만성신장질환자 ⑤ 유치원·어린이집·초등학교(1·2학]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 맞고도 확진 '돌파감염', 화이자 백신만 생긴다?]]></title>
-        <id>https://v.daum.net/v/20210604152432797</id>
-        <link href="https://v.daum.net/v/20210604152432797"/>
-        <updated>2021-09-26T22:58:07.713Z</updated>
-        <content type="html"><![CDATA[국내에서 코로나19 '돌파감염' 추정 사례가 9건으로 집계됐습니다.  '돌파감염'은 백신 별로 권장 접종 횟수를 모두 접종한 뒤 2주가 지나 확진되는 경우로 변이 바이러스의 확산 가능성을 엿볼 수 있는 지표로 여겨집니다. 중앙방역대책본부에 따르면 5월 31일 0시 기준 국내에서 접종을 완료한 뒤 2주가 지난 사람은 103만 9,559명이었고 이 가운데 ']]></content>
     </entry>
 </feed>

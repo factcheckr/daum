@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-23T09:19:51.751Z</updated>
+    <updated>2021-11-23T10:20:41.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "전두환은 5.18민주화운동 피해자들에게 사과했다?"]]></title>
+        <id>https://v.daum.net/v/20211123185457686</id>
+        <link href="https://v.daum.net/v/20211123185457686"/>
+        <updated>2021-11-23T10:20:40.573Z</updated>
+        <content type="html"><![CDATA[전두환 씨가 오늘(23일) 사망했습니다. 국내외 언론매체들은 전 씨의 사망 소식을 전하면서 그가 1979년 12.12쿠데타를 자행한 뒤 1980년 5.18민주화운동을  유혈 진압한 사실을 전했습니다. 그가 군사변란의 수괴이자 광주 학살의 책임자였음에도 과거 행적에 반성도 없었고 피해자들에게 단 한 차례도 사과하지 않았다는 점도 강조했습니다. 하지만 전 씨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 돈 없어 종부세 못 낸다?..분납 신청자 3% 넘긴 적 없어]]></title>
         <id>https://v.daum.net/v/20211123165610410</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211118204657121"/>
         <updated>2021-11-18T12:28:41.144Z</updated>
         <content type="html"><![CDATA[[리포트] 얀센 백신 접종자를 대상으로 한 추가 접종, 즉 '부스터샷'이 열흘 전부터 본격 시작됐습니다. 보통 모더나와 화이자 백신 중 하나를 맞는데요. 면역력을 높여주는 최적의 부스터샷 조합이 있는지 확인해봅니다. 미국국립보건원, NIH의 연구 결과입니다. 1차 얀센 접종자 중 추가 접종 때 모더나, 화이자, 얀센을 맞은 집단을 구분해서 2주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 여성가족부는 돈을 어디에, 얼마나 쓰나요?]]></title>
-        <id>https://v.daum.net/v/20211118094801553</id>
-        <link href="https://v.daum.net/v/20211118094801553"/>
-        <updated>2021-11-18T00:56:23.553Z</updated>
-        <content type="html"><![CDATA[더불어민주당 이재명, 국민의힘 윤석열 대선 후보가 나란히 여성가족부 개편 카드를 꺼내 들었습니다. 여가부의 정책 기조를 여성 인권 중심에서 양성 평등으로 옮기겠다는 구상입니다. 포문은 윤석열 후보가 열었습니다. 윤 후보는 지난달 21일 "여가부를 '양성평등가족부'로 개편하고 관련 업무와 예산을 재조정하겠다"는 공약을 내놨습니다. 윤 후보는 "여가부가 양성]]></content>
     </entry>
 </feed>
