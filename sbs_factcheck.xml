@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2021-11-23T06:21:30.144Z</updated>
+    <updated>2021-11-23T07:18:09.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명과 윤석열, 너무 태연해서 팩트체크했습니다]]></title>
+        <id>https://v.daum.net/v/20211123160000564</id>
+        <link href="https://v.daum.net/v/20211123160000564"/>
+        <updated>2021-11-23T07:17:03.888Z</updated>
+        <content type="html"><![CDATA[2019년 12월 27일, 국회 본회의에서는 선거법 개정안 표결 처리가 예정돼 있었습니다. 선거법 개정안에 반대했던 자유한국당(옛 국민의힘) 의원들은 본회의장 곳곳을 봉쇄했습니다. 의장이 본회의장에 입장해 개회 선언을 하면 바로 표결에 들어갈 수 있기 때문입니다. 당시 문희상 의장은 1시간 반이 지나 본회의장에 입장했지만, 의장석에는 오르지 못했습니다. 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여성가족부는 돈을 어디에, 얼마나 쓰나요?]]></title>
         <id>https://v.daum.net/v/20211118094801553</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211021113306845"/>
         <updated>2021-10-21T03:17:11.610Z</updated>
         <content type="html"><![CDATA[고(故) 이건희 회장에게 받은 유산에 대한 삼성그룹 오너 일가의 상속세가 12조 원에 달하는 것으로 알려졌습니다. 우리나라 상속세율이 과하다는 지적이 나왔습니다. 정부는 최근 상속세 과세 체계 개편에 나선다고 밝혔습니다. 이런 분위기에 속에서, 우리나라 상속세율 상속 재산의 최대 50%까지 매긴다는 보도가 나오고 있습니다. 사실 상속세율 논란은 어제오늘 얘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어게임은 안 되면서, '재편집' 오징어게임은 괜찮다?]]></title>
-        <id>https://v.daum.net/v/20211017090300470</id>
-        <link href="https://v.daum.net/v/20211017090300470"/>
-        <updated>2021-10-17T23:17:05.363Z</updated>
-        <content type="html"><![CDATA[넷플릭스 드라마 '오징어게임' 열풍입니다. 넷플릭스 사상 최고 흥행 기록을 세웠습니다. 그런데, 맘카페에 이런 사연이 올라왔습니다. &nbsp;   ## 사례1 "우리 아이가 점심시간에 오징어게임으로 '무궁화 꽃이 피었습니다'를 했다고 하네요. …… '움직이면 총으로 쏴 죽이는 게임'이라는 거예요. 깜짝 놀랐어요"  ## 사례2 엊그제 놀이터에서 두 아이 대화가 생]]></content>
     </entry>
 </feed>
