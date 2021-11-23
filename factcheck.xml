@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-23T10:20:41.178Z</updated>
+    <updated>2021-11-23T11:15:38.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]수능 감독관의 실수, 손해배상은?]]></title>
+        <id>https://v.daum.net/v/20211123195854607</id>
+        <link href="https://v.daum.net/v/20211123195854607"/>
+        <updated>2021-11-23T11:15:38.125Z</updated>
+        <content type="html"><![CDATA[[리포트] 대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다. 1교시 국어는 공통과 선택 과목으로 구성되는데, 어떤 과목 문제부터 풀든 수험생 자유입니다. 그런데 감독관이 착각해 선택 과목을 먼저 풀라며 시험지를 넘기면서 방해를 받았단 겁니다. 이렇게 감독관 실수나 착오로 방해를 받았다면 그 책임 어디까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] "전두환은 5.18민주화운동 피해자들에게 사과했다?"]]></title>
         <id>https://v.daum.net/v/20211123185457686</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211119073007644"/>
         <updated>2021-11-19T00:56:39.806Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 17일 오전 순국선열의 날을 맞아 서울 여의도 당사에서 최원일 전 천안함 함장과 고(故) 이상희 하사의 부친인 이성우 유족회장을 면담하고 있다.    ⓒ 공동취재사진  &nbsp;[검증대상] 윤석열 "문 대통령은 천안함 사건이 북한 소행이라고 발언하지 않았다" "문재인 대통령은 끝내 천안함 사건이 북한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]얀센 부스터샷 최적의 조합은?]]></title>
-        <id>https://v.daum.net/v/20211118204657121</id>
-        <link href="https://v.daum.net/v/20211118204657121"/>
-        <updated>2021-11-18T12:28:41.144Z</updated>
-        <content type="html"><![CDATA[[리포트] 얀센 백신 접종자를 대상으로 한 추가 접종, 즉 '부스터샷'이 열흘 전부터 본격 시작됐습니다. 보통 모더나와 화이자 백신 중 하나를 맞는데요. 면역력을 높여주는 최적의 부스터샷 조합이 있는지 확인해봅니다. 미국국립보건원, NIH의 연구 결과입니다. 1차 얀센 접종자 중 추가 접종 때 모더나, 화이자, 얀센을 맞은 집단을 구분해서 2주]]></content>
     </entry>
 </feed>
