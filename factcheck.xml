@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-26T00:55:10.354Z</updated>
+    <updated>2021-11-26T01:59:38.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '발포 명령' 팩트체크, 내년 5월에도 해야 할까요?]]></title>
+        <id>https://v.daum.net/v/20211126102701212</id>
+        <link href="https://v.daum.net/v/20211126102701212"/>
+        <updated>2021-11-26T01:59:38.031Z</updated>
+        <content type="html"><![CDATA[전두환 씨가 세상을 떠났습니다. 반성이나 사죄의 메시지를 남기지 않았습니다. 5·18민주화운동 당시, 수많은 사람을 희생시켰던 발포 명령이 다시 도마 위에 올랐습니다. 전두환 씨 측 민정기 비서관은 전 씨의 사망 당일, 발포 명령에 대한 질문에 이렇게 답했습니다. ▲ 지난 23일, 서울 연희동 전두환 씨 자택 앞에서 전 씨의 사망을 공식 발표하는 민정기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 임차인에 종부세 떠넘기기? '학군 수요' 대치동서는 가능성 높아]]></title>
         <id>https://v.daum.net/v/20211126093602327</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211123195854607"/>
         <updated>2021-11-23T11:15:38.125Z</updated>
         <content type="html"><![CDATA[[리포트] 대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다. 1교시 국어는 공통과 선택 과목으로 구성되는데, 어떤 과목 문제부터 풀든 수험생 자유입니다. 그런데 감독관이 착각해 선택 과목을 먼저 풀라며 시험지를 넘기면서 방해를 받았단 겁니다. 이렇게 감독관 실수나 착오로 방해를 받았다면 그 책임 어디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] "전두환은 5.18민주화운동 피해자들에게 사과했다?"]]></title>
-        <id>https://v.daum.net/v/20211123185457686</id>
-        <link href="https://v.daum.net/v/20211123185457686"/>
-        <updated>2021-11-23T10:20:40.573Z</updated>
-        <content type="html"><![CDATA[전두환 씨가 오늘(23일) 사망했습니다. 국내외 언론매체들은 전 씨의 사망 소식을 전하면서 그가 1979년 12.12쿠데타를 자행한 뒤 1980년 5.18민주화운동을  유혈 진압한 사실을 전했습니다. 그가 군사변란의 수괴이자 광주 학살의 책임자였음에도 과거 행적에 반성도 없었고 피해자들에게 단 한 차례도 사과하지 않았다는 점도 강조했습니다. 하지만 전 씨]]></content>
     </entry>
 </feed>

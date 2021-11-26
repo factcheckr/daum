@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2021-11-26T00:55:10.345Z</updated>
+    <updated>2021-11-26T01:59:38.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['발포 명령' 팩트체크, 내년 5월에도 해야 할까요?]]></title>
+        <id>https://v.daum.net/v/20211126102701212</id>
+        <link href="https://v.daum.net/v/20211126102701212"/>
+        <updated>2021-11-26T01:58:34.203Z</updated>
+        <content type="html"><![CDATA[전두환 씨가 세상을 떠났습니다. 반성이나 사죄의 메시지를 남기지 않았습니다. 5·18민주화운동 당시, 수많은 사람을 희생시켰던 발포 명령이 다시 도마 위에 올랐습니다. 전두환 씨 측 민정기 비서관은 전 씨의 사망 당일, 발포 명령에 대한 질문에 이렇게 답했습니다. ▲ 지난 23일, 서울 연희동 전두환 씨 자택 앞에서 전 씨의 사망을 공식 발표하는 민정기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명과 윤석열, 너무 태연해서 팩트체크했습니다]]></title>
         <id>https://v.daum.net/v/20211123160000564</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211023095100678"/>
         <updated>2021-10-23T02:05:39.372Z</updated>
         <content type="html"><![CDATA[국민의힘 대선 경선 토론이 한창입니다. 지난 11일 광주·전북·전남 합동 토론을 시작으로, 오는 30일까지 진행됩니다. 다음 달 1일부터 이틀 간 모바일 투표, 3일부터 이틀 간 ARS 투표 및 국민 여론조사를 한 뒤, 5일 전당대회에서 국민의힘 대통령 후보가 최종 결정됩니다. SBS 사실은팀은 민주당 대권주자 토론회 당시 나온 말들을 팩트체크 한 적 있습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재산 상속하면, 절반을 세금으로 떼 간다?]]></title>
-        <id>https://v.daum.net/v/20211021113306845</id>
-        <link href="https://v.daum.net/v/20211021113306845"/>
-        <updated>2021-10-21T03:17:11.610Z</updated>
-        <content type="html"><![CDATA[고(故) 이건희 회장에게 받은 유산에 대한 삼성그룹 오너 일가의 상속세가 12조 원에 달하는 것으로 알려졌습니다. 우리나라 상속세율이 과하다는 지적이 나왔습니다. 정부는 최근 상속세 과세 체계 개편에 나선다고 밝혔습니다. 이런 분위기에 속에서, 우리나라 상속세율 상속 재산의 최대 50%까지 매긴다는 보도가 나오고 있습니다. 사실 상속세율 논란은 어제오늘 얘]]></content>
     </entry>
 </feed>
