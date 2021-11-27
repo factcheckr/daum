@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-27T00:54:37.347Z</updated>
+    <updated>2021-11-27T02:02:43.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 눈치 안보고 놀려면 아파트 살아야?]]></title>
+        <id>https://v.daum.net/v/20211127100113432</id>
+        <link href="https://v.daum.net/v/20211127100113432"/>
+        <updated>2021-11-27T02:02:42.529Z</updated>
+        <content type="html"><![CDATA['어린이 놀이헌장'이란게 있습니다. 지난 2015년 전국 시도교육감들이 모여서 만들어 선포한 건데, 헌장엔 이런 내용이 들어 있습니다. "어린이에게는 놀 권리가 있다." "어린이는 차별 없이 놀이 지원을 받아야 한다." "어린이는 놀 터와 놀 시간을 누려야 한다." 다 알만한 얘기인데, 헌장으로까지 만든 이유는 뭘까요. 시초는 지난 2013년 '우리나라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 이재명 "국내 주식 배당 많이 안 한다"..사실일까?]]></title>
         <id>https://v.daum.net/v/20211127045812936</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211125093604627"/>
         <updated>2021-11-25T00:57:01.266Z</updated>
         <content type="html"><![CDATA[30대 여성이 스토킹에 시달리다 끝내 살해당한 사건이 발생한 지 오늘(25일)로 일주일째다. 22년 만에 ‘스토킹범죄의 처벌 등에 관한 법률’(스토킹 처벌법)이 시행되고 한 달 만에 발생한 이번 사건은 집요한 살해 의지를 지닌 가해자에 비해 이 법이 얼마나 무력한지 고스란히 보여줬다. ‘살릴 수 있었던’ 피해자를 죽음에 이르게 한 책임은 스토킹 처벌법 안에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]수능 감독관의 실수, 손해배상은?]]></title>
-        <id>https://v.daum.net/v/20211124140936871</id>
-        <link href="https://v.daum.net/v/20211124140936871"/>
-        <updated>2021-11-24T05:16:57.781Z</updated>
-        <content type="html"><![CDATA[대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다. 대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다. 대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다.]]></content>
     </entry>
 </feed>

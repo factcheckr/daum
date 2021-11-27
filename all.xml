@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-27T00:54:37.355Z</updated>
+    <updated>2021-11-27T02:02:43.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['발포 명령' 팩트체크, 내년 5월에도 해야 할까요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[김만배/화천대유 대주주 (어제) : (50억원은 너무 큰 거 아닌가라는 의혹이 있었는데…) 산재를 입었어요, 그분이. 산재를 입어가지고…] [앵커] 곧바로 팩트체크 이어갑니다. 곽상도 의원 아들이 퇴직하며 받은 50억 원에 대해, 화천대유는 이 중 44억 원 정도가 '산재 위로금'이었다고 주장했습니다. 하지만, 회사가 알아서 이런 거액의 위로금을 주는 사]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[알고보니] 눈치 안보고 놀려면 아파트 살아야? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211127100113432</id>
+        <link href="https://v.daum.net/v/20211127100113432"/>
+        <updated>2021-11-27T02:02:42.529Z</updated>
+        <content type="html"><![CDATA['어린이 놀이헌장'이란게 있습니다. 지난 2015년 전국 시도교육감들이 모여서 만들어 선포한 건데, 헌장엔 이런 내용이 들어 있습니다. "어린이에게는 놀 권리가 있다." "어린이는 차별 없이 놀이 지원을 받아야 한다." "어린이는 놀 터와 놀 시간을 누려야 한다." 다 알만한 얘기인데, 헌장으로까지 만든 이유는 뭘까요. 시초는 지난 2013년 '우리나라]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트와이] 이재명 "국내 주식 배당 많이 안 한다"..사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211127045812936</id>
         <link href="https://v.daum.net/v/20211127045812936"/>
@@ -603,7 +610,7 @@
         <title type="html"><![CDATA["산부인과 명칭은 일제 잔재" 이재명 주장은 '사실 반 거짓 반' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211126231201564</id>
         <link href="https://v.daum.net/v/20211126231201564"/>
-        <updated>2021-11-27T00:54:36.616Z</updated>
+        <updated>2021-11-27T00:54:24.321Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이재명 더불어민주당 대선 후보가 24일 서울 여의도 중앙당사에서 열린 기자간담회에서 기자들의 질문에 답하고 있다.    ⓒ 공동취재사진  &nbsp;[검증대상] 이재명 "산부인과 명칭은 여성을 부인으로 칭했던 일제 잔재" "산부인과라는 명칭은 여성을 부인으로 칭했던 일제 잔재입니다. 여전히 여성 건강과 질환을 부인병으로 부르는 시]]></content>
     </entry>
     <entry>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211125093604627"/>
         <updated>2021-11-25T00:57:01.266Z</updated>
         <content type="html"><![CDATA[30대 여성이 스토킹에 시달리다 끝내 살해당한 사건이 발생한 지 오늘(25일)로 일주일째다. 22년 만에 ‘스토킹범죄의 처벌 등에 관한 법률’(스토킹 처벌법)이 시행되고 한 달 만에 발생한 이번 사건은 집요한 살해 의지를 지닌 가해자에 비해 이 법이 얼마나 무력한지 고스란히 보여줬다. ‘살릴 수 있었던’ 피해자를 죽음에 이르게 한 책임은 스토킹 처벌법 안에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]수능 감독관의 실수, 손해배상은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211124140936871</id>
-        <link href="https://v.daum.net/v/20211124140936871"/>
-        <updated>2021-11-24T05:16:57.781Z</updated>
-        <content type="html"><![CDATA[대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다. 대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다. 대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다.]]></content>
     </entry>
 </feed>
