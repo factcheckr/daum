@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-26T23:23:19.905Z</updated>
+    <updated>2021-11-27T00:54:37.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20211127045812936"/>
         <updated>2021-11-26T20:22:56.451Z</updated>
         <content type="html"><![CDATA[[앵커] 이재명 더불어민주당 대선 후보가 최근 유튜브 경제 채널에 출연해 국내 주식은 배당을 너무 안 한다며 배당을 늘려야 한다고 말했습니다. 증시 활성화 방안으로 배당 확대를 제시한 건데요. 실제로, 국내 주식 배당이 다른 나라에 비해 적은지 따져봤습니다. 팩트와이, 신지원 기자입니다. [기자] 최근 한 인터넷 경제방송에 출연한 이재명 더불어민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["산부인과 명칭은 일제 잔재" 이재명 주장은 '사실 반 거짓 반' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20211126231201564</id>
+        <link href="https://v.daum.net/v/20211126231201564"/>
+        <updated>2021-11-27T00:54:36.616Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이재명 더불어민주당 대선 후보가 24일 서울 여의도 중앙당사에서 열린 기자간담회에서 기자들의 질문에 답하고 있다.    ⓒ 공동취재사진  &nbsp;[검증대상] 이재명 "산부인과 명칭은 여성을 부인으로 칭했던 일제 잔재" "산부인과라는 명칭은 여성을 부인으로 칭했던 일제 잔재입니다. 여전히 여성 건강과 질환을 부인병으로 부르는 시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '발포 명령' 팩트체크, 내년 5월에도 해야 할까요?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211124140936871"/>
         <updated>2021-11-24T05:16:57.781Z</updated>
         <content type="html"><![CDATA[대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다. 대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다. 대구에서 수능시험을 치른 수험생이, "감독관 때문에 국어 시험을 망쳤다"고 호소하고 있습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 전두환, 끝내 안 낸 추징금 956억원..징수 가능한가?]]></title>
-        <id>https://v.daum.net/v/20211123204309381</id>
-        <link href="https://v.daum.net/v/20211123204309381"/>
-        <updated>2021-11-23T12:28:29.420Z</updated>
-        <content type="html"><![CDATA[[앵커] 팩트체크도 전두환 씨 사망 소식과 관련된 내용입니다. 전두환 씨는 고인이 됐지만 거액의 미납 추징금은 여전히 남아 있습니다. 사망한 지금 이 추징금을 과연 받아낼 수 있을지 팩트체크를 해봤습니다. 최재원 기자입니다. [기자] "피고인 전두환은 32명으로부터 2205억원의 뇌물을 수수했다" 법원은 전두환 씨가 대통령 자리를 이용해 기업인들에게 돈을]]></content>
     </entry>
 </feed>
