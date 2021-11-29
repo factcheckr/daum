@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-29T10:21:31.318Z</updated>
+    <updated>2021-11-29T11:15:46.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['발포 명령' 팩트체크, 내년 5월에도 해야 할까요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -257,6 +257,13 @@
         <content type="html"><![CDATA[오늘(7일)부터 2분기 접종대상자 가운데 30세 미만의 필수 인력 등에 대한 화이자 백신 예약이 시작됐습니다. 예약 대상은 아스트라제네카(AZ) 백신 접종 대상에서 제외된 1992년 1월 1일 이후 출생자 가운데① 의료기관 및 약국종사자 ② 사회필수인력(경찰, 소방, 해경 등) ③ 취약시설 입소·종사자 ④ 만성신장질환자 ⑤ 유치원·어린이집·초등학교(1·2학]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[월패드 해킹 막으려면? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20211129200556948</id>
+        <link href="https://v.daum.net/v/20211129200556948"/>
+        <updated>2021-11-29T11:15:18.312Z</updated>
+        <content type="html"><![CDATA[요즘 아파트에 월패드 많이 설치돼있죠. 이걸로 현관 밖을 확인하거나&nbsp;경비실과 통화도 할 수 있는데요. 최근 전국 아파트&nbsp;월패드 해킹 영상과 명단이 돌면서,&nbsp;경찰이 수사에 착수했습니다. 월패드 해킹,&nbsp;막을 방법 있는지 따져봅니다. 사건이 처음 알려진 건&nbsp;지난달 홍콩 웹사이트에&nbsp;올라온 이 게시물 때문입니다. 해커들이 'h국' 즉 한국 아파트&nbsp;스마트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[박근혜 사칭 화환도 처벌? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20211125195657558</id>
         <link href="https://v.daum.net/v/20211125195657558"/>
@@ -332,13 +339,6 @@
         <link href="https://v.daum.net/v/20211108195956967"/>
         <updated>2021-11-08T11:16:00.946Z</updated>
         <content type="html"><![CDATA[요소수 품귀 현상이 지속되면서&nbsp;경유차의 질소산화물 저감장치&nbsp;즉 SCR을 아예 제거하면 안 되느냐는&nbsp;질문이 나오는데,&nbsp;가능한지 확인해봅니다. 결론부터 말씀드리면 시동이 안 걸려서&nbsp;정상 운행이 불가능할 수 있는 데다,&nbsp;차에 엄청난 손상을&nbsp;줄 수 있습니다. [이호근 / 대덕대 자동차학과 교수] "아예 (SCR을) 잘라버리고 아무 조치 없이 그대로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경유차 요소수 대란..대체기술은? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20211104202947346</id>
-        <link href="https://v.daum.net/v/20211104202947346"/>
-        <updated>2021-11-04T12:33:18.647Z</updated>
-        <content type="html"><![CDATA[경유 차량의 필수품, 요소수 대란이 벌어지고 있습니다. 모든 경유차에 요소수가 필요한 건지, 대체 기술은 없는지 확인해봅니다. 요소수는 배기가스를 정화하는 역할을 합니다. 배기가스 속 발암물질인 질소산화물이 요소수와 만나면, 인체에 무해한 물과 질소로 바뀌면서 오염물질이 최대 99%까지 줄어듭니다. 국내에선 유럽연합의 배출가스 기준 '유로6']]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무효표 처리, 결선투표 누구 말이 맞나 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[김만배/화천대유 대주주 (어제) : (50억원은 너무 큰 거 아닌가라는 의혹이 있었는데…) 산재를 입었어요, 그분이. 산재를 입어가지고…] [앵커] 곧바로 팩트체크 이어갑니다. 곽상도 의원 아들이 퇴직하며 받은 50억 원에 대해, 화천대유는 이 중 44억 원 정도가 '산재 위로금'이었다고 주장했습니다. 하지만, 회사가 알아서 이런 거액의 위로금을 주는 사]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트맨]월패드 해킹 막으려면? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211129200556948</id>
+        <link href="https://v.daum.net/v/20211129200556948"/>
+        <updated>2021-11-29T11:15:45.651Z</updated>
+        <content type="html"><![CDATA[요즘 아파트에 월패드 많이 설치돼있죠. 이걸로 현관 밖을 확인하거나&nbsp;경비실과 통화도 할 수 있는데요. 최근 전국 아파트&nbsp;월패드 해킹 영상과 명단이 돌면서,&nbsp;경찰이 수사에 착수했습니다. 월패드 해킹,&nbsp;막을 방법 있는지 따져봅니다. 사건이 처음 알려진 건&nbsp;지난달 홍콩 웹사이트에&nbsp;올라온 이 게시물 때문입니다. 해커들이 'h국' 즉 한국 아파트&nbsp;스마트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트와이] D-100 여론조사 1위가 대선 승리? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211128044614788</id>
         <link href="https://v.daum.net/v/20211128044614788"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211125200321681"/>
         <updated>2021-11-25T11:15:44.605Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 전직 대통령 예우가 박탈됐던 전두환 씨는 경찰 경호는 계속 받아왔는데, 사망 이후 부인 이순자 씨의 경호는 어떻게 될까요? 표선우 기자가 사실확인에서 알아봤습니다. 【 기자 】 '전직 대통령 예우에 관한 법률' 제6조에 따르면 전직 대통령은 경호와 경비 대상입니다. 같은 법 제7조를 보면 대통령 예우를 박탈하더라도 경호와 경비는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]박근혜 사칭 화환도 처벌? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211125195657558</id>
-        <link href="https://v.daum.net/v/20211125195657558"/>
-        <updated>2021-11-25T11:15:13.226Z</updated>
-        <content type="html"><![CDATA[전두환 전 대통령 빈소로 배달된 근조 화환입니다. 보낸 이가 박근혜라고 적혀있는데요. 그런데 이보다 앞서 '전 대통령 박근혜' 명의의 조화도 도착했습니다. 박 전 대통령을 사칭한 가짜였습니다. 이렇게 남의 명의로 화환을 보내도 처벌받지 않는지 확인해봅니다. 지난 2017년 보도된 기사입니다. 결혼식장에 문재인 대통령과 김정은 북한 국무위원]]></content>
     </entry>
 </feed>
