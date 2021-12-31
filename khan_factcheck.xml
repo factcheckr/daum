@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2021-11-30T00:57:35.186Z</updated>
+    <updated>2021-12-31T17:42:46.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오세훈 서울시장이 '서울 대안교육기관' 지원예산 깎았다?]]></title>
+        <id>https://v.daum.net/v/20211201104903919</id>
+        <link href="https://v.daum.net/v/20211201104903919"/>
+        <updated>2021-12-31T17:42:21.810Z</updated>
+        <content type="html"><![CDATA[[경향신문] 예산 15% 감액은 사실…서울시 “내년 일부 기관 ‘등록제’ 전환 가정한 것”교육청 등록조건 까다롭고 지원액 작으면 ‘서울형’ 잔류…결국 예산 문제로 서울지역 대안학교 교사와 학생, 대안교육 관계자들이 지나달 23일 서울시청 앞에 섰다. 이들은 오세훈 서울시장 취임 이후 서울시가 2022년도 대안학교 지원 예산을 15% 삭감했으며, 서울형 신고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무효표 처리, 결선투표 누구 말이 맞나]]></title>
         <id>https://v.daum.net/v/20211012164841740</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20200811060131023"/>
         <updated>2021-10-07T11:15:07.541Z</updated>
         <content type="html"><![CDATA[[경향신문] “4대강, 홍수 조절 기능 없음” 2014년 박근혜 정부도 인정 산사태와 태양광 발전시설 산림청 “직접 연관성 없다” 확률 낮더라도 검토 필요성 문재인 대통령은 10일 청와대에서 수석·비서관 회의를 주재하면서 “4대강 보가 홍수 조절에 어느 정도 기여하는지를 실증적으로 분석할 수 있는 기회이기도 하다”고 말했다. 최근 기록적인 폭우로 피해가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차별금지법 시행되면 '성범죄자 취업제한' 무력화된다?]]></title>
-        <id>https://v.daum.net/v/20200703141900938</id>
-        <link href="https://v.daum.net/v/20200703141900938"/>
-        <updated>2021-10-07T11:15:07.542Z</updated>
-        <content type="html"><![CDATA[[경향신문] “성범죄자 취업제한 제도가 무력화될 수 있다” “트랜스젠더가 여성 안전을 침해하는 것을 묵인한다” “설교에서 ‘동성애는 죄악’이라는 언급만 해도 처벌받는다”. 21대 국회 개원 이후 14년만에 차별금지법 입법이 본격화되면서 법안의 부작용을 우려하는 목소리가 다시금 나오고 있다. 이런 주장은 어디까지 사실일까. 경향신문은 지난달 29일 장혜영 정]]></content>
     </entry>
 </feed>
