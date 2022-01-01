@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-31T23:16:16.626Z</updated>
+    <updated>2022-01-01T00:50:15.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '임인년' 새해가 밝았다고요?..아직 '신축년'입니다]]></title>
+        <id>https://v.daum.net/v/20220101093036112</id>
+        <link href="https://v.daum.net/v/20220101093036112"/>
+        <updated>2022-01-01T00:50:14.645Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = "임인년(壬寅年) '검은 호랑이의 해'가 밝았습니다" "2022년 임인년 새해를 맞아…" 2021년에서 2022년으로 해가 바뀌면서 기관장이나 단체장 등이 내놓은 신년사에서 흔히 볼 수 있는 문구다. 새해를 축하하며 지인 등과 덕담을 주고받는 연하장에서도 '임인년 새해'라는 표현은 심심찮게 등장한다. 하지만 엄밀히 따지면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 식당·숙박업소 '연말 바가지' 제재할 수 있다?]]></title>
         <id>https://v.daum.net/v/20211231205806223</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211228151814428"/>
         <updated>2021-12-31T17:42:45.908Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 정부가 코로나19 확진자 증가에 대비해 병상을 늘리고 의료진을 추가 확보할 계획이라고 발표한 뒤 병원에 소속된 정규직 간호사들의 사직이 늘어날 것이라는 우려가 나오고 있다. 온라인 커뮤니티에는 '파견직 간호사들과 임금 차이가 커서 허탈하다', '사표를 내고 정부 파견직으로 간다'는 등 정규직 간호사들의 불편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 신지예 영입 이후, '이대남'은 등을 돌릴까요?]]></title>
-        <id>https://v.daum.net/v/20211228090307856</id>
-        <link href="https://v.daum.net/v/20211228090307856"/>
-        <updated>2021-12-31T17:42:45.909Z</updated>
-        <content type="html"><![CDATA[신지예 전 한국여성정치네트워크 대표가 국민의힘 윤석열 후보 캠프에 들어갔습니다. 후보 직속 기구인 새시대준비위원회 수석부위원장을 맡았습니다. 당내 의견은 엇갈렸습니다. &nbsp;   국민의힘 김재원 최고위원: 우리 당의 외연확장이나 모든 면에서 상당히 의미 영입이었다. 국민의힘 하태경 의원 : 젠더 갈등을 고조시키는 페미니스트 신지예 영입을 반대한다.    우리]]></content>
     </entry>
 </feed>
