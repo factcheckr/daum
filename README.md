@@ -34,7 +34,7 @@ https://factcheckr.github.io/daumnews/all.xml
 https://factcheckr.github.io/daum_factcheck/all.xml
 - 전체: https://factcheckr.github.io/daum_factcheck/factcheck.xml
 
-## 연재
+### 연재
 - JTBC 팩트체크: https://factcheckr.github.io/daum_factcheck/jtbc_factcheck.xml
 - 채널A 팩트맨: https://factcheckr.github.io/daum_factcheck/channela_factman.xml
 - SBS 사실은: https://factcheckr.github.io/daum_factcheck/sbs_factcheck.xml
