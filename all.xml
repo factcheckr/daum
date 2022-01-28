@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T10:16:05.841Z</updated>
+    <updated>2022-01-28T11:12:51.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[병사들 월급 올려준다던데? 어쩔 연공서열 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[[경향신문] 유투브와 페이스북 등 사회관계망서비스(SNS)를 중심으로 퍼져나가고 있는 ‘서초구 보건소 직원과의 통화’는 사실이 아닌 것으로 19일 확인됐다. 3분 25초 분량의 해당 동영상은 한 중년 여성과 보건소 직원 간의 통화내용으로, 중년여성은 “8.15 집회에 참가한 사람들 가운데 보건소에서 코로나19 검체검사를 받은 결과 양성이 나왔으나 병원에 가]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["세종시 접종률 꼴찌, 공무원 백신 기피 탓" 주장은 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20220128201205106</id>
+        <link href="https://v.daum.net/v/20220128201205106"/>
+        <updated>2022-01-28T11:12:38.407Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ 학교에서 코로나19 백신접종&nbsp;지난해 12월 20일 오전 세종시의 한 중학교에서 신종 코로나바이러스 감염증(코로나19) '찾아가는 학교 단위 백신접종'이 이뤄지고 있다.    ⓒ 연합뉴스  &nbsp; "고위직 공무원 등 공무원 비율이 높은 세종시만!!! 접종률이 다른 도시보다 그것도 10%씩이나 낮은 것이, 정작 공무원들은 백신을]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["오미크론 못 막아".. '부스터샷 무용론' 대체로 거짓 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220126193301453</id>
         <link href="https://v.daum.net/v/20220126193301453"/>
@@ -499,13 +506,6 @@
         <id>https://v.daum.net/v/20220105190008347</id>
         <link href="https://v.daum.net/v/20220105190008347"/>
         <updated>2022-01-05T10:16:22.013Z</updated>
-        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국민 10% 종부세 영향" 윤석열 주장 '반복된 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20220105133905288</id>
-        <link href="https://v.daum.net/v/20220105133905288"/>
-        <updated>2022-01-05T05:15:57.615Z</updated>
         <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
     </entry>
     <entry>
