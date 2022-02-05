@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-05T00:41:21.660Z</updated>
+    <updated>2022-02-05T01:38:20.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트파인더] 수도권 방어 위해 '사드 추가 배치' 필요할까]]></title>
+        <id>https://v.daum.net/v/20220205103004566</id>
+        <link href="https://v.daum.net/v/20220205103004566"/>
+        <updated>2022-02-05T01:38:20.147Z</updated>
+        <content type="html"><![CDATA[3일 열린 대선후보 첫 4자 TV토론에서 가장 첨예하게 맞붙은 정책 주제는 ‘고고도미사일방어체계(THAADㆍ사드)를 수도권에 과연 배치할 필요가 있느냐’였다. 발단은 윤석열 국민의힘 후보의 공약이었다. 윤 후보는 “경북 성주에 배치된 사드 포대로는 수도권 방어가 제한된다. 사드를 추가 배치해 수도권 2,000만 명을 북한 미사일 위협으로부터 보호하겠다”고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]수도권에 미사일 쏠 때 고각발사? 개성에 사드?]]></title>
         <id>https://v.daum.net/v/20220205070306636</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220204050710906"/>
         <updated>2022-02-03T23:13:02.413Z</updated>
         <content type="html"><![CDATA[윤석열 국민의힘 대선 후보가 최근 ‘음식물쓰레기 분쇄기(디스포저) 설치’를 환경 공약으로 제시했다. 음식물쓰레기 처리의 수고를 덜고 자원순환을 활성화한다는 취지다. 하지만 전문가들은 “음식물쓰레기 발생량이 늘고 하수처리장 오염을 가중시킬 수 있다”고 지적한다. 윤 후보는 지난달 31일 ‘석열씨의 26번째 심쿵 약속’으로 생활 속 자원순환 사회 공약을 발표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열 캠프 LTV 공약 80%→90%로 완화했다?]]></title>
-        <id>https://v.daum.net/v/20220203220416690</id>
-        <link href="https://v.daum.net/v/20220203220416690"/>
-        <updated>2022-02-03T13:17:57.348Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 3일 제20대 대통령 선거 후보들의 첫 TV 토론회에서 더불어민주당 이재명 후보와 국민의힘 윤석열 후보가 부동산 공약을 두고 신경전을 벌였다. 이 후보는 윤 후보에게 "주택담보대출비율(LTV)을 80%로 할건지 90% 할건지 정말 중요한데 80%를 주장하시다가 갑자기 아무 설명도 없이 90%로 완화한다고 (밝히셨다)"고 지적]]></content>
     </entry>
 </feed>
