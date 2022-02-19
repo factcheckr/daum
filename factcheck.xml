@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-19T00:54:43.784Z</updated>
+    <updated>2022-02-19T02:00:58.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희 도이치모터스 주가조작 의혹 5대 쟁점 팩트체크 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220219100902649</id>
+        <link href="https://v.daum.net/v/20220219100902649"/>
+        <updated>2022-02-19T02:00:57.698Z</updated>
+        <content type="html"><![CDATA[[김시연, 고정미 기자] ⓒ 고정미  &nbsp; 도이치모터스 주가 조작 의혹 사건은 권오수 전 도이치모터스 회장 등이 주가 세력과 공모해 지난 2009년 12월부터 2012년 12월까지 3년 동안 회사 주가를 인위적으로 끌어올린 혐의로 구속돼 검찰 수사 중인 사건이다. 윤석열 국민의힘 대통령 후보 배우자인 김건희씨도 시세조정 과정에 주식과 자금을 댔다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 부활한 '택시 합승', 기사 마음대로 승객 태운다?]]></title>
         <id>https://v.daum.net/v/20220219090021874</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220217173306759"/>
         <updated>2022-02-17T09:15:04.738Z</updated>
         <content type="html"><![CDATA[늘 새로운 역사를 쓰고 있는 SBS 선거방송! 일각에서는 SBS 선거팀 도핑테스트가 필요하다는 말까지 나오고 있다는데… 이걸로 만족할 수 없습니다. 이번에는 여론조사로 한 발 더 나아갑니다. 여론조사 못 믿겠다는 분들 많습니다. 수치도 제각각인데다가 의뢰 기관이나 조사 기관의 정치적 편향성도 늘 도마 위에 오릅니다. SBS 선거팀은 이런 문제를 해결하기 위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 대선 D-20, '20일의 데이터'를 분석했습니다]]></title>
-        <id>https://v.daum.net/v/20220217103900825</id>
-        <link href="https://v.daum.net/v/20220217103900825"/>
-        <updated>2022-02-17T01:53:28.688Z</updated>
-        <content type="html"><![CDATA[대선까지 20일 남았습니다. 그제 공식 선거 운동도 시작됐습니다. 후보들은 한 표라도 더 끌어모으기 위해 총력전을 펼치고 있습니다. 당내 경선부터 공식 선거 운동 기간까지, 반 년 넘게 대선 정국이 이어진 것을 고려하면 20일은 짧은 시간입니다. 이미 많은 것들이 결정된 것처럼 보일 수 있습니다. 하지만, 선거 공간에서 20일은 꽤 긴 시간이기도 합니다.]]></content>
     </entry>
 </feed>
