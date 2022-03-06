@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-06T19:12:21.044Z</updated>
+    <updated>2022-03-06T20:16:30.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[후보들의 증세 · 기본소득 발언, 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 오늘(11일) 팩트체크에선 '우회전 차량의 통과 기준'을 살펴봤습니다. 오늘 법 개정안이 공포됐습니다. 지금은 사실로 여겨져도 앞으론 사실이 아닐 수도 있습니다. 새롭게 팩트체크를 맡은 이지은 기자가 나와 있습니다. 법이 어떻게 강화되는 겁니까? [기자] 헷갈리는 교차로 우회전 4가지 경우를 가져와봤습니다. 이 중에서 일시 정지를 언제 해야 될지]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사전투표 카오스.. "관리 부실인가 선거 부정인가" [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220307043106015</id>
+        <link href="https://v.daum.net/v/20220307043106015"/>
+        <updated>2022-03-06T20:16:29.722Z</updated>
+        <content type="html"><![CDATA[지난 5일 신종 코로나바이러스 감염증(코로나19) 확진자와 격리자에 대한 사전투표가 극심한 혼란 속에서 치러졌다. 중앙선거관리위원회의 안일한 준비와 현장 대응을 두고 질타가 거센 가운데, ‘부정 선거’ 의혹마저 일각에서 제기됐다. 선관위와 정치권의 설명, 공직선거법 규정 등을 바탕으로 대혼란의 원인이 무엇이었는지, 부정 선거 소지가 정말로 있는지를 살펴봤다]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[알고보니] 특혜 아니라는데..구치소 독방 왜 자꾸 논란되나 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220305130414713</id>
         <link href="https://v.daum.net/v/20220305130414713"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220303154805048"/>
         <updated>2022-03-03T07:14:46.325Z</updated>
         <content type="html"><![CDATA[핵심요약OECD 통계만 보면 상위권 속해 하지만 집계 기준에 증권거래세, 차량 취득세 등 포함 "회원국 늘면서 비교 대상 달라졌다" 주장도 국민의힘 윤석열 대선 후보가 제20대 대통령선거 정책공약집에서 '부동산 세제 정상화'를 내걸었다. 지난해 12월 "문재인 정부의 비정상적 부동산 세제부터 정상화하겠다"고 밝힌 데 따른 공약이다. 윤 후보는 지난달 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] 정규직화? 철저 수사?..토론 소환된 故 김용균 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220303080005333</id>
-        <link href="https://v.daum.net/v/20220303080005333"/>
-        <updated>2022-03-02T23:15:13.621Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "정치인 자식은 산재 당할 가능성이 별로 없어" "사고가 났을 때 발전사 일부라도 정규직으로 고용을 하겠다고 약속을 했습니다. 그런데 지금까지 김용균의 친구 6,561명중에 단 한명도 정규직화 된 사람이 없습니다. 죽음 앞에서 한 약속인데도 지켜지지 않았어요.(…) 정치인들 가족이나 자식들은 비정규직으로 가서 현장에서 그런 참사를 당할 가능성]]></content>
     </entry>
 </feed>
