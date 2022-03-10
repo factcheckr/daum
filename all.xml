@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T08:18:34.554Z</updated>
+    <updated>2022-03-10T09:15:35.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[후보들의 증세 · 기본소득 발언, 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다. 팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던데 맞는 얘기입니까? [기자] 맞기는 합니다. 전투기 노후 정해진 수명이라는 게 있기 때문에 사용 연한, 즉 수명이 계속 늘어나고 있는 겁니다. 공군]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고?(종합) (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220310180602402</id>
+        <link href="https://v.daum.net/v/20220310180602402"/>
+        <updated>2022-03-10T09:15:34.573Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대통령선거에서 국민의힘 윤석열 후보의 당선이 확정된 이후 온라인 커뮤니티에는 최저임금이 폐지되는 게 아니냐는 글들이 여럿 올라왔다. "이제 120시간 일하고 최저시급 보장 못 받나요?", "윤석열 최저임금 폐지, 진짜인가요?" 등의 제목 아래 최저임금 폐지를 우려하는 내용이다. 이런 글은 선거일 직]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220310164605817</id>
         <link href="https://v.daum.net/v/20220310164605817"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220305110002160"/>
         <updated>2022-03-05T02:09:06.245Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대선에 출마한 정의당 심상정 후보가 의료비 본인부담상한제를 공약으로 내걸어 주목받고 있다. 심 후보는 지난 2일 중앙선거방송토론위원회 주관으로 열린 3차 대선 후보 TV 토론회에서 "의료비가 1천만 원이 나오든 1억 원이 나오든 본인이 부담하는 상한액을 100만 원으로 한정하자"면서 "유럽 선진 국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 투표 때 투표용지 촬영해도 처벌받지 않는다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220305070057979</id>
-        <link href="https://v.daum.net/v/20220305070057979"/>
-        <updated>2022-03-04T22:14:20.334Z</updated>
-        <content type="html"><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투표가 실시됩니다. 사전투표 첫날인 4일 전국 770만 명 넘게 투표해 17.57%로 첫날 기준 역대 최고 투표율을 기록했습니다. 투표를 독려하기 위해 인증샷도 많이 올라왔는데 투표 인증을 둘러싼 논란, 이번에도 예외가 아니었습니다. 가수 케이윌은 어제(4일) 자신]]></content>
     </entry>
 </feed>
