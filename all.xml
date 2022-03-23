@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-22T23:16:08.803Z</updated>
+    <updated>2022-03-23T01:06:55.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[청와대 이전을 둘러싼 '대통령'과 '참모'의 거리 (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20220323091804058</id>
+        <link href="https://v.daum.net/v/20220323091804058"/>
+        <updated>2022-03-23T01:06:01.161Z</updated>
+        <content type="html"><![CDATA[대통령 집무실 용산 이전으로 논란이 뜨겁습니다. 국가 안보 문제, 경호의 적절성, 예산 낭비 논란 등 다양한 쟁점이 있습니다. 치열한 갑론을박이 이어지고 있습니다.&nbsp; 하지만, 왜 이전하려 하는가에 대해서는 상대적으로 공론화가 덜한 것 같습니다. 사실 이번 현안과 관련해 가장 고민해야 할 부분은 이전의 '명분'일 겁니다.&nbsp; 윤석열 당선인은 핵심 명분으로 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나치가 우크라이나를 점령했다는 푸틴, 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
         <id>https://v.daum.net/v/20220320090310043</id>
@@ -80,13 +87,6 @@
         <link href="https://v.daum.net/v/20220214111503489"/>
         <updated>2022-02-14T02:24:21.772Z</updated>
         <content type="html"><![CDATA[기획재정부는 최근 14조 원 규모의 추가경정예산안, 추경안을 국회에 제출했습니다. 추경안에는 소상공인 지원 11.5조 원이 포함돼 있습니다. 결은 다르지만, 여야 모두 추경안 액수가 적다고 한목소리를 내고 있습니다. 더불어민주당 이재명, 국민의힘 윤석열, 두 후보 모두 추경 규모를 몇 배 수준으로 올려야 한다는 입장입니다. 문제는 재원입니다. 지난 2차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원전 추가? 전작권 환수? 어느 후보 말이 맞나 (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20220212201204590</id>
-        <link href="https://v.daum.net/v/20220212201204590"/>
-        <updated>2022-02-12T12:19:52.488Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 어제(11일) 토론회에서 나온 후보들의 발언, 팩트체크 이어갑니다. 이재명, 윤석열 후보가 서로의 과거 발언을 꼬리에 꼬리를 물며 파고들었는데요. 과연 어느 후보의 말의 어디까지가 사실인 것인지, SBS 팩트체크 '사실은'팀, 이경원 기자가 검증했습니다. &lt;기자&gt; 토론회 중반부, 윤석열 후보가 원전 추가 건설을 약속했다, 아니다 그런 적 없다, 설]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전직 대통령들, 임기 마지막 날 어디에 있었나 (다음 뉴스 ─ MBC 알고보니)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 이재명, 윤석열, 두 후보가 LTV를 대폭 완화하겠다고 했습니다. LTV는 집을 담보로 대출받을 때, 은행에서 담보 가치를 얼마까지 인정하느냐, 그러니까 얼마나 빌릴 수 있느냐는 비율이죠. 그런데 이걸 두 후보의 주장처럼 크게 늘릴 수가 있는지 팩트체크팀이 따져봤습니다. 이지은 기자, 누구를 대상으로 하겠다. 이건 나와 있죠? [기자] 그렇습니다.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사실은] 청와대 이전을 둘러싼 '대통령'과 '참모'의 거리 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220323091804058</id>
+        <link href="https://v.daum.net/v/20220323091804058"/>
+        <updated>2022-03-23T01:06:55.040Z</updated>
+        <content type="html"><![CDATA[대통령 집무실 용산 이전으로 논란이 뜨겁습니다. 국가 안보 문제, 경호의 적절성, 예산 낭비 논란 등 다양한 쟁점이 있습니다. 치열한 갑론을박이 이어지고 있습니다.&nbsp; 하지만, 왜 이전하려 하는가에 대해서는 상대적으로 공론화가 덜한 것 같습니다. 사실 이번 현안과 관련해 가장 고민해야 할 부분은 이전의 '명분'일 겁니다.&nbsp; 윤석열 당선인은 핵심 명분으로 대]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트와이] 文 정부 '북한의 도발' 표현 한 번도 안 했다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220323044501204</id>
         <link href="https://v.daum.net/v/20220323044501204"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220321120002211"/>
         <updated>2022-03-21T03:23:27.874Z</updated>
         <content type="html"><![CDATA[윤석열 대통령 당선인이 20일 취임 후 집무실을 ‘용산 국방부 청사’로 확정하면서 당장 10개층을 비워줘야 하는 국방부는 옆 동인 합동참모본부와 별관, 서울 소재 군 부대, 상황에 따라 후암동 옛 방위사업청, 정부과천청사 등으로 뿔뿔이 흩어진다. 합참은 남태령 수도방위사령부로, 장기적으로 국방부는 과천청사로 이전하는 방안도 제시됐다. 불과 열흘 만에 이뤄진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 한국은 어쩌다 '갈등공화국'이 되었나 (인터뷰) (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220320100711954</id>
-        <link href="https://v.daum.net/v/20220320100711954"/>
-        <updated>2022-03-20T02:14:05.184Z</updated>
-        <content type="html"><![CDATA[최근 온라인 커뮤니티 등에서 우리나라가 세계 갈등 1위로 '공인'을 받았다는 주장이 제기됐습니다. 이같은 주장의 근거는 지난해 6월 영국 킹스컬리지가 여론조사기관인 입소스에 의뢰해 발간한 보고서입니다. 모두 28개국 2만 3천여 명을 상대로 조사를 했는데 당초 목표는 영국 사회의 갈등이 얼마나 심각한지를 다른 나라와 비교하기 위함이었지만, 가장 '튀는' 국]]></content>
     </entry>
 </feed>
