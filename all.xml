@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-30T07:15:19.927Z</updated>
+    <updated>2022-04-30T08:18:46.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['검수완박' 해외 사례도 제각각..사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 이번엔 팩트체크를 해보겠습니다. 대상은 이준석 대표의 주장입니다. 이지은 기자가 나와 있습니다. 일단 이 대표는 장애인 단체의 행동이 지하철 엘리베이터 설치 때문이다, 이렇게 주장을 하고 있는 거죠? [기자] 네, 이 대표는 지난 26일, 페이스북에 긴 글을 올렸습니다. 거기서 "지하철 엘리베이터 설치율이 100%가 아니라는 이유로 계속 서울시민]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대통령 취임식에 대선 경쟁후보 초청한 적 있다? 없다? [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220430162608990</id>
+        <link href="https://v.daum.net/v/20220430162608990"/>
+        <updated>2022-04-30T08:18:45.665Z</updated>
+        <content type="html"><![CDATA[다음 달 10일 열릴 윤석열 대통령 취임식에 대권 경쟁자였던 이재명 더불어민주당 상임고문과 유승민 전 국민의힘 의원은 초청받지 못한 것으로 알려졌다. 박주선 대통령취임준비위원장이 27일 CBS 라디오 '김현정의 뉴스쇼'와 인터뷰에서 이 상임고문과 유 전 의원을 초청하느냐는 질문에 "자칫 잘못하면 패배에 대한 아픈 상처를 상기시키거나 또는 크게 할 우려가 있]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] CPTPP 가입하면 해외 성인사이트 차단할 수 없다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220430110004051</id>
         <link href="https://v.daum.net/v/20220430110004051"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220427180111467"/>
         <updated>2022-04-27T09:16:58.584Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령 당선인 측이 27일 이른바 '검수완박'(검찰청법·형사소송법 개정안) 법안과 관련해 취임 뒤 6·1 지방선거에서 국민투표에 부치는 방안을 추진하겠다는 입장을 밝혀 또 다른 논란이 되고 있다. 장제원 당선인 비서실장은 이날 통의동 인수위 사무실에서 기자들과 만나 "당선인 비서실은 '검수완박'과 관련해 국민투표하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 수사-기소분리 말 아끼던 경찰, 국회서 조용한 반박 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220427175609221</id>
-        <link href="https://v.daum.net/v/20220427175609221"/>
-        <updated>2022-04-27T10:18:28.833Z</updated>
-        <content type="html"><![CDATA[수사-기소 분리를 두고 경찰을 깎아내리는 검찰 행태에 속앓이만 하던 경찰이, 국회 막바지 법안 논의 과정에서 묵언을 깨고 검찰 주장을 적극 반박하며 찬성 입장을 밝혔다. 다만 경찰 통제 방안에 대해서는 여전히 소극적 자세로 일관하고 있다. 27일 국회 법제사법위원회 법안소위회의록을 보면, 비공개(18~19일치, 25~26일치)로 진행된 회의에서 진교훈 경]]></content>
     </entry>
 </feed>
