@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-30T08:22:54.465Z</updated>
+    <updated>2022-05-30T09:19:01.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220530090600285"/>
         <updated>2022-05-30T01:19:46.886Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 5월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 인기식지 않는 '포켓몬 빵' sn]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['원숭이 두창' 핵심만 [팩트체크]]]></title>
+        <id>https://v.daum.net/v/20220530090406216</id>
+        <link href="https://v.daum.net/v/20220530090406216"/>
+        <updated>2022-05-30T09:19:01.182Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 5월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. '원숭이 두창' 핵심만 팩트체크 ◇ 김양원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 선거운동 유세차량 '소음 규제' 못 한다?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220526115401116"/>
         <updated>2022-05-26T03:24:00.313Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;국민의힘 성일종 정책위의장이 지난 6일 오전 서울 여의도 국회에서 열린 원내대책회의에서 발언하고 있다.    ⓒ 공동취재사진  &nbsp; &nbsp; [검증대상] 국민의힘 "1회용 컵 보증금제로 외식 물가 상승" 환경부는 지난 20일 오는 6월 10일 시행 예정이었던 '1회용 컵 보증금제'를 6개월 유예했다. 여당에서 시행 유예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] "김경수 공약이행률 100%?"..매니페스토 기준은?]]></title>
-        <id>https://v.daum.net/v/20220526082937195</id>
-        <link href="https://v.daum.net/v/20220526082937195"/>
-        <updated>2022-05-26T01:19:56.407Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
 </feed>
