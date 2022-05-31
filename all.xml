@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-30T23:17:29.391Z</updated>
+    <updated>2022-05-31T01:17:26.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[지자체장, 40만 명 인사권 '쥐락펴락' (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -173,6 +173,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 며칠 전 장애인들의 지하철역 삭발 시위에서 이런 항의가 나왔습니다. [지하철 이용객] "장애인들 확실하게 돈 내고 무임승차하지 말고, 돈 내고 하면 엘리베이터 다 깔릴 거예요." 장애인에게 승강기가 필요하다면, 지하철 요금부터 내라는 건데요. 온라인 게시판이나 댓글에서도 일부 누리꾼들은 "장애인들의 시위는]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[창원 제조업 'V 반등' vs 'L 침체'..사실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220531083148616</id>
+        <link href="https://v.daum.net/v/20220531083148616"/>
+        <updated>2022-05-31T01:16:51.682Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[창원 제조업 경기 'V 반등' vs 'L 침체', 사실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220530221003286</id>
         <link href="https://v.daum.net/v/20220530221003286"/>
@@ -248,13 +255,6 @@
         <link href="https://v.daum.net/v/20220512120101920"/>
         <updated>2022-05-12T03:13:04.975Z</updated>
         <content type="html"><![CDATA["출산율이 사망률을 웃돌게 하지 않으면 일본은 결국 사라질 것이다. 그런 일은 우리 세상에 큰 손실이 될 것이다." 미국 전기차 업체 테슬라 최고경영자인 일론 머스크가 최근 자신의 트위터를 통해 주장한 내용입니다. 해당 트윗은 지난해 일본의 인구가 64만 명 넘게 감소해 1950년 이후 가장 감소 폭이 컸고 11년 연속 확대되고 있다는 교도통신 기사를 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중·대선거구 늘어도 "군소 정당에 불리"..사실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220505083153849</id>
-        <link href="https://v.daum.net/v/20220505083153849"/>
-        <updated>2022-05-05T01:14:05.204Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 한덕수 후보자에 대해서는 과거 처가가 가지고 있던 서울 장교동 땅을 둘러싼 의혹이 나오고 있습니다. 한 부동산 업체가 이 땅을 시세의 2배 값으로 샀다는 건데, 한 후보자는 이미 다 검증을 받은 거라고 주장합니다. 팩트체크 해보겠습니다. 이지은 기자, 한 후보자 말이 맞습니까. [기자] 그렇지 않습니다. 현재 한 후보자로부터 나오는 의혹의 핵심을]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크K] 창원 제조업 'V 반등' vs 'L 침체'..사실은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220531083148616</id>
+        <link href="https://v.daum.net/v/20220531083148616"/>
+        <updated>2022-05-31T01:17:25.458Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크K] 창원 제조업 경기 'V 반등' vs 'L 침체', 사실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220530221003286</id>
         <link href="https://v.daum.net/v/20220530221003286"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220526212406743"/>
         <updated>2022-05-26T12:30:21.217Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 내일(27일)부터 지방선거 사전투표가 이뤄지는데, 이번에는 우리가 뽑는 지역 일꾼 지방자치단체장들이 얼마나 막대한 인사권을 행사하는 자리인지 살펴보겠습니다. SBS 팩트체크 '사실은'팀과 데이터저널리즘 '마부작침'팀의 연속 보도, 이경원 기자입니다. &lt;기자&gt; 서울시청 소속 공무원, 최근 통계 기준으로 1만 1천여 명입니다. 이들에 대한 인사권, 당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 유세차 소음, 전투기 소리보다 시끄러워도 된다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220526202405585</id>
-        <link href="https://v.daum.net/v/20220526202405585"/>
-        <updated>2022-05-26T12:31:06.026Z</updated>
-        <content type="html"><![CDATA[[앵커] 공식 선거 운동이 시작된 뒤, 전국 곳곳에서 유세 차량에서 나오는 소리가 너무 크다, 기찻길 옆에 있는 것 같다, 이런 불만들이 잇따르고 있다고 합니다. 이번 선거는 선거운동 소음에 대한 규제가 적용되는 첫 선거인데 "전보다 더 시끄러워진 것 같다"는 얘기도 나오는 이유가 뭔지 팩트체크 해보겠습니다. 이지은 기자, 새로 적용된 소음 기준이 뭔지부터]]></content>
     </entry>
 </feed>
