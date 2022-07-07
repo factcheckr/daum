@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-06T23:15:00.700Z</updated>
+    <updated>2022-07-07T01:24:40.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[국회 '개점 휴업', 이번이 유독 길었나요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 이틀 전, 윤석열 대통령이 바이든 대통령과 환영 만찬을 가졌는데, 당시 윤 대통령이 미국 국가가 연주될 때 가슴에 손을 올린 걸 놓고 논란입니다. 규정에 맞지 않는다, 이런 지적인데요. 팩트체크 해보겠습니다. 이지은 기자, 정확히 어떤 상황이었습니까? [기자] 만찬이 시작되기 전입니다. 식순에 따라 먼저 미국 국가가 연주됐는데요. 당시 상황을 영상]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 중국 수출 없으면 우리나라도 무역적자국 된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220707095007555</id>
+        <link href="https://v.daum.net/v/20220707095007555"/>
+        <updated>2022-07-07T01:24:39.772Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라의 올 상반기 무역수지가 역대 최대 적자를 기록하면서 '탈(脫) 중국론'을 둘러싼 논란이 커지고 있다. 최상목 대통령실 경제수석은 지난달 말 북대서양조약기구(NATO·나토) 정상회의가 열린 스페인 마드리드에서 가진 언론 브리핑에서 "지난 20년간 우리가 누려왔던 중국을 통한 수출 호황 시대는 끝나가고 있다"며 중국 대]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트맨]'파출소 습격' 공기화살총, 누구나 구매 가능? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220706194211653</id>
         <link href="https://v.daum.net/v/20220706194211653"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220705173008928"/>
         <updated>2022-07-05T09:15:42.416Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 피선거권이 없다는 이유로 더불어민주당 대표 출마가 무산된 박지현 전 민주당 비상대책위원장이 "이미 피선거권이 있다"며 민주당 지도부를 향해 명확한 유권해석을 요구하고 나섰다. 박 전 비대위원장은 5일 페이스북에 "4월 1일 중앙위원회에서 투표를 통해 84.4%의 찬성을 얻어 비대위원장, 즉 임시 당 대표로 선출됐다"며 "당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 국회 '개점 휴업', 이번이 유독 길었나요? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220705113600520</id>
-        <link href="https://v.daum.net/v/20220705113600520"/>
-        <updated>2022-07-05T03:41:50.434Z</updated>
-        <content type="html"><![CDATA[한 달 넘게 미뤄졌던 여야의 '원 구성' 협상이 어제 극적으로 타결됐습니다. 여야 모두가 참석한 본회의에서 더불어민주당 출신 김진표 의원이 국회의장으로 공식 선출됐습니다. 협상이 난항을 겪으며 국회가 공백 상태로 접어든 지 36일 만입니다. 여야는 국회의장 선출 말고도 빠른 시일 안에 법사위원장을 비롯한 상임위원장 선출을 위한 협상을 계속 이어가기로 했습]]></content>
     </entry>
 </feed>
