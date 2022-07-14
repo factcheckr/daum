@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-14T10:19:01.627Z</updated>
+    <updated>2022-07-14T11:13:51.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://v.daum.net/v/20220714191102266</id>
         <link href="https://v.daum.net/v/20220714191102266"/>
         <updated>2022-07-14T10:19:00.798Z</updated>
-        <content type="html"><![CDATA[일본 아베 피살로 본 불법 사제총기 위험성 3D 프린팅 기술보단 사각지대 관리가 본질ㅇ아압아베 ㅇ아압아일본에서 아베 신조 전 총리가 유세 중 피격당해 숨지는 사건이 발생하면서 불법으로 제작된 사제 총기에 대한 우려가 커지고 있다. 이번에 사용된 총의 일부가 3차원(D) 프린터를 이용해 만든 수제품인 것으로 밝혀져 ‘모방 범죄’ 가능성도 배제할 수 없는 상황]]></content>
+        <content type="html"><![CDATA[일본 아베 피살로 본 불법 사제총기 위험성 3D 프린팅 기술보단 사각지대 관리가 본질일본에서 아베 신조 전 총리가 유세 중 피격당해 숨지는 사건이 발생하면서 불법으로 제작된 사제 총기에 대한 우려가 커지고 있다. 이번에 사용된 총의 일부가 3차원(D) 프린터를 이용해 만든 수제품인 것으로 밝혀져 ‘모방 범죄’ 가능성도 배제할 수 없는 상황이다. 도면만 있으]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 유류세 내렸는데, 기름값은 그대로다?]]></title>
