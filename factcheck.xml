@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-12T12:29:46.290Z</updated>
+    <updated>2022-08-12T13:40:05.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['수방 예산 900억 삭감' 네 탓 공방 따져보니 [사실은]]]></title>
+        <title type="html"><![CDATA[[사실은] '수방 예산 900억 삭감' 네 탓 공방 따져보니]]></title>
         <id>https://v.daum.net/v/20220812203606586</id>
         <link href="https://v.daum.net/v/20220812203606586"/>
         <updated>2022-08-12T12:29:45.715Z</updated>
