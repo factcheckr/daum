@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-21T23:15:45.799Z</updated>
+    <updated>2022-08-22T01:21:55.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 내일(1일)부터 전기요금이 오르죠. 그런데 우리나라 국민 1인당 전기 사용량이 세계에서 3번째로 많다, 최상위권이다 이런 글들이 퍼지고 있습니다. 맞는 얘기인지, 팩트체크 해보지요. 이지은 기자, 사실입니까? [기자] 우선, 한국전력이 1인당 전기 사용량 세계 3위다 이렇게 공식 자료를 낸 건 없습니다. 다만 지난 4월에 발간한 자료를 통해, 1인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국, 코로나19 확진자수 세계최고! 치명률은 세계 최저? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220822095700826</id>
+        <link href="https://v.daum.net/v/20220822095700826"/>
+        <updated>2022-08-22T01:21:55.122Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 8월 20일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 김양원 PD(이하 김양원)&gt; 지난 한 주간 있]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한때 시스루룩 벌주더니..이젠 비키니가 '부끄럽다'는 경찰 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220821151509416</id>
         <link href="https://v.daum.net/v/20220821151509416"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220816203034416"/>
         <updated>2022-08-16T12:27:36.512Z</updated>
         <content type="html"><![CDATA[[앵커] '침수 예상 지도'라는 게 있습니다. 침수 피해가 있을 걸로 예상되는 지역들을 미리 지도로 볼 수 있게 한 건데요. 그런데 이 지도가 실제로 들어가 보면 사이트마다 정보가 다르게 나오거나 아예 알아볼 수도 없게 되어있습니다. 보라고 만든 거냔 얘기까지 나오는데 정말 그런지, 팩트체크해 보겠습니다. 이지은 기자, 이 지도를 보여주는 사이트가 하나로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]비 안오면 오보?..날씨 예측 기준 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220815201302497</id>
-        <link href="https://v.daum.net/v/20220815201302497"/>
-        <updated>2022-08-15T11:13:47.149Z</updated>
-        <content type="html"><![CDATA[[임이자 / 국민의힘 의원 ] "기상청도 맨날 오보청, 구라청, 지겹게 들었죠? 지난 5년 동안?" [유희동 / 기상청장] "예. 그렇습니다." [임이자 / 국민의힘 의원] "정신 바짝 차리고 하시기 바랍니다." (지난 8일, 국회 환경노동위원회 기상청 업무보고 中) 기상청장이 국회에서 호된 질책을 받았습니다. 기상청 예보, 정말 자주 틀]]></content>
     </entry>
 </feed>
