@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-10-11T10:21:02.123Z</updated>
+    <updated>2022-10-11T11:16:33.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유사시 일본 자위대가 우리 영역으로 진입 가능?]]></title>
+        <id>https://v.daum.net/v/20221011200904424</id>
+        <link href="https://v.daum.net/v/20221011200904424"/>
+        <updated>2022-10-11T11:16:26.447Z</updated>
+        <content type="html"><![CDATA[[앵커] '친일 국방' 논쟁 속엔 여야의 여러 주장들이 뒤섞여 있습니다. 엇갈리는 내용들 바로 팩트체크를 하겠습니다. 채승기 기자, 먼저 민주당 이재명 대표가 '친일 국방' 주장을 하면서 들었던 논거입니다. "윤 대통령이 '자위대가 유사시 한반도에 들어올 수 있다'라는 말을 했다"는 건데, 이런 말을 한 게 맞습니까? [기자] 네, 그런 취지의 발언이 있었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국정감사서 '음성' 틀려면 여야 간사 합의 필요?]]></title>
         <id>https://v.daum.net/v/20221005205005453</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220728202608602"/>
         <updated>2022-07-28T12:35:15.500Z</updated>
         <content type="html"><![CDATA[[앵커] 크게 오른 물가 탓에 팍팍한 살림 꾸려나가다 보면, 매달 나가는 통신비도 적잖은 부담인데요. 정부가 이런 가계 부담을 줄여보겠다면서 5G 중간요금제 도입 계획을 발표했습니다. 그런데, 도입 전부터 불만들이 나옵니다. 팩트체크해보겠습니다. 이지은 기자, 중간요금제라는 게 뭔가요? [기자] 음식에 빗대서 설명을 해드리겠습니다. 안 앵커가 냉면집에 갔습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총경들이 '위수지역' 이탈? 장관 발언 따져보니]]></title>
-        <id>https://v.daum.net/v/20220726194805096</id>
-        <link href="https://v.daum.net/v/20220726194805096"/>
-        <updated>2022-07-26T11:14:28.910Z</updated>
-        <content type="html"><![CDATA[[앵커] 여기서 바로 이상민 장관의 '쿠데타 발언'을 팩트체크하겠습니다. 두 가지인데, 총경들이 위수지역을 이탈한 건지, 무기도 소지할 수 있는 건지입니다. 결론은 사실에 근거하지 않은 주장입니다. 이지은 팩트체커입니다. [기자] 이상민 행안부 장관은 지난 23일 회의에 모인 총경들의 위수지역 이탈을 지적했습니다. [이상민/행정안전부 장관 (어제 / 대정부]]></content>
     </entry>
 </feed>
