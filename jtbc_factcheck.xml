@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-10-26T10:22:38.138Z</updated>
+    <updated>2022-10-26T11:18:34.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[회생신청 발표는 협상카드? '레고랜드 사태' 엇갈린 주장]]></title>
+        <id>https://v.daum.net/v/20221026201345595</id>
+        <link href="https://v.daum.net/v/20221026201345595"/>
+        <updated>2022-10-26T11:18:01.240Z</updated>
+        <content type="html"><![CDATA[[앵커] 이처럼 기업들의 돈맥경화를 불러온 레고랜드 사태를 두고 주장이 엇갈립니다. 김진태 강원도지사는 개발회사, 그리고 채권단과 진실 공방을 벌이고 있습니다. 팩트체크를 해보겠습니다. 정원석 기자 나와있습니다. 일단 강원도가 이번 사태를 두고 팩트체크 자료를 냈다고요? 어떤 내용입니까? [기자] 네, 레고랜드 개발사인 강원중도개발공사를 회생신청하기로 결정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[날린 쿠폰, 놓친 호출..카카오 보상 어디까지?]]></title>
         <id>https://v.daum.net/v/20221017201306759</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220810203054509"/>
         <updated>2022-08-10T12:30:58.100Z</updated>
         <content type="html"><![CDATA[[앵커] 이번 집중호우 사태를 겪으면서 재난 예측 시스템의 한계를 지적하는 목소리가 많습니다. 그런데 저희 취재 결과, 이미 3년 전에 서울시가 동네별로 침수 위험을 1시간 먼저 예측해서 경고하는 시스템을 운영한다며 대대적으로 홍보한 사실이 확인됐습니다. 그런데도 이번에 왜 이랬던 건지 팩트체크 해보죠. 이지은 기자, 이게 구체적으로 어떤 시스템인가요? []]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실 "보안상 중요한 공사는 비공개"..판단 기준은?]]></title>
-        <id>https://v.daum.net/v/20220803203534190</id>
-        <link href="https://v.daum.net/v/20220803203534190"/>
-        <updated>2022-08-03T12:31:45.109Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령 부부가 조만간 입주할 새 관저의 리모델링을 수의계약으로 따낸 업체가 김건희 여사와 연관됐단 의혹이 나왔습니다. 하지만 대통령실은 "보안상 중요한 공사는 공개하지 않는 게 원칙"이라고 하고 있는데요. 팩트체크 해보죠. 이지은 기자, 정말 그렇습니까. [기자] 국가기관이 공사 계약을 맺는 경우, 원래 공개가 원칙입니다. 국가계약법에 따라]]></content>
     </entry>
 </feed>
