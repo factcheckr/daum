@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-12T11:13:54.880Z</updated>
+    <updated>2022-12-12T12:29:05.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 민주당 지도부가 오늘(19일) 군장병이 옷도 신발도 제대로 입지 못할 정도로 윤석열 정부가 관련 예산을 삭감했다고 비판했습니다. 전투화 예산만 310억원을 뺐다는 건데요. 팩트체크 해보죠. 이지은 기자. 이 말이 맞는 이야깁니까? [기자] 취재를 해보니, 그렇지 않았습니다. 우선 오늘 민주당 최고위원회의를 먼저 보시죠. [서영교/더불어민주당 최고위]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[민주당 산업은행 이전 반대는 민주노총 탓? 정진석 발언은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221212211802018</id>
+        <link href="https://v.daum.net/v/20221212211802018"/>
+        <updated>2022-12-12T12:29:04.442Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ 부산에서 열린 국민의힘 현장 비상대책위&nbsp;국민의힘 정진석 비상대책위원장이 12일 부산 동구 부산항국제전시컨벤션센터에서 열린 현장 비상대책위원회에서 발언하고 있다.    ⓒ 연합뉴스  &nbsp; [검증 대상] 정진석 "민주당의 산업은행 부산 이전 반대는 민노총 탓" "지금, 한국산업은행법 국회 정무위에 계류 중이다. 민주당의 협조를]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[알고보니] 유족 지원에 시민단체는 안돼? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221212201013296</id>
         <link href="https://v.daum.net/v/20221212201013296"/>
@@ -603,7 +610,7 @@
         <title type="html"><![CDATA[[팩트맨]스피커로 층간소음 복수, 스토킹으로 처벌? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221212195254084</id>
         <link href="https://v.daum.net/v/20221212195254084"/>
-        <updated>2022-12-12T11:13:54.128Z</updated>
+        <updated>2022-12-12T11:13:22.393Z</updated>
         <content type="html"><![CDATA[[기자] 우리 집 바닥에서 이런 소음이 종일 들려온다면 어떨까요? 층간소음에 복수하는 소음이라며 인터넷에 올라온 음원 파일입니다. 이런 파일을 윗집을 향해 스피커로 틀면 처벌된다는데, 근거가 뭔지 살펴봅니다. 윗집에서 층간소음을 일으킨다 생각한 40대 부부, 집 천장에 저음을 재생하는 우퍼 스피커를 달았는데요. 그리고는 방금 들으신 가정 소음]]></content>
     </entry>
     <entry>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20221207232206004"/>
         <updated>2022-12-07T15:15:16.365Z</updated>
         <content type="html"><![CDATA[[앵커] 노동조합의 쟁의행위에 손해배상 책임을 제한하는 이른바 '노란봉투법'을 둘러싸고 조사 주체가 어딘지에 따라 정반대의 설문 결과가 나오고 있습니다. 법안 반대가 80%에 달하는 조사도 있는 반면, 찬성이 79%에 이른다는 결과도 있는데요. 왜 이렇게 차이가 나고 뭐가 맞는 건지, 한동오 기자가 따져봤습니다. [기자] [이동근 / 한국경영자총협]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221207210908827</id>
-        <link href="https://v.daum.net/v/20221207210908827"/>
-        <updated>2022-12-07T12:25:19.270Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 화물연대 파업의 중심에는&nbsp;안전운임제가 있습니다. 수출입 컨테이너와 시멘트&nbsp;화물차 기사들에게&nbsp;최소 운임을 보장하는 걸로&nbsp;연말이면&nbsp;법적 효력이 없어지는데,&nbsp;그럼 법을 고칠 수 있는 국회는&nbsp;지난 6월 파업 이후&nbsp;뭘 하고 있던 걸까요. 팩트체크 사실은 코너, 이경원 기자가 짚어봤습니다. &lt;기자&gt; 화물연대의 파업은 올해만 두 번째입니다. 지난 6월에도 했는]]></content>
     </entry>
 </feed>
