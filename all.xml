@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-04T04:17:10.412Z</updated>
+    <updated>2023-01-04T05:13:39.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "국회가 무인기 예산 삭감" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 카카오 먹통 사태로 입은 피해와 불편을 어디까지 보상받을 수 있는지 구체적인 사례별로 짚어보겠습니다. 김도훈 기자가 나와있습니다. 우선 택시 기사들의 피해가 상당히 컸죠? [기자] 그렇습니다. 우리나라 택시 호출앱 시장에서 카카오T 점유율, 약 90%에 달합니다. 지난 주말 내내 앱으로 택시 부르는 손님이 없어서 영업을 거의 하지 못했다는 기사들이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 낮은 의료비 본인부담→과다 의료이용 등 도덕적 해이 발생? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230104135050451</id>
+        <link href="https://v.daum.net/v/20230104135050451"/>
+        <updated>2023-01-04T05:13:39.185Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 정종오 기자] 윤석열정부의 건강보험에 대한 인식은 팩트일까. 윤석열정부는 건강보험 보장성 강화정책이 재정 건전성을 위협한다고 주장한다. 또한 낮은 의료비 본인부담으로 과다 의료이용이 발생하고 이 때문에 도덕적 해이가 벌어지고 있다고 진단한다. 이런 인식을 토대로 정부는 2023년 건강보험 국고지원 예산을 20%에서 14.4% 수준으로 축소 편]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230104070001293</id>
         <link href="https://v.daum.net/v/20230104070001293"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230102170406340"/>
         <updated>2023-01-02T08:18:23.454Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 31일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 말많은 '신년특사', 무원칙·편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 6월부터 '만 나이'로 통일되면 정년 더 늦춰진다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230101071110632</id>
-        <link href="https://v.daum.net/v/20230101071110632"/>
-        <updated>2022-12-31T22:12:31.243Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 이아미 인턴기자 = 지난해 12월 27일 정부가 공포한 '만(滿) 나이 통일법'이 오는 6월 28일부터 시행된다. '만 나이 통일'은 국내에서 여러 가지 나이 계산법이 뒤섞여 쓰이면서 생기는 혼선과 각종 법적·행정적 분쟁을 해소하기 위해 추진한 윤석열 대통령의 대선 공약 중 하나다. 이처럼 나이 셈법이 만 나이로 통일된다는 소]]></content>
     </entry>
 </feed>
