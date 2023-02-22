@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-22T22:13:06.443Z</updated>
+    <updated>2023-02-22T23:14:14.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이재명 '불체포 특권' 포기는 가능할까요 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다. 이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까? [기자] 전혀 그렇지 않습니다. 저희가 엊그제 참사 당시의 순간에 이태원역에 얼마나 모여 있었는지를 추산한 수치를 확인했습니다. 참사가 난 직후인 밤 10시에서 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 그 많던 대중목욕탕은 다 어디로 갔을까…수치로 본 목욕탕史 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230223072324252</id>
+        <link href="https://v.daum.net/v/20230223072324252"/>
+        <updated>2023-02-22T23:14:13.500Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 그 많던 대중목욕탕은 어디로 갔을까. 과거 동네에 한두 개는 으레 있었던 목욕탕은 주말이면 가족이 함께 가던 공간이었지만 하나둘 자취를 감추면서 이제는 찾아보기가 쉽지 않게 됐다. 지금의 30·40대 이상이라면 공중목욕탕의 온탕을 수영장 삼아 놀다가 어른에게 혼이 난 기억이나, 아버지·어머니와 함께 때를 벗겨낸 뒤 달콤한]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트와이] 번개탄 금지로 자살 예방?...실효성 우려·업계 피해 지적도 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230222232210696</id>
         <link href="https://v.daum.net/v/20230222232210696"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230221160606010"/>
         <updated>2023-02-21T07:14:15.103Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;김기현 국민의힘 당대표 후보가 20일 서울 중구 MBN 스튜디오에서 열린  TV토론회를 준비하고 있다.ⓒ 국회사진취재단&nbsp; [검증 대상] "김재철 사장 시절 언론노조 MBC 파업은 불법" "우리 안철수 후보께서는 지난번에 언론노조의 불법 파업을 지지하고 동조하는 친언론 노조 행보를 보이셨고요. 그때 김재철 사장 시절에 언론노조 MBC에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 文정부 ‘단독’ 장관급 인사 임명이 역대 최대다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230221153325709</id>
-        <link href="https://v.daum.net/v/20230221153325709"/>
-        <updated>2023-02-21T07:14:29.015Z</updated>
-        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 주호영 국민의힘 원내대표는 14일 여의도 국회에서 열린 교섭단체대표연설에서 “한국 정치는 여전히 4류임을 부정하기 어렵다”며 국회의 자성을 촉구했다. 타협과 협치의 의회정치 복원을 강조한 주 원내대표는 더불어민주당을 향해선 “의회민주주의를 형해화하고 있다”고 맹공을 퍼부었다. 5선 중진인 주 원내대표는 국회 불신의 이유로 이]]></content>
     </entry>
 </feed>
