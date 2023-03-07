@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-07T11:14:24.402Z</updated>
+    <updated>2023-03-07T12:29:02.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[한동훈 '체포 요청'은 역대 최장? 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다. 이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까? [기자] 전혀 그렇지 않습니다. 저희가 엊그제 참사 당시의 순간에 이태원역에 얼마나 모여 있었는지를 추산한 수치를 확인했습니다. 참사가 난 직후인 밤 10시에서 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사실확인] 유명 연예인 탄 기차·비행기 옆자리 몰래 티케팅…처벌 가능? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230307194945902</id>
+        <link href="https://v.daum.net/v/20230307194945902"/>
+        <updated>2023-03-07T12:29:01.499Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 비행기나 기차 옆자리에 앉은 극성팬이 일거수일투족을 감시한다면, 아무리 연예인이라도 불쾌하겠죠. 그런데 출발 일정과 좌석 위치 등 개인 정보를 몰래 알아내 바로 옆자리를 예매하는 이른바 '비행기 스토킹'은 형사 처벌이 될까요? 이규연 기자가 사실확인에서 알아봤습니다. 【 기자 】 기차를 탈 때마다 평소 SNS에 사진을 올려]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] 세계 최초로 동성결혼 합법화한 나라는 네덜란드다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230307092901921</id>
         <link href="https://v.daum.net/v/20230307092901921"/>
@@ -653,13 +660,6 @@
         <id>https://v.daum.net/v/20230303232432225</id>
         <link href="https://v.daum.net/v/20230303232432225"/>
         <updated>2023-03-03T15:16:48.908Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령의 3·1절 기념사 이후 한일 양국의 과거사 인식을 둘러싼 정치적 논란이 이어졌습니다. 일본에 사과나 반성을 요구하지 않은 첫 3·1절 담화라는 주장까지 나오는데요. 역대 대통령의 3·1절 기념사 30건을 한동오 기자가 분석했습니다. [기자] [윤석열 / 대통령 (3·1절 기념사) : 일본은 과거 군국주의 침략자에서, 우리와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '日 반성' 언급 안 한 건 처음?...대통령 3·1절 기념사 30건 분석 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230303051021456</id>
-        <link href="https://v.daum.net/v/20230303051021456"/>
-        <updated>2023-03-03T03:00:06.766Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령의 3·1절 기념사 이후 한일 양국의 과거사 인식을 둘러싼 정치적 논란이 이어졌습니다. 일본에 사과나 반성을 요구하지 않은 첫 3·1절 담화라는 주장까지 나오는데요. 역대 대통령의 3·1절 기념사 30건을 한동오 기자가 분석했습니다. [기자] [윤석열 / 대통령 (3·1절 기념사) : 일본은 과거 군국주의 침략자에서, 우리와]]></content>
     </entry>
 </feed>
