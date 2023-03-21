@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-21T12:27:09.972Z</updated>
+    <updated>2023-03-21T13:17:36.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["일본은 이미 수십 차례 사과"…따져봐야 할 점 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,10 +593,17 @@
         <content type="html"><![CDATA[[앵커] 그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다. 이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까? [기자] 전혀 그렇지 않습니다. 저희가 엊그제 참사 당시의 순간에 이태원역에 얼마나 모여 있었는지를 추산한 수치를 확인했습니다. 참사가 난 직후인 밤 10시에서 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["노무현도 징용피해 보상금 대위 지급" 김기현 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230321213303712</id>
+        <link href="https://v.daum.net/v/20230321213303712"/>
+        <updated>2023-03-21T13:17:35.392Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김기현 국민의힘 대표가 20일 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다. ⓒ 남소연&nbsp; [검증대상] "노무현, 징용 피해자 보상금 대위 지급 법률 제정" 김기현 대표 발언&nbsp; 김기현 국민의힘 대표는 지난 20일 오전 국민의힘 최고위원회의에서 "노무현 대통령은 2007년에 국민세금으로 조성된 국가재정으로 징용 피해자]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[사실은] "일본은 이미 수십 차례 사과"…따져봐야 할 점 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230321201516811</id>
         <link href="https://v.daum.net/v/20230321201516811"/>
-        <updated>2023-03-21T12:27:09.180Z</updated>
+        <updated>2023-03-21T12:24:08.803Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 윤 대통령은 오늘(21일) 국무회의에서 일본이 이미 수십 차례 과거사 문제에 대해서 반성과 사과를 했다는 말도 했습니다. 앞서 대통령실도 일본이 지금까지 50차례 넘게 사과했다고 밝힌 바가 있는데, 이것이 정말 맞는 말인지 저희 팩트체크 '사실은'팀이 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; 해방 이후 일본 정부의 첫 유감 표현. 1960년 고사]]></content>
     </entry>
     <entry>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230316152721002"/>
         <updated>2023-03-16T07:15:14.153Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 김기현 의원이 국민의힘 당 대표로 새로 선출된 뒤 지난 13일 신임 인사차 윤석열 대통령을 만난 자리에서 매달 두 차례 정기회동을 하기로 의견을 모았다. 대통령과 당 대표 간 정례회동 신설은 국민의힘 전당대회 과정에서 당정 소통 강화 방안으로 거론돼 왔는데 이를 제도화한 것이다. 이에 앞서 김재원 전 의원은 전당대회에서 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 버터 없는 '버터 맥주'…허위·과대 광고일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230316132734512</id>
-        <link href="https://v.daum.net/v/20230316132734512"/>
-        <updated>2023-03-16T05:14:49.099Z</updated>
-        <content type="html"><![CDATA[요즘 편의점에서 불티나게 판매되는 뵈르비어, 이른바 '버터 맥주'. 그런데 이 맥주에 진짜 버터가 들어가는 건 아닙니다. 통상 판매하는 맥주보다 2.5일 정도 짧게 발효시키면 버터 향이 나는 점을 이용한 마케팅인데요. 일부 소비자들은 허위 광고가 아니냐며 문제를 제기했고, 결국 식약처가 제조사에 해당 상품 한 달 제조정지를 사전통보 했고, 맥주를]]></content>
     </entry>
 </feed>
