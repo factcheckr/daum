@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-24T05:14:20.273Z</updated>
+    <updated>2023-03-24T06:19:25.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["일본 수십 차례 사과" 전수 분석해보니…따져봐야 할 점은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다. 이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까? [기자] 전혀 그렇지 않습니다. 저희가 엊그제 참사 당시의 순간에 이태원역에 얼마나 모여 있었는지를 추산한 수치를 확인했습니다. 참사가 난 직후인 밤 10시에서 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 타워크레인 조종사, 강풍 불 때 임의로 조종석 벗어나면 위법? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230324151400001</id>
+        <link href="https://v.daum.net/v/20230324151400001"/>
+        <updated>2023-03-24T06:19:24.707Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부가 건설업계의 오랜 관행인 타워크레인 월례비 지급을 금지하면서 내놓은 타워크레인 조종사들의 태업 방지 대책을 둘러싼 논란이 커지고 있다. 국토교통부는 월례비 지급을 금지한 뒤 공사 현장의 타워크레인 작업 속도가 느려졌다는 건설업체들의 불만이 나오자, 조종사가 안전을 이유로 고의로 작업을 지연하거나 거부하는 경우 '성실의무]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트와이] 노무현 정부 때도 강제동원 '대리 보상'?...당시 기록 살펴보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230324062211090</id>
         <link href="https://v.daum.net/v/20230324062211090"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230321155107489"/>
         <updated>2023-03-21T07:13:43.680Z</updated>
         <content type="html"><![CDATA[친윤석열계인 김정재 국민의힘 의원이 일제 강제동원(징용)과 관련해 “ ‘개인의 청구권은 없다’, ‘일본에 대한 대일 청구권은 없다’고 노무현 대통령께서 직접 얘기했다”고 한 발언은 사실과 다른 보수단체의 성명문 내용을 인용한 것으로 21일 확인됐다. 국민의힘은 이날 강제동원(징용) 피해자에 대한 윤석열 정부의 ‘제3자 변제’ 방안이 노무현 정부 방식과 유사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 응급피임약, 가톨릭계 병원에서는 처방 안 한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230321145453712</id>
-        <link href="https://v.daum.net/v/20230321145453712"/>
-        <updated>2023-03-21T06:17:45.722Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 우혜림 인턴기자 = 최근 한 인터넷 커뮤니티에는 '응급피임약 필요할 때 가톨릭 병원 응급실은 가지 마세요'란 글이 올라와 많은 관심을 끌었다. "가톨릭 계열 병원은 종교적 이유로 응급피임약을 처방하지 않으니 응급피임약을 받아야 할 때는 (이런 병원에) 가지 말라"는 내용이었다. 이 글은 사회관계망서비스(SNS)를 통해서도 많이]]></content>
     </entry>
 </feed>
