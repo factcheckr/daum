@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-05T11:12:49.512Z</updated>
+    <updated>2023-04-05T12:31:32.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["제주 4·3 사건은 공산 폭동" 또 꿈틀…사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다. 이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까? [기자] 전혀 그렇지 않습니다. 저희가 엊그제 참사 당시의 순간에 이태원역에 얼마나 모여 있었는지를 추산한 수치를 확인했습니다. 참사가 난 직후인 밤 10시에서 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[알고보니] 쌀 소비 촉진 대책, 효과 있나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230405201604507</id>
+        <link href="https://v.daum.net/v/20230405201604507"/>
+        <updated>2023-04-05T12:31:31.873Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 이렇게 쌀 소비를 늘려서 재고를 해결 하자는 방안, 처음 나온 얘기가 아닙니다. 과연 이런 '쌀 소비 촉진 방안'이 현실적인 대책이 될 수 있는지, 팩트 체크, 알고 보니, 이준범 기자가 따져봤습니다. ◀ 리포트 ▶ 쌀 소비 운동이 범정부 차원에서 대대적으로 추진된 건 지난 2009년 여름입니다. 2년 연속 대풍년으로 쌀 생산량]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[알고보니] 후쿠시마산 수산물, 국내로 결코 못들어온다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230403203112423</id>
         <link href="https://v.daum.net/v/20230403203112423"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230331131009407"/>
         <updated>2023-03-31T04:17:17.183Z</updated>
         <content type="html"><![CDATA[[앵커] 이번 공직자 재산공개 내역을 보면 고위 관료들이 국내주식을 대부분 매각하고 해외주식은 그대로 보유한 경우를 많이 볼 수 있습니다. 바로 직무 관련성 심사 때문인데요. 해외주식의 경우에는 국내에서 영업하는 회사라도 심사 대상에서 제외되는지 관련 법령을 토대로 신지원 기자가 확인해봤습니다. [기자] 강경성 대통령실 산업정책비서관의 배우자와 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] ‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이” (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230330214754104</id>
-        <link href="https://v.daum.net/v/20230330214754104"/>
-        <updated>2023-03-30T13:20:38.222Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 충청북도는 최근  민선 8기 최대 역점 사업인 '레이크파크 르네상스'의 비전과 정책 과제를 발표했습니다. 충북의 대전환을 이끌 혁신이라 자평했지만, 개별 사업들을  하나하나 살펴보면 기존에 추진하던 것과 별반 다르지 않습니다. 팩트체크K 충북 윤소영 기자입니다. [리포트] 올 가을 준공을 앞두고 공사가 한창인  박물관 공사 현장입니]]></content>
     </entry>
 </feed>
