@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-17T14:12:44.511Z</updated>
+    <updated>2023-05-17T15:13:57.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["매달 420만 원 받는 유공자?" 5·18 소문의 진실 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다. 이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까? [기자] 전혀 그렇지 않습니다. 저희가 엊그제 참사 당시의 순간에 이태원역에 얼마나 모여 있었는지를 추산한 수치를 확인했습니다. 참사가 난 직후인 밤 10시에서 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트와이] '간호법 제정' 윤 대통령 약속 있었나?...당시 발언·공약집 살펴보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230517233121826</id>
+        <link href="https://v.daum.net/v/20230517233121826"/>
+        <updated>2023-05-17T15:13:56.602Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 대통령이 간호법에 대해 거부권을 행사하자 대한간호협회는 대선 후보 때 했던 약속을 어겼다며 반발했습니다. 반면 대통령실과 여당에서는 그런 공약 자체가 없었다는 입장인데요. 법 제정을 통한 간호사 처우 개선이 윤석열 대통령의 후보 시절 약속이었는지, 황윤태 기자가 당시 발언과 공약집을 살펴봤습니다. [기자] 대한간호협회가 용산 대통령]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["매달 420만 원 받는 유공자?" 5·18 소문의 진실 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230517201513778</id>
         <link href="https://v.daum.net/v/20230517201513778"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230512143901430"/>
         <updated>2023-05-12T06:17:45.593Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;윤석열 대통령이 9일 서울 용산 대통령실 청사에서 열린 국무회의에서 개회선언을 하고 있다.ⓒ 연합뉴스[검증대상] "문재인 정부 임대차 3법이 전세 사기 원인" 국민의힘 주장 "집값 급등과 시장 교란을 초래한 과거 정부의 반시장적, 비정상적 정책이 전세 사기의 토양이 되었습니다." 윤석열 대통령은 지난 9일 국무회의 모두 발언에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비버 먹방 소리, 스트레스 17% 감소" 영상은 사실일까 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230511183000148</id>
-        <link href="https://v.daum.net/v/20230511183000148"/>
-        <updated>2023-05-11T10:16:34.503Z</updated>
-        <content type="html"><![CDATA[[강석찬 기자] &nbsp;&nbsp;▲ &nbsp;인스타 @uzzagram - "스트레스를 받을 땐 양배추를 찢어먹는 비버를 보자" 릴스 영상 인스타ⓒ @uzzagram&nbsp; 비버가 흰 양배추 먹는 소리가 스트레스를 17% 줄인다고? 최근 SNS를 통해 '비버가 양배추를 먹는 소리만으로 스트레스가 줄어든다'는 주장이 담긴 영상이 큰 화제를 모으고 있다. 해당 영상에서는 "비버가 흰 양]]></content>
     </entry>
 </feed>
