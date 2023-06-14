@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-14T21:12:50.567Z</updated>
+    <updated>2023-06-14T22:12:53.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[소금값 급등…후쿠시마 오염수발 사재기 때문? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다. 이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까? [기자] 전혀 그렇지 않습니다. 저희가 엊그제 참사 당시의 순간에 이태원역에 얼마나 모여 있었는지를 추산한 수치를 확인했습니다. 참사가 난 직후인 밤 10시에서 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 민사소송 중 개인정보 노출 막을 방법이 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230615061619019</id>
+        <link href="https://v.daum.net/v/20230615061619019"/>
+        <updated>2023-06-14T22:12:52.490Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 우혜림 인턴기자 = 일면식도 없는 20대 여성을 무차별 폭행한 '부산 돌려차기 사건'이 사회적 공분을 일으키고 있다. 더욱이 가해자가 피해자의 개인정보를 취득한 사실이 알려지면서 보복 범죄에 대한 우려까지 나온다. 해당 사건의 피고인 A씨는 지난해 부산 진구에서 귀가하던 피해자 B씨를 폭행한 혐의로 기소돼 1심에서 살인미수 혐의로 12년]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[사실은] 소금값 급등…후쿠시마 오염수발 사재기 때문? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230614204205431</id>
         <link href="https://v.daum.net/v/20230614204205431"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230611080008399"/>
         <updated>2023-06-10T23:12:53.212Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 후쿠시마 제1원자력발전소 오염수 해양 방류를 둘러싼 논란의 불똥이 온라인 동영상 서비스(OTT) 업체인 넷플릭스로 튀었다. 후쿠시마 원전사고를 다룬 일본 드라마 '더 데이스(The Days)'가 넷플릭스를 통해 지난 1일부터 세계 각국에서 공개됐으나 한국은 제외되자 정치적 압력 때문 아니냐는 의혹이 일부 네티즌들 사이에서 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인력 알선 정책이 되레 불법체류자를 양산하나 [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230610140200901</id>
-        <link href="https://v.daum.net/v/20230610140200901"/>
-        <updated>2023-06-10T05:12:20.338Z</updated>
-        <content type="html"><![CDATA["고용허가제가 오히려 불법체류 외국인을 양산하고 있다." 기업과 외국인 노동자 지원단체, 노조를 중심으로 나오는 말입니다. 10년 전(2013) 18만여 명이었던 불법체류자는 꾸준히 늘어  지난해(2022) 41만여 명 으로 2배 넘게 증가했는데 잘못된 정부 정책에서 비롯됐다는 주장입니다. 고용허가제는 적극적 구인 활동에도 불구하고 내국 인력을 구하지]]></content>
     </entry>
 </feed>
