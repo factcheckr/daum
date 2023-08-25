@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-25T08:16:06.393Z</updated>
+    <updated>2023-08-25T09:15:06.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[야스쿠니 신사 논란, 한일 모두 수위 낮췄다? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 저희가 어제(23일)도 보도해드린 것처럼 이번 파업의 핵심은 안전운임제입니다. 실제로 화물차 기사들의 안전에 도움을 줬는지를 놓고 정부와 노조의 해석이 갈리는데요, 정인아 기자와 짚어보겠습니다. 먼저, 정부가 자료를 내놨는데 어떻습니까? [기자] 사고가 2019년에서 제도가 시행된 2020년에는 줄었고 2021년에는 다시 늘었습니다. 그런데, 20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 핵 과학자들이 말하는 오염수 '안전에 문제없어'vs'日本도 모르는 걸?' (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230825171610991</id>
+        <link href="https://v.daum.net/v/20230825171610991"/>
+        <updated>2023-08-25T09:15:05.683Z</updated>
+        <content type="html"><![CDATA[■ 방송 : YTN 라디오 FM 94.5 (13:00~14:00) ■ 진행 : 김우성 PD ■ 방송일 : 2023년 8월 25일 (금요일) ■ 대담 : 백원필 한국원자력학회 회장, 서균렬 서울대 원자핵공학과 명예교수 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 김우성PD(이하 김우]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["검수완박 때문에 지구대 인력 부족" 국힘 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230825132701312</id>
         <link href="https://v.daum.net/v/20230825132701312"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230819074801745"/>
         <updated>2023-08-18T23:12:31.855Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 &lt;뜬금없는 무라벨 생수&gt;가 주제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] “정진석·조현오 사건 서로 다르다” 전주혜 해명…과연? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230818163005429</id>
-        <link href="https://v.daum.net/v/20230818163005429"/>
-        <updated>2023-08-18T08:15:53.116Z</updated>
-        <content type="html"><![CDATA[판사 시절 고 노무현 전 대통령 명예훼손 혐의로 기소된 조현오 전 경찰청장에게 징역 8개월 실형을 선고했던 전주혜 국민의힘 원내대변인이 “정진석 의원 사건과 조 전 청장 사건은 내용이 다르다”는 입장을 밝혔다. 범죄 대상과 죄명은 같지만, 범죄의 형태·검찰의 구형·피고인의 사후 대처 등이 달랐기 때문에 자신의 판결은 정당하지만, 정 의원에게 징역 6개월 실]]></content>
     </entry>
 </feed>
