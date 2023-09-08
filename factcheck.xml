@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-08T11:12:02.292Z</updated>
+    <updated>2023-09-08T12:23:13.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 초등학생 수학여행시 일반 전세번스는 안된다?]]></title>
+        <id>https://v.daum.net/v/20230908201201968</id>
+        <link href="https://v.daum.net/v/20230908201201968"/>
+        <updated>2023-09-08T12:23:12.828Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근, 몇 주 사이 전국 초등학생들의 수학여행이 무더기로 취소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라에서 가장 나이가 많은 연령대는?]]></title>
         <id>https://v.daum.net/v/20230908200714886</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230902074800440"/>
         <updated>2023-09-01T23:12:54.230Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 육군사관학교 경내에 설치된 홍범도 장군 흉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] "정권교체 강화에 최선" 원희룡 발언은 선거법 위반?...과거 사례 따져보니]]></title>
-        <id>https://v.daum.net/v/20230902053407085</id>
-        <link href="https://v.daum.net/v/20230902053407085"/>
-        <updated>2023-09-01T21:11:56.560Z</updated>
-        <content type="html"><![CDATA[[앵커] 내년 4월 총선을 앞두고 원희룡 국토교통부 장관이 보수성향 포럼에서 한 발언이 논란입니다. "정권교체 강화" 같은 선거 관련 발언을 했다가 공무원의 정치적 중립 의무 위반으로 야당으로부터 고발까지 당한 건데요. 실제로 처벌이 가능한지 공직선거법과 사례를 토대로 황윤태 기자가 따져봤습니다. [기자] 지난달 24일 국민의힘 외곽조직이 주최한]]></content>
     </entry>
 </feed>
