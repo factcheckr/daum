@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-20T08:17:18.061Z</updated>
+    <updated>2023-09-20T09:15:29.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[중심에 일본, 한국은 '빙빙' 위성국가? 홈피 이미지, 외교부에 물어봤더니… (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20230920175407920</id>
+        <link href="https://v.daum.net/v/20230920175407920"/>
+        <updated>2023-09-20T09:12:33.700Z</updated>
+        <content type="html"><![CDATA[한국, 일본, 중국. 세 나라 국기로 만든 이미지입니다. 우리 외교부 홈페이지에 나왔던 건데, 일본 국기가 가운데에 있고, 한국과 중국 두 나라 국기가 궤도를 도는 것처럼 보인다. 그래서 외교부가 한국을 일본의 위성국가처럼 만들었다는 비판이 최근 많이 나왔습니다. 또, 한일중 3국 정상회의.&nbsp;어? 한중일 아니었나? 이런 생각하는 분들 꼭 있을 겁니다. "한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초밥 먹기 전 "잠시만요"…방사능 측정기 효과는 (다음 뉴스 ─ SBS 사실은)]]></title>
         <id>https://v.daum.net/v/20230918204207695</id>
@@ -80,13 +87,6 @@
         <link href="https://v.daum.net/v/20230712212120523"/>
         <updated>2023-09-04T09:12:51.211Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 최근 유튜브에 올라온 유명 축구 선수나 감독들의 몇몇 인터뷰 영상을 보면 정말 이런 말을 했나, 싶을 정도의 자극적인 이야기들이 담겨 있습니다. 저희 팩트체크 사실은 팀이 확인해 봤더니 대다수가 조작된 영상이었습니다. 이경원 기자가 전하겠습니다. &lt;기자&gt; 이강인 선수의 파리 생제르맹 입단설이 한창이던 지난달 말, 유튜브에 이런 영상이 올라옵니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이강인 · 손흥민 무시한 중국, 일본 기자? 사실은… (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20230712174204059</id>
-        <link href="https://v.daum.net/v/20230712174204059"/>
-        <updated>2023-09-04T09:12:51.212Z</updated>
-        <content type="html"><![CDATA[영국 프리미어리그 토트넘의 손흥민, 최근 파리 생제르맹으로 이적한 이강인, 바이에른 뮌헨으로 이적이 사실상 확정된 김민재까지 요즘 한국 축구선수들의 활약이 대단합니다. 높은 관심 때문일까요. 요즘 우리 축구 선수들에 대한 해외 유명 감독과 선수들의 인터뷰 영상이 유독 많이 보입니다. 그런데 영상을 보면 정말 맞는 내용인지 의심이 들 때가 있습니다. 가령,]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 정부, 이 와중에 과거사 왜곡‥관동대학살 기록 없다? (다음 뉴스 ─ MBC 알고보니)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 저희가 어제(23일)도 보도해드린 것처럼 이번 파업의 핵심은 안전운임제입니다. 실제로 화물차 기사들의 안전에 도움을 줬는지를 놓고 정부와 노조의 해석이 갈리는데요, 정인아 기자와 짚어보겠습니다. 먼저, 정부가 자료를 내놨는데 어떻습니까? [기자] 사고가 2019년에서 제도가 시행된 2020년에는 줄었고 2021년에는 다시 늘었습니다. 그런데, 20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사실은] 중심에 일본, 한국은 '빙빙' 위성국가? 홈피 이미지, 외교부에 물어봤더니… (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230920175407920</id>
+        <link href="https://v.daum.net/v/20230920175407920"/>
+        <updated>2023-09-20T09:15:28.494Z</updated>
+        <content type="html"><![CDATA[한국, 일본, 중국. 세 나라 국기로 만든 이미지입니다. 우리 외교부 홈페이지에 나왔던 건데, 일본 국기가 가운데에 있고, 한국과 중국 두 나라 국기가 궤도를 도는 것처럼 보인다. 그래서 외교부가 한국을 일본의 위성국가처럼 만들었다는 비판이 최근 많이 나왔습니다. 또, 한일중 3국 정상회의.&nbsp;어? 한중일 아니었나? 이런 생각하는 분들 꼭 있을 겁니다. "한]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美 대선때 ‘개표기 조작’ 음모론 퍼뜨린 폭스, 1조원 배상[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230919120914644</id>
         <link href="https://v.daum.net/v/20230919120914644"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230908201201968"/>
         <updated>2023-09-08T12:23:12.828Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근, 몇 주 사이 전국 초등학생들의 수학여행이 무더기로 취소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라에서 가장 나이가 많은 연령대는? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230908200714886</id>
-        <link href="https://v.daum.net/v/20230908200714886"/>
-        <updated>2023-09-08T11:12:01.213Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의 송영]]></content>
     </entry>
 </feed>
