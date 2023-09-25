@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-25T10:14:15.994Z</updated>
+    <updated>2023-09-25T11:11:30.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["망고 없네" 65억 소송…한국 스타벅스 어떨까 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 저희가 어제(23일)도 보도해드린 것처럼 이번 파업의 핵심은 안전운임제입니다. 실제로 화물차 기사들의 안전에 도움을 줬는지를 놓고 정부와 노조의 해석이 갈리는데요, 정인아 기자와 짚어보겠습니다. 먼저, 정부가 자료를 내놨는데 어떻습니까? [기자] 사고가 2019년에서 제도가 시행된 2020년에는 줄었고 2021년에는 다시 늘었습니다. 그런데, 20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사실확인]"촬영하니 돌아가세요"…무조건 따라야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230925194645525</id>
+        <link href="https://v.daum.net/v/20230925194645525"/>
+        <updated>2023-09-25T11:11:29.780Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 요즘 동네 길거리에서도 영화 촬영을 이유로 길을 막는 상황이 많이 벌어지는데요. 간혹 행인들과 시비까지 붙곤 하는데, 이런 경우 그냥 촬영 협조에 따라야하는 걸까요? 표선우 기자가 사실확인으로 알아봤습니다. 【 기자 】 스쿨존 등굣길을 점거하고, 남의 집 대문 앞에 떡하니 주차를 하곤 통행을 막습니다. 이렇게 최근 시민들의]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[중증장애인이 문고리에 스스로 수갑을 채운 이유[뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230924070506220</id>
         <link href="https://v.daum.net/v/20230924070506220"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230921103011283"/>
         <updated>2023-09-21T01:47:03.447Z</updated>
         <content type="html"><![CDATA[[김시연, 봉주영 기자] ▲ ‘후쿠시마 오염수 괴담’ 논쟁... 정부 vs. 환경단체&nbsp;우리 정부가 9월 KTX, SRT 등 열차 객실에 배포한 '후쿠시마 오염수 10가지 괴담' 자료집 내용에 대해 최경숙 환경운동연합 활동가 반박 인터뷰ⓒ 봉주영&nbsp; "정부는 시민단체를 '오염수 괴담 유포자'라고 공격하고, 오염수 불안에 떠는 시민을 괴담에 휘둘리는 미욱한 사람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피-바나나 괴담 들고나온 윤석열 정부의 오염수 대처 수준 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230921103002257</id>
-        <link href="https://v.daum.net/v/20230921103002257"/>
-        <updated>2023-09-21T01:47:03.447Z</updated>
-        <content type="html"><![CDATA[[김시연, 봉주영 기자] &nbsp;▲ ‘후쿠시마 오염수 괴담’ 논쟁... 정부 vs. 환경단체&nbsp;우리 정부가 9월 KTX, SRT 등 열차 객실에 배포한 '후쿠시마 오염수 10가지 괴담' 자료집 내용에 대해 최경숙 환경운동연합 활동가 반박 인터뷰ⓒ 봉주영&nbsp; 지난 8월 24일 시작된 일본의 후쿠시마 오염수 1차 방류가 9월 11일 종료됐다. 방류 기간 우리    정부]]></content>
     </entry>
 </feed>
