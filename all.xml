@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-18T12:25:55.952Z</updated>
+    <updated>2023-10-18T13:16:45.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['압도적 군사력' 이스라엘…전쟁의 향방은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[서울 서초구 초등학교 교사 사망과 관련해 교권 침해 논란이 계속되고 있습니다. 정부는 대책을 마련하느라 분주합니다. 이주호 부총리 겸 교육부장관은 교원의 교육활동과 다른 학생들의 학습권이 침해되지 않도록, 생활지도 범위와 방식을 규정한 개정 고시안을 8월 안에 마련할 것이라고 밝혔습니다. 그런데 대책이 필요하다는 목소리는 어제오늘 얘기가 아닙니다. 대표적]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[의대 증원 안해도 의사 남아돌게 된다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20231018201310378</id>
+        <link href="https://v.daum.net/v/20231018201310378"/>
+        <updated>2023-10-18T12:25:55.139Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 강력 반대하고 있는 의사 단체들의 논리 중 하나는 지금의 정원을 그대로 둬도 의사는 부족해지지 않을 거라는 겁니다. 저출생으로 인한 빠른 인구 감소 속도를 감안하면, 머지 않아 인구당 의사수가 OECD 평균을 넘기게 돼, 지금 의사를 늘리면 안된다는 건데요. 설득력 있는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[해외도 언론사 상대로 가짜뉴스 단속 강화 중? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20230920200112826</id>
         <link href="https://v.daum.net/v/20230920200112826"/>
@@ -164,13 +171,6 @@
         <link href="https://v.daum.net/v/20230605202510143"/>
         <updated>2023-06-05T12:26:42.245Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근에는 정부가 사회 복지 서비스에도 민간의 경쟁을 조성해 시장화하겠다고 밝혀 논란이 되고 있습니다. [윤석열 대통령(지난달 31일)] "보편복지가 서비스복지로 갈 때의 장점은 이것이 시장화될 수 있고 서비스를 제공하는 쪽에 경쟁을 우리가 조성을 함으로 해서 더 나은 서비스가 만들어질 수 있게 그게 가능해진다는 것이죠." 정부는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[욱일기와 자위함기는 다르다? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20230530203711984</id>
-        <link href="https://v.daum.net/v/20230530203711984"/>
-        <updated>2023-05-30T12:26:26.025Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 일본 자위함이 참가하는 해양차단훈련은 축소됐지만, 전범기인 욱일기를 둘러싼 논란은 계속되고 있습니다. 논란이 일자 우리 국방부는 "자위함기와 욱일기는 차이가 있다며, 두 깃발이 다르다"는 입장을 보였는데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. 자위대 함정의 국내 입항을 앞두고 우리 국방부는 '욱일기' 대신 ']]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외국인이 내국인보다 범죄를 많이 저지를까? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
@@ -596,7 +596,7 @@
         <title type="html"><![CDATA[[팩트체크] 의대 정원 18년째 '3058명'…적정한 수치인가? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231018203513734</id>
         <link href="https://v.daum.net/v/20231018203513734"/>
-        <updated>2023-10-18T12:25:55.137Z</updated>
+        <updated>2023-10-18T12:25:48.138Z</updated>
         <content type="html"><![CDATA[[앵커] 외과, 소아과 같은 곳엔 의사가 부족하고 지방도 의사가 없습니다. 그런데 의대 정원은 18년째 3058명, 그대로입니다. 왜 3058명인 건지, 이게 과연 적정한 숫자인지, 팩트체크로 따져보겠습니다. 유한울 기자가 나와 있습니다. 3058명, 이게 언제 어떻게 만들어진 숫자인가요? [기자] 먼저 2000년으로 거슬러 올라가 보면요. 이때는 그보다]]></content>
     </entry>
     <entry>
