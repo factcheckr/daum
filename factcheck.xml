@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-21T11:12:27.317Z</updated>
+    <updated>2023-11-21T12:26:15.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "사이렌 오더는 취소 안 돼요"…문제 없나 보니]]></title>
+        <id>https://v.daum.net/v/20231121201205586</id>
+        <link href="https://v.daum.net/v/20231121201205586"/>
+        <updated>2023-11-21T12:26:15.290Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 스타벅스에서 매장에 가지 않고도 미리 주문을 할 수 있는 기능을 사용하는 사람들이 많습니다. 그런데 이 '사이렌 오더'는 한 번 주문을 하면 결제 취소가 되지 않아서 소비자들 불만이 커지고 있는데요. 여기에 문제는 없는 것인지 팩트체크 '사실은' 코너에서 따져봤습니다. 박세용 기자입니다. &lt;기자&gt; 스타벅스 '사이렌 오더' 주문 화면입니다. 결제하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["서울 편입 찬성 2배 늘었다?" 김포시 여론조사의 함정 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20231121200602463</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231116060046791"/>
         <updated>2023-11-15T21:12:14.389Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김수지 조서연 인턴기자 = "고객님 매장 이용 시간이 너무 깁니다. 젊은 고객님들은 아예 이쪽으로 안 오고 있어요." 지난 9월 서울의 한 프랜차이즈 카페를 이용하던 노년 고객에게 사장이 건넨 쪽지 내용이다. 각종 온라인 커뮤니티에 해당 내용이 빠르게 퍼지며 '노시니어존'이 화두에 올랐다. 특정 고객의 출입을 제한하는 '노(NO)00존(Z]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구리시가 자치권한 들고 서울 편입? "가능성 제로" [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20231115043211676</id>
-        <link href="https://v.daum.net/v/20231115043211676"/>
-        <updated>2023-11-14T20:14:21.032Z</updated>
-        <content type="html"><![CDATA[“구리특별자치시로 서울에 편입한다고요? 가능성 제로입니다.” 서울 편입 의사를 밝힌 백경현 구리시장이 13일 오세훈 서울시장을 만난 뒤 “행정권과 재정권을 유지하는 ‘특별자치시’ 형태로 편입을 추진하겠다”고 말한 것에 대해 14일 홍준현 중앙대 공공인재학부 교수는 본보 통화에서 이같은 반응을 내놨다. 홍 교수는 국내 유일 특별자치시인 ‘세종특별자치시(20]]></content>
     </entry>
 </feed>
