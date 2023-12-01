@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-01T10:15:02.086Z</updated>
+    <updated>2023-12-01T11:11:59.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열차가 그대로 통과하기도 했죠. 전국장애인차별철폐연대는 올해 내내 시위를 이어가겠다고 했습니다. 취재기자와 함께 전장연의 주장을 팩트체크 해보겠습]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사실확인]연말 앞두고 형형색색 화려한 트리 조명…나무 말려 죽인다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231201193649372</id>
+        <link href="https://v.daum.net/v/20231201193649372"/>
+        <updated>2023-12-01T11:11:58.911Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 성탄절과 연말 분위기를 위한 트리 장식 곳곳에서 볼 수 있는데요. 트리 조명은 아름답지만, 낮인지 밤인지 헷갈리게 해 정작나무를 말라 죽여 치명적일 수 있다는데, 표선우 기자가 사실확인에서 알아봤습니다. 【 기자 】 연말을 앞두고 거리 곳곳에 꾸며진 트리 장식, 보기만 해도 마음을 따뜻하게 만들죠. 그런데 이런 장식들, 나무한테]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크]대규모 손실 우려 홍콩 ELS, '만기연장' 하면 '원금상환'? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231201071506018</id>
         <link href="https://v.daum.net/v/20231201071506018"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20231122063019920"/>
         <updated>2023-11-21T22:12:51.030Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 임윤지 기자 = 지난 17일 서울 노원구의 한 아파트에서 8살 초등학생이 던진 돌멩이에 길을 걸어가던 70대 노인이 맞아 사망한 일이 있었습니다. 하지만 나이가 너무 어려 형사처벌 없이 경찰이 내사 종결을 했는데요. 이에 형사 미성년자 연령 하향을 둘러싸고 다시금 논의에 불씨가 붙었습니다. 소년범 연령 하향 문제는 법조계와 우리 사회에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "사이렌 오더는 취소 안 돼요"…문제 없나 보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231121201205586</id>
-        <link href="https://v.daum.net/v/20231121201205586"/>
-        <updated>2023-11-21T12:24:22.224Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 스타벅스에서 매장에 가지 않고도 미리 주문을 할 수 있는 기능을 사용하는 사람들이 많습니다. 그런데 이 '사이렌 오더'는 한 번 주문을 하면 결제 취소가 되지 않아서 소비자들 불만이 커지고 있는데요. 여기에 문제는 없는 것인지 팩트체크 '사실은' 코너에서 따져봤습니다. 박세용 기자입니다. &lt;기자&gt; 스타벅스 '사이렌 오더' 주문 화면입니다. 결제하고]]></content>
     </entry>
 </feed>
