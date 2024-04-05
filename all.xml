@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-05T05:13:00.617Z</updated>
+    <updated>2024-04-05T06:16:40.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["대화가 안 될 정도"…선거 유세 소음 기준, 알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,10 +593,17 @@
         <content type="html"><![CDATA[[앵커] 정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의해야 한다고 주장하고 있습니다. 이예원 기자와 팩트체크 해보겠습니다. 이 기자, 의협이 어떤 근거로 이런 주장을 하는 건지부터 따져보죠. [기자] 의협은]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[채소값 오른 게 전기요금 때문?…이재명 주장 살펴보니 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240405141407440</id>
+        <link href="https://v.daum.net/v/20240405141407440"/>
+        <updated>2024-04-05T06:16:39.590Z</updated>
+        <content type="html"><![CDATA[더불어민주당이 연일 물가 상승을 고리로 정부·여당을 비판하는 가운데 이재명 대표가 "채소 가격이 오른 제일 큰 이유는 전기요금 때문"이라고 했다. "시설 재배를 해야 해서 에너지 사용이 워낙 많으니까, 전기 요금이 부담되는데 한꺼번에 50%씩 올려버리면 어떻게 견디겠냐"면서다.&nbsp; 이 대표는 5일 충북 보은·옥천·영동·괴산을 방문해 이 지역에 출마한 이재한]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이재명 사진 쓴 민주당 후보는 98명.. '입틀막' 사진은 36명 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240405135417633</id>
         <link href="https://v.daum.net/v/20240405135417633"/>
-        <updated>2024-04-05T05:13:00.018Z</updated>
+        <updated>2024-04-05T05:12:48.850Z</updated>
         <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 여당인 국민의힘에 이어 제1야당인 더불어민주당 후보들의 선거 공보를 살펴봤습니다. &lt;편집자말&gt; [김시연, 이종호 기자] ▲ &nbsp;제22대 총선에서 245]]></content>
     </entry>
     <entry>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240403105400193"/>
         <updated>2024-04-03T07:14:35.028Z</updated>
         <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;원 후보는 "유동수 의원과 차관을 만났다 이렇게 말씀하시는데 허위사실 공표, 과거에 이미 기소됐는데"라며 이 후보가 허위사실 공표로 기소된 전적을 언급했다.ⓒ OBS뉴스 유튜브 갈무리&nbsp; [검증 대상] 이재명 "GTX 노선 관련해 국토부차관-유동수 의원 만나 협의했다" 제1야당 대표와 전직 국토부장관이 맞붙은 '인천 계양을 이재명-원희룡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘의사 연봉 2억6000만원, OECD 1위’라는데…외래진료는 3배 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240402034845004</id>
-        <link href="https://v.daum.net/v/20240402034845004"/>
-        <updated>2024-04-01T19:10:32.438Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 1일 의대 증원을 둘러싼 의료계와 정부 간 갈등과 관련, “논의가 부족했다는 일부 의료계 주장은 왜곡”이라며 “정부 출범 후 37차례에 걸쳐 의사 증원 방안을 협의해 왔다”고 했다. 대한의사협회(의협)와 보건복지부 양자 협의체인 ‘의료 현안 협의체’에서 작년 초부터 19차례 논의하는 등 총 37차례 의사 증원 방안을 협의했다는 것이다. 의정]]></content>
     </entry>
 </feed>
