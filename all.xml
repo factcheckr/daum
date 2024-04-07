@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-07T15:14:03.002Z</updated>
+    <updated>2024-04-07T16:15:45.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["대화가 안 될 정도"…선거 유세 소음 기준, 알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의해야 한다고 주장하고 있습니다. 이예원 기자와 팩트체크 해보겠습니다. 이 기자, 의협이 어떤 근거로 이런 주장을 하는 건지부터 따져보죠. [기자] 의협은]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“앗! 후보 잘못 찍었다”…새 투표용지로 바꿔줄까 [총선 팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240408001500683</id>
+        <link href="https://v.daum.net/v/20240408001500683"/>
+        <updated>2024-04-07T16:15:44.833Z</updated>
+        <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 서울 영등포갑 거주자 오 모씨(27)는 지난 6일 주거지 근처 사전투표소에서 투표에 나섰다 당황스런 일을 겪었다. 투표하려던 후보 대신 다른 후보에게 도장을 찍는 실수를 한 것이다. 이처럼 기표를 잘못한 경우 투표지를 교체할 수 있을까. 매일경제가 투표장에서 생길 수 있는 여러 의문점을 정리해봤다. 7일 중앙선거관리위원회에 따르]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[반복되는 사전투표 조작설… “실체는 없다” [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240408000522561</id>
         <link href="https://v.daum.net/v/20240408000522561"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240404030543031"/>
         <updated>2024-04-07T11:12:52.845Z</updated>
         <content type="html"><![CDATA[김준혁 더불어민주당 경기수원정 국회의원 후보의 ‘이화여대생 성상납’ 발언 여파가 계속되고 있다. 김 후보는 2일 밤 사과했으나 이화여대 총동창회(회장 이명경)는 3일 “당시 여성은 물론 현대의 여성에 이르는 전체 여성에 대한 명백한 비하 의도를 담고 있다”며 후보직 사퇴를 요구했다. 조상호 더불어민주당 법률위원회 부위원장은 김 후보의 사과 후에도 3일 MB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "대화가 안 될 정도"…선거 유세 소음 기준, 알고 보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240403205119095</id>
-        <link href="https://v.daum.net/v/20240403205119095"/>
-        <updated>2024-04-07T11:10:59.738Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 총선이 다가오면서&nbsp;유세 운동 때문에 너무 시끄럽다는 민원이 쏟아지고 있습니다.&nbsp;유세 때 허용되는&nbsp;소음 기준치가 법으로 정해져 있다고 하는데, 왜 매번 이런 일이 반복되는 건지 팩트 체크&nbsp;사실은 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 5일 장 앞에서 유세 중인 차량, 10미터 거리에서 소음을 재봤습니다. [우리 며칠 안 남았습니다. 4]]></content>
     </entry>
 </feed>
