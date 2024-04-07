@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-07T14:13:15.201Z</updated>
+    <updated>2024-04-07T15:14:03.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["대화가 안 될 정도"…선거 유세 소음 기준, 알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의해야 한다고 주장하고 있습니다. 이예원 기자와 팩트체크 해보겠습니다. 이 기자, 의협이 어떤 근거로 이런 주장을 하는 건지부터 따져보죠. [기자] 의협은]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[반복되는 사전투표 조작설… “실체는 없다” [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240408000522561</id>
+        <link href="https://v.daum.net/v/20240408000522561"/>
+        <updated>2024-04-07T15:14:02.419Z</updated>
+        <content type="html"><![CDATA[4·10 총선을 앞두고 서울 부산 등 전국 사전투표소 40여곳에 카메라를 설치해 구속된 40대 유튜버는 “부정선거가 의심된다”고 주장했다. 2013년 도입된 사전투표 제도는 해마다 투표율이 높아지고 있지만, 그 이면에는 부정선거를 의심하는 일부의 시선이 여전하다. 전문가들은 22대 총선에서도 본투표(10일) 이후 선거 결과에 따라 부정선거 의혹이 분출될]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[4.10 총선 팩트체크] 앗! 후보 잘못 찍었다 … 어떻게 해야할까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240407174813315</id>
         <link href="https://v.daum.net/v/20240407174813315"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240403205119095"/>
         <updated>2024-04-07T11:10:59.738Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 총선이 다가오면서&nbsp;유세 운동 때문에 너무 시끄럽다는 민원이 쏟아지고 있습니다.&nbsp;유세 때 허용되는&nbsp;소음 기준치가 법으로 정해져 있다고 하는데, 왜 매번 이런 일이 반복되는 건지 팩트 체크&nbsp;사실은 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 5일 장 앞에서 유세 중인 차량, 10미터 거리에서 소음을 재봤습니다. [우리 며칠 안 남았습니다. 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 사진 쓴 후보 '77명'뿐... 대통령 사라진 국힘 선거공보 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240403165101810</id>
-        <link href="https://v.daum.net/v/20240403165101810"/>
-        <updated>2024-04-07T11:12:41.419Z</updated>
-        <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 현직 대통령을 앞세운 여당 후보가 당선에 유리할까요? 지난 2020년 21대 총선 당시 여당이었던 더불어민주당에 이어, 22대 총선 국민의힘 후보들의]]></content>
     </entry>
 </feed>
