@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-03T12:25:19.051Z</updated>
+    <updated>2024-05-03T13:16:33.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[몽롱한데 음주측정은 0%…술에 어떤 성분 있길래 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 3년 뒤, 2027년부터는 소방관을 채용하는 체력시험에서 남녀 응시자가 같은 기준을 적용받게 되는데요. 여성에게 불리한 것 아니냐는 지적이 나왔는데, 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 현재 소방관 체력시험 종목은 윗몸일으키기, 악력, 배근력, 제자리멀리뛰기 등 여섯 종목입니다. 모두 남녀 채점 기준이 다른데]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[채상병 특검법이 나쁜 선례 남긴다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20240503202517952</id>
+        <link href="https://v.daum.net/v/20240503202517952"/>
+        <updated>2024-05-03T12:25:18.509Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 채상병 특검법을 반대하는 대통령실과 여당은 주로 절차적인 문제를 지적하고 있습니다. 특검의 도입 시점과 법안 통과 과정 등이 적절하지 않아, 이대로 시행되면 나쁜 선례를 남기게 된다는 건데요. 맞는 얘기인지, 팩트체크 알고보니에서 따져봤습니다. ◀ 리포트 ▶ 대통령실과 여당은 우선 경찰과 공수처에서 채상병 사건을 수사중이라며,]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이태원 특별법, 조사위에 영장청구권 준다? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20240430203114745</id>
         <link href="https://v.daum.net/v/20240430203114745"/>
@@ -164,13 +171,6 @@
         <link href="https://v.daum.net/v/20231227203411944"/>
         <updated>2024-04-07T11:11:08.658Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 개정된 군 장병 정신전력 교육 교재가 이승만 전 대통령을 일방적으로 미화했다는 논란이 일자, 국방부는 동의할 수 없다고 반박했습니다. [전하규/국방부 대변인 (어제)] "전혀 동의할 수 없습니다. 지금 이것은 2019년도 교재에도 이승만 대통령과 관련된 언급이 10여 차례 이상 있습니다." 기존 교재에도 이 전 대통령 관련 내용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 그 후‥반란에 맞선 대가는? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20231212201006474</id>
-        <link href="https://v.daum.net/v/20231212201006474"/>
-        <updated>2024-04-07T11:11:08.659Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 12.12 당시 군인의 본분을 지키며 반란군에 맞섰던 핵심 인물들은 이후 오랜 세월 분노와 고통 속에 수모를 견뎌야 했습니다. 군사 반란 이후 달라진 그들의 삶을 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ [영화 '서울의 봄'] "너희가 지금 서울로 진입하면 그 즉시 전쟁이야." 12.12 당시 병력을 동원해 반란을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘상급종합병원·물류비·버스요금’…실현 가능한 공약? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
