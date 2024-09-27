@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-27T22:15:35.258Z</updated>
+    <updated>2024-09-27T23:15:43.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[학교 안 '폰 금지'는 인권침해?…다른 나라는 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[윤석열 대통령이 '순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의 임명 등에 관한 법률안'(이하 채상병 특검법안)에 대해 두번째 재의요구권(거부권)을 행사했습니다. 이에 더불어민주당은 오는 19일 채상병 순직 1주기를 앞두고 “국민을 상대로 선전 포고를 한 것”이라며 재의결을 예고했고, 국민의힘은 “민주주의 원칙을 훼손한 반헌법적]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["유승준, 관광비자로 오면 되잖아"..대표적 가짜뉴스[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240928080001894</id>
+        <link href="https://v.daum.net/v/20240928080001894"/>
+        <updated>2024-09-27T23:15:43.028Z</updated>
+        <content type="html"><![CDATA[가수 유승준의 비자 신청을 주LA총영사관이 다시 거절한 것으로 알려지면서 논란이 반복되고 있다. 2015년 처음으로 주LA총영사관이 유승준의 F-4(재외동포체류)비자 신청을 거부한 이후 이번이 벌써 세번째다. 주LA총영사관은 지난 6월 18일자로 유승준이 지난 2월 신청했던 사증(비자)발급에 대해 거부처분 통보를 했다. 앞서 비자발급거부 취소 소송에서 두]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트체크] 반려동물 보유세, 도입 필요할까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240927160141922</id>
         <link href="https://v.daum.net/v/20240927160141922"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240915213600731"/>
         <updated>2024-09-15T13:18:55.729Z</updated>
         <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 09월 14일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) &gt; 지난&nbsp;한 주간 있었던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] "응급실 뺑뺑이에 국민 죽어나가"는 가짜 뉴스? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240913201005451</id>
-        <link href="https://v.daum.net/v/20240913201005451"/>
-        <updated>2024-09-13T11:14:27.006Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 연휴 기간 응급실 진료에 대한 우려가 커지는 상황에서 한덕수 국무총리는 어제 응급실 뺑뺑이로 사망자가 속출한다는 건 가짜 뉴스라고 주장했습니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. ◀ 리포트 ▶ 어제, 국회 대정부질문. 응급실 뺑뺑이 사망에 대한 질문을 받자 한덕수 국무총리는 과장됐다고 반박했습니다.]]></content>
     </entry>
 </feed>
