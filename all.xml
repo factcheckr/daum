@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-29T01:17:48.926Z</updated>
+    <updated>2024-09-29T02:54:23.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[학교 안 '폰 금지'는 인권침해?…다른 나라는 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[윤석열 대통령이 '순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의 임명 등에 관한 법률안'(이하 채상병 특검법안)에 대해 두번째 재의요구권(거부권)을 행사했습니다. 이에 더불어민주당은 오는 19일 채상병 순직 1주기를 앞두고 “국민을 상대로 선전 포고를 한 것”이라며 재의결을 예고했고, 국민의힘은 “민주주의 원칙을 훼손한 반헌법적]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 한 번 쯤 들어본 '선풍기 사망설', 왜 생겼을까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240929105100057</id>
+        <link href="https://v.daum.net/v/20240929105100057"/>
+        <updated>2024-09-29T02:54:23.174Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 09월 14일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 지난&nbsp;한 주간 있었던]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["유승준, 관광비자로 오면 되잖아"..대표적 가짜뉴스[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240928080001894</id>
         <link href="https://v.daum.net/v/20240928080001894"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240916180639064"/>
         <updated>2024-09-16T09:20:34.644Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;독일 바덴-뷔템베르크주 화학수의검사청(CVUA)은 지난 2월 6일 ‘해조류의 요오드는 좋은 공급원인가’라는 제목의 보고서에서 “요오드는 필수 미량원소이지만 과량 섭취 시 건강에 해로울 수 있다”고 경고했다.ⓒ CVUA요즘 독일에서 말린 미역 같은 한국산 수산물을 구하기 어렵다는 제보가 들어왔습니다. 독일과 한국을 자주 오가는 A씨는 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 추석 전 응급의료에 대한 우려, 정부와 야당의 엇갈린 시선 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240915213600731</id>
-        <link href="https://v.daum.net/v/20240915213600731"/>
-        <updated>2024-09-15T13:18:55.729Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 09월 14일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) &gt; 지난&nbsp;한 주간 있었던]]></content>
     </entry>
 </feed>
