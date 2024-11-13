@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-12T23:15:36.262Z</updated>
+    <updated>2024-11-13T01:10:53.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 윤석열 대통령은 어제(10일) 이번 추석 연휴에는 지난 설이나 예년에 비해 훨씬 많은 병의원이 당직의료기관으로 신청해 줬다며, 정부의 안내에 따라주면 걱정 없이 의료 서비스를 받을 수 있다고 강조했습니다. 이희령 기자가 팩트체크 해봤습니다. [기자] 정부는 이번 추석 연휴 동안 하루 평균 8000곳 가까운 병원이 문을 연다고 했습니다. [정윤순/보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 수능일에 미역국 먹으면 안 되나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241113081812654</id>
+        <link href="https://v.daum.net/v/20241113081812654"/>
+        <updated>2024-11-13T01:10:53.304Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 가까워지면 SNS와 온라인 커뮤니티에는 '수능 날 피해야 할 음식'이라는 게시물을 쉽게 볼 수 있다. 시험 볼 때 사회 통념상 미역국처럼 피하는 음식이 있는가 하면 특정 음식은 수험생에게 복통과 설사 등 위장 장애를 일으켜 자칫 시험을 망칠 수 있다. 반면 어떤 음식은 수험생의 집중력을 높여준]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“한국은 판례를 개별 사안 판결로 본다”는 경찰청장···맞는 말일까[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241112162846601</id>
         <link href="https://v.daum.net/v/20241112162846601"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20241107200213648"/>
         <updated>2024-11-07T11:14:35.944Z</updated>
         <content type="html"><![CDATA[[앵커] 윤 대통령은 미국 정치와 비교하면서 "야당이 탄핵 소추를 남발한다" 그래서 국회에 안 갔다고 밝혔습니다. 그러나 이걸 반박하는 게 바로 트럼프 당선인입니다. 트럼프는 지난 임기 때 탄핵 소추를 두 번이나 당하고도 의회 연설을 했기 때문입니다. 박소연 기자가 윤 대통령의 이 발언도 팩트체크했습니다. [기자] 윤석열 대통령은 야당이 탄핵소추와 특검법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 특검은 위헌? 일사부재리 위배?…대통령이 밝힌 거부 이유 짚어보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241107195844573</id>
-        <link href="https://v.daum.net/v/20241107195844573"/>
-        <updated>2024-11-07T11:14:35.944Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤 대통령은 이렇게 사실상 김 여사에 대한 특검을 거부하며 같은 사건에 대해 다시 재판을 청구하지 않는 '일사부재리 원칙'을 언급했고 미국을 예로 들며 특검엔 위헌적 요소가 있다고 했습니다. 하지만 윤 대통령 스스로 이명박 전 대통령을 다시 수사해 끝내 구속시키고 유죄를 받아낸 바 있습니다. 윤 대통령의 발언, 연지환 기자가 팩트체크 했습니다.]]></content>
     </entry>
 </feed>
