@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-11T22:17:05.505Z</updated>
+    <updated>2024-12-11T23:16:44.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[생수병 라벨 수능 부정행위로 적발됐다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[■ "추석 민생안정 대책에서 발표된 전통시장 소비 촉진 온누리 상품권 발행 확대 동행 축제 할인 행사 등을 적극 추진하겠습니다. 수출에 비해 국내 소비 회복이 더딥니다. 우리 대기업들이 올 추석 명절에 온누리 상품권을 구매해서 상생과 내수 진작에 도움이 될 수 있도록 많이 협조해 주시기를 간곡히 부탁드립니다" (8월 29일, 윤석열 대통령 국정브리핑)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 음주운전 처벌은 관대한 편이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241212072008384</id>
+        <link href="https://v.daum.net/v/20241212072008384"/>
+        <updated>2024-12-11T23:16:44.121Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 연말연시를 맞아 송년회·신년회 등 술자리가 잦아지면서 운전자라면 절대 해서는 안 되는 음주운전이 해마다 사회 문제로 떠오르고 있다. 도로교통공단 교통사고분석시스템(TAAS) 등에 따르면 지난해 음주운전은 13만여건 적발됐다. 이에 따른 교통사고 사망자와 부상자는 각각 159명과 2만628명으로 집계됐다. 음주운전 재범률은]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[알고보니] 대통령 탄핵이 헌정 중단·국가 혼란 부른다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241211203406195</id>
         <link href="https://v.daum.net/v/20241211203406195"/>
@@ -150,12 +157,5 @@
         <link href="https://v.daum.net/v/20241209153003027"/>
         <updated>2024-12-09T07:19:36.407Z</updated>
         <content type="html"><![CDATA[윤석열 대통령의 비상계엄 선포 직전 김용현 전 국방부장관은 계엄군 일부를 경기도 과천의 중앙선거관리위원회(이하 선관위)로 보내 점거했습니다. 선관위 본청뿐 아니라 수원 선관위 연수원과 서울 관악구 여론조사심의위원회 등에도 진입했습니다. 계엄군들이 선관위에서 서버 사진을 찍는 등의 모습이 선관위 내부 CCTV 등을 통해 공개됐습니다. 김용현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 교실까지 파고든 온라인 도박…어리면 처벌 안 받나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241209072007725</id>
-        <link href="https://v.daum.net/v/20241209072007725"/>
-        <updated>2024-12-08T23:16:06.316Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 중독성이 강한 온라인 도박이 최근 10대 청소년 사이에 빠르게 퍼지고 있다. 경찰청이 지난 11월 초 발표한 청소년 사이버 도박 검거 실태에 따르면 만 9세 어린이까지도 사이버 도박에 손을 댔다가 경찰에 붙잡히기도 했다. 과거 몇몇 학생들이 교과서 위 동전을 뒤집던 '판치기' 수준을 넘어, 이제는 성인에게도 부담스러운 금액]]></content>
     </entry>
 </feed>
