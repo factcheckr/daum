@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-13T03:21:35.859Z</updated>
+    <updated>2025-02-13T04:19:38.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[생수병 라벨 수능 부정행위로 적발됐다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -89,7 +89,14 @@
         <content type="html"><![CDATA[■ "추석 민생안정 대책에서 발표된 전통시장 소비 촉진 온누리 상품권 발행 확대 동행 축제 할인 행사 등을 적극 추진하겠습니다. 수출에 비해 국내 소비 회복이 더딥니다. 우리 대기업들이 올 추석 명절에 온누리 상품권을 구매해서 상생과 내수 진작에 도움이 될 수 있도록 많이 협조해 주시기를 간곡히 부탁드립니다" (8월 29일, 윤석열 대통령 국정브리핑)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩트체크]이재명 "52시간 예외 인정+주4일제"..가능할까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <title type="html"><![CDATA["문형배 재판관이 음란물에 댓글 달았다" 주장은 '새빨간 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250213130300355</id>
+        <link href="https://v.daum.net/v/20250213130300355"/>
+        <updated>2025-02-13T04:19:38.188Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;문형배 헌법재판소장 권한대행이 13일 서울 종로구 헌법재판소에서 열린 '윤석열 대통령 탄핵심판 8차 변론'에 참석해 자리하고 있다.ⓒ 사진공동취재단윤석열 대통령 탄핵심판을 진행 중인 헌법재판관의 개인 신상을 겨냥한 일부 윤석열 지지자와 국민의힘의 마타도어가 도를 넘고 있다. 일부 보수 성향 인터넷매체는 지난 11일 문형배 헌법재판관(헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 "52시간 예외 인정+주4일제"..가능할까?[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250213121215405</id>
         <link href="https://v.daum.net/v/20250213121215405"/>
         <updated>2025-02-13T03:21:35.200Z</updated>
@@ -150,12 +157,5 @@
         <link href="https://v.daum.net/v/20250212091445223"/>
         <updated>2025-02-12T01:11:52.673Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 학령 인구 감소로 충북의 대학 신입생도 갈수록 줄어들고 있는데요. 외국에서 온 유학생은 눈에 띄게 늘고 있습니다. 지역 대학, 나아가 충북의 존립을 위한 유학생 유치도 활발한데요. 팩트체크 K, 먼저 우리 대학가의 실상을 민수아 기자가 보도합니다. [리포트] 저출생 여파로 해마다 눈에 띄게 줄어드는 학령 인구. 그마저도 수도권 명문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라에서 우표가 사라진다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250212072009582</id>
-        <link href="https://v.daum.net/v/20250212072009582"/>
-        <updated>2025-02-11T23:17:56.362Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 40~50대 이상이라면 어릴 적에 우표를 붙여 친구나 친척 등에게 마음을 담아 편지를 보낸 추억을 대부분 갖고 있다. 이처럼 우표는 불과 20~30년 전만 해도 중요한 송달 수단인 우편의 요금을 낸 표시로 우편물에 붙이는 증표였다. 하지만 이제는 온라인 커뮤니티 등에서는 우표 관련 얘기가 나오면 "아직도 우표를 쓰나"",]]></content>
     </entry>
 </feed>
